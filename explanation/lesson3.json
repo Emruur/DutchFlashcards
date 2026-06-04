@@ -1,0 +1,2173 @@
+{
+  "301": {
+    "explanation": "This word describes something that is not beautiful or pleasing to look at. It is the opposite of 'mooi' (beautiful).",
+    "examples": [
+      {
+        "dutch": "Die stoel is lelijk.",
+        "english": "That chair is ugly."
+      },
+      {
+        "dutch": "Ik vind die kleur lelijk.",
+        "english": "I find that color ugly."
+      }
+    ]
+  },
+  "302": {
+    "explanation": "This means not good, of poor quality, or incorrect. It's the opposite of 'goed' (good).",
+    "examples": [
+      {
+        "dutch": "Het weer is slecht vandaag.",
+        "english": "The weather is bad today."
+      },
+      {
+        "dutch": "Die appel is slecht.",
+        "english": "That apple is bad."
+      }
+    ]
+  },
+  "303": {
+    "explanation": "This word refers to a great extent in length. When talking about people, it means tall.",
+    "examples": [
+      {
+        "dutch": "Mijn haar is lang.",
+        "english": "My hair is long."
+      },
+      {
+        "dutch": "De man is lang.",
+        "english": "The man is tall."
+      }
+    ]
+  },
+  "304": {
+    "explanation": "This describes something that has a small length or is not tall for people. It is the opposite of 'lang'.",
+    "examples": [
+      {
+        "dutch": "De weg is kort.",
+        "english": "The road is short."
+      },
+      {
+        "dutch": "Zij heeft kort haar.",
+        "english": "She has short hair."
+      }
+    ]
+  },
+  "305": {
+    "explanation": "This word means not hard or firm to the touch, or it can describe a low volume or slow speed.",
+    "examples": [
+      {
+        "dutch": "De kat is zacht.",
+        "english": "The cat is soft."
+      },
+      {
+        "dutch": "Praat zacht, alsjeblieft.",
+        "english": "Speak softly, please."
+      }
+    ]
+  },
+  "306": {
+    "explanation": "This word can describe something that is firm or solid, a loud sound, or a fast speed.",
+    "examples": [
+      {
+        "dutch": "De steen is hard.",
+        "english": "The stone is hard."
+      },
+      {
+        "dutch": "Hij rent erg hard.",
+        "english": "He runs very fast."
+      }
+    ]
+  },
+  "307": {
+    "explanation": "This describes someone who has a lot of money, possessions, or valuable things. It's the opposite of 'arm'.",
+    "examples": [
+      {
+        "dutch": "Die familie is erg rijk.",
+        "english": "That family is very rich."
+      },
+      {
+        "dutch": "Hij is een rijke man.",
+        "english": "He is a rich man."
+      }
+    ]
+  },
+  "308": {
+    "explanation": "This describes someone who does not have much money or possessions. It's the opposite of 'rijk'.",
+    "examples": [
+      {
+        "dutch": "Zij is een arme vrouw.",
+        "english": "She is a poor woman."
+      },
+      {
+        "dutch": "Veel mensen zijn arm in dat land.",
+        "english": "Many people are poor in that country."
+      }
+    ]
+  },
+  "309": {
+    "explanation": "This describes something that holds your attention and makes you want to know more about it. It is the opposite of 'saai'.",
+    "examples": [
+      {
+        "dutch": "Het boek is interessant.",
+        "english": "The book is interesting."
+      },
+      {
+        "dutch": "Dat is een interessant idee.",
+        "english": "That is an interesting idea."
+      }
+    ]
+  },
+  "310": {
+    "explanation": "This describes something that is dull and doesn't hold your attention or interest. It's the opposite of 'interessant'.",
+    "examples": [
+      {
+        "dutch": "De film is saai.",
+        "english": "The movie is boring."
+      },
+      {
+        "dutch": "Ik vind dit werk saai.",
+        "english": "I find this work boring."
+      }
+    ]
+  },
+  "311": {
+    "explanation": "This word can refer to brightness (having a lot of light) or a low weight.",
+    "examples": [
+      {
+        "dutch": "De kamer is erg licht.",
+        "english": "The room is very light."
+      },
+      {
+        "dutch": "Deze doos is licht.",
+        "english": "This box is light."
+      }
+    ]
+  },
+  "312": {
+    "explanation": "This describes a lack of light or a deep, low-light color. It is the opposite of 'licht'.",
+    "examples": [
+      {
+        "dutch": "Het is donker buiten.",
+        "english": "It is dark outside."
+      },
+      {
+        "dutch": "Ik hou van donkere kleuren.",
+        "english": "I like dark colors."
+      }
+    ]
+  },
+  "313": {
+    "explanation": "This describes a low temperature or feeling chilled. It's the opposite of 'warm'.",
+    "examples": [
+      {
+        "dutch": "Het is koud vandaag.",
+        "english": "It is cold today."
+      },
+      {
+        "dutch": "Ik heb het koud.",
+        "english": "I am cold."
+      }
+    ]
+  },
+  "314": {
+    "explanation": "This describes a high temperature or feeling pleasant heat. It's the opposite of 'koud'.",
+    "examples": [
+      {
+        "dutch": "Het is warm hier.",
+        "english": "It is warm here."
+      },
+      {
+        "dutch": "De thee is warm.",
+        "english": "The tea is warm."
+      }
+    ]
+  },
+  "315": {
+    "explanation": "This refers to something that has existed for a long time or a person of advanced age. It's the opposite of 'nieuw' (new) or 'jong' (young).",
+    "examples": [
+      {
+        "dutch": "Mijn auto is oud.",
+        "english": "My car is old."
+      },
+      {
+        "dutch": "Hij is een oude man.",
+        "english": "He is an old man."
+      }
+    ]
+  },
+  "316": {
+    "explanation": "This means not intelligent or foolish, describing someone or something that lacks common sense.",
+    "examples": [
+      {
+        "dutch": "Dat was een stom idee.",
+        "english": "That was a stupid idea."
+      },
+      {
+        "dutch": "Hij zegt soms stomme dingen.",
+        "english": "He sometimes says stupid things."
+      }
+    ]
+  },
+  "317": {
+    "explanation": "This describes a state of peace and quiet, or a person who is calm and not agitated.",
+    "examples": [
+      {
+        "dutch": "De straat is rustig.",
+        "english": "The street is quiet."
+      },
+      {
+        "dutch": "Blijf rustig, alsjeblieft.",
+        "english": "Stay calm, please."
+      }
+    ]
+  },
+  "318": {
+    "explanation": "This refers to a great distance upwards or a position far above the ground. It is the opposite of 'laag'.",
+    "examples": [
+      {
+        "dutch": "De berg is hoog.",
+        "english": "The mountain is high."
+      },
+      {
+        "dutch": "Het plafond is hoog.",
+        "english": "The ceiling is high."
+      }
+    ]
+  },
+  "319": {
+    "explanation": "This refers to a small distance upwards or a position close to the ground. It is the opposite of 'hoog'.",
+    "examples": [
+      {
+        "dutch": "Het water is laag.",
+        "english": "The water is low."
+      },
+      {
+        "dutch": "De tafel is erg laag.",
+        "english": "The table is very low."
+      }
+    ]
+  },
+  "320": {
+    "explanation": "This describes something that is characteristic or representative of a certain kind, group, or person.",
+    "examples": [
+      {
+        "dutch": "Dat is typisch Nederlands weer.",
+        "english": "That is typical Dutch weather."
+      },
+      {
+        "dutch": "Zijn gedrag is typisch voor hem.",
+        "english": "His behavior is typical for him."
+      }
+    ]
+  },
+  "321": {
+    "explanation": "This word describes something that is large in size. It can refer to objects, animals, or even ideas.",
+    "examples": [
+      {
+        "dutch": "De hond is groot.",
+        "english": "The dog is big."
+      },
+      {
+        "dutch": "Ik woon in een groot huis.",
+        "english": "I live in a big house."
+      }
+    ]
+  },
+  "322": {
+    "explanation": "This adjective means something is free from dirt or stains. It refers to a state of being clean.",
+    "examples": [
+      {
+        "dutch": "Mijn kamer is schoon.",
+        "english": "My room is clean."
+      },
+      {
+        "dutch": "De glazen zijn schoon.",
+        "english": "The glasses are clean."
+      }
+    ]
+  },
+  "323": {
+    "explanation": "This word is the opposite of 'schoon' and means something is not clean, often covered in dirt or grime.",
+    "examples": [
+      {
+        "dutch": "Mijn handen zijn vuil.",
+        "english": "My hands are dirty."
+      },
+      {
+        "dutch": "De auto is erg vuil.",
+        "english": "The car is very dirty."
+      }
+    ]
+  },
+  "324": {
+    "explanation": "This adjective describes someone or something as kind, sweet, or endearing. It's often used for children or pets, but can also describe a kind gesture.",
+    "examples": [
+      {
+        "dutch": "Zij is een lief meisje.",
+        "english": "She is a lovely girl."
+      },
+      {
+        "dutch": "Wat lief van jou!",
+        "english": "How kind of you!"
+      }
+    ]
+  },
+  "325": {
+    "explanation": "This word is used to describe a child or pet that is behaving badly or mischievously. It means 'naughty'.",
+    "examples": [
+      {
+        "dutch": "De kat is stout, hij krabt aan de bank.",
+        "english": "The cat is naughty, it scratches the sofa."
+      },
+      {
+        "dutch": "Was je stout vandaag?",
+        "english": "Were you naughty today?"
+      }
+    ]
+  },
+  "326": {
+    "explanation": "'Vies' can mean both 'dirty' (similar to 'vuil') and 'disgusting' or 'unpleasant,' especially regarding taste, smell, or general feeling.",
+    "examples": [
+      {
+        "dutch": "Dit eten is vies.",
+        "english": "This food is disgusting."
+      },
+      {
+        "dutch": "Mijn schoenen zijn vies van de modder.",
+        "english": "My shoes are dirty from the mud."
+      }
+    ]
+  },
+  "327": {
+    "explanation": "This versatile word primarily means 'tasty' or 'delicious' for food, but can also mean 'nice,' 'pleasant,' or 'comfortable' in other contexts.",
+    "examples": [
+      {
+        "dutch": "De soep is erg lekker.",
+        "english": "The soup is very tasty."
+      },
+      {
+        "dutch": "Het weer is lekker vandaag.",
+        "english": "The weather is nice today."
+      }
+    ]
+  },
+  "328": {
+    "explanation": "This adjective describes someone who lacks courage or is easily frightened. It implies a sense of weakness or fearfulness.",
+    "examples": [
+      {
+        "dutch": "Hij is een laffe man.",
+        "english": "He is a cowardly man."
+      },
+      {
+        "dutch": "Dat was een laffe actie.",
+        "english": "That was a cowardly action."
+      }
+    ]
+  },
+  "329": {
+    "explanation": "This is a very common Dutch word describing a feeling of cosiness, warmth, friendliness, or a pleasant atmosphere. It can refer to places, people, or events.",
+    "examples": [
+      {
+        "dutch": "Het is hier heel gezellig.",
+        "english": "It is very cosy here."
+      },
+      {
+        "dutch": "We hadden een gezellige avond.",
+        "english": "We had a sociable evening."
+      }
+    ]
+  },
+  "330": {
+    "explanation": "This is the opposite of 'gezellig' and describes a lack of cosiness, warmth, or a pleasant atmosphere. It can mean cheerless, unwelcoming, or dull.",
+    "examples": [
+      {
+        "dutch": "De kamer is ongezellig zonder bloemen.",
+        "english": "The room is cheerless without flowers."
+      },
+      {
+        "dutch": "Ik vind het ongezellig om alleen te zijn.",
+        "english": "I find it cheerless to be alone."
+      }
+    ]
+  },
+  "331": {
+    "explanation": "This adjective describes something or someone that has a large circumference or is thick. It can refer to people, objects, or even books.",
+    "examples": [
+      {
+        "dutch": "De kat is een beetje dik.",
+        "english": "The cat is a little fat."
+      },
+      {
+        "dutch": "Ik lees een dik boek.",
+        "english": "I am reading a thick book."
+      }
+    ]
+  },
+  "332": {
+    "explanation": "This is the opposite of 'dik' and describes something or someone that is slender or has a small circumference. It can refer to people, objects, or materials.",
+    "examples": [
+      {
+        "dutch": "Zij is een dunne vrouw.",
+        "english": "She is a thin woman."
+      },
+      {
+        "dutch": "De muren zijn dun.",
+        "english": "The walls are thin."
+      }
+    ]
+  },
+  "333": {
+    "explanation": "This word means 'beautiful,' 'magnificent,' or 'gorgeous.' It is a strong adjective used to express great admiration for something's appearance.",
+    "examples": [
+      {
+        "dutch": "Wat een prachtige jurk!",
+        "english": "What a beautiful dress!"
+      },
+      {
+        "dutch": "Het uitzicht is prachtig.",
+        "english": "The view is magnificent."
+      }
+    ]
+  },
+  "334": {
+    "explanation": "This adjective describes something that is newly made, gathered, or caught, and therefore in good condition. It is often used for food.",
+    "examples": [
+      {
+        "dutch": "Ik koop vers brood.",
+        "english": "I buy fresh bread."
+      },
+      {
+        "dutch": "Deze bloemen zijn heel vers.",
+        "english": "These flowers are very fresh."
+      }
+    ]
+  },
+  "335": {
+    "explanation": "This is a color, the color of grass or leaves. It is one of the primary colors of nature.",
+    "examples": [
+      {
+        "dutch": "Het gras is groen.",
+        "english": "The grass is green."
+      },
+      {
+        "dutch": "Ik heb een groene trui.",
+        "english": "I have a green sweater."
+      }
+    ]
+  },
+  "336": {
+    "explanation": "This verb means to pay attention to sounds with your ears. You can listen to music, people, or nature.",
+    "examples": [
+      {
+        "dutch": "Ik luister naar de radio.",
+        "english": "I listen to the radio."
+      },
+      {
+        "dutch": "Luister goed naar de leraar.",
+        "english": "Listen carefully to the teacher."
+      }
+    ]
+  },
+  "337": {
+    "explanation": "This is a fixed phrase meaning that you feel the need to eat food. It is used to express that you are hungry.",
+    "examples": [
+      {
+        "dutch": "Ik heb honger.",
+        "english": "I am hungry."
+      },
+      {
+        "dutch": "Heb je honger?",
+        "english": "Are you hungry?"
+      }
+    ]
+  },
+  "338": {
+    "explanation": "This verb means to operate a vehicle, like a car or bicycle, or to travel in one. It can also mean to ride.",
+    "examples": [
+      {
+        "dutch": "Ik rij elke dag naar mijn werk.",
+        "english": "I drive to work every day."
+      },
+      {
+        "dutch": "Hij kan goed autorijden.",
+        "english": "He can drive a car well."
+      }
+    ]
+  },
+  "339": {
+    "explanation": "This verb means to be in an upright position on your feet. It can also describe the stable position of an object.",
+    "examples": [
+      {
+        "dutch": "Ik sta hier te wachten.",
+        "english": "I am standing here waiting."
+      },
+      {
+        "dutch": "De stoel staat in de hoek.",
+        "english": "The chair is in the corner."
+      }
+    ]
+  },
+  "340": {
+    "explanation": "This verb means to cook food using dry heat, especially in an oven, like bread or cakes. It can also mean to fry, as in 'een ei bakken' (to fry an egg).",
+    "examples": [
+      {
+        "dutch": "Mijn moeder bakt een taart.",
+        "english": "My mother bakes a cake."
+      },
+      {
+        "dutch": "Zullen we koekjes bakken?",
+        "english": "Shall we bake cookies?"
+      }
+    ]
+  },
+  "341": {
+    "explanation": "This verb means to rest your body and mind, usually in bed, for a period of time. It's what you do at night.",
+    "examples": [
+      {
+        "dutch": "Ik wil slapen.",
+        "english": "I want to sleep."
+      },
+      {
+        "dutch": "De baby slaapt veel.",
+        "english": "The baby sleeps a lot."
+      }
+    ]
+  },
+  "342": {
+    "explanation": "This verb means to create something, to build, or to prepare something. You use it when you produce an item or an outcome.",
+    "examples": [
+      {
+        "dutch": "Ik maak een taart.",
+        "english": "I am making a cake."
+      },
+      {
+        "dutch": "Zij maken hun huiswerk.",
+        "english": "They are doing their homework."
+      }
+    ]
+  },
+  "343": {
+    "explanation": "This verb means to find pleasure or satisfaction in something. You often use 'van' (of/from) after it when talking about what you enjoy.",
+    "examples": [
+      {
+        "dutch": "Ik geniet van het zonnetje.",
+        "english": "I enjoy the sun."
+      },
+      {
+        "dutch": "Wij genieten van onze vakantie.",
+        "english": "We enjoy our holiday."
+      }
+    ]
+  },
+  "344": {
+    "explanation": "This verb means to be suspended from above, or to attach something in that way. Think of a coat on a hook.",
+    "examples": [
+      {
+        "dutch": "De jas hangt aan de kapstok.",
+        "english": "The coat hangs on the coat rack."
+      },
+      {
+        "dutch": "Ik hang een foto aan de muur.",
+        "english": "I hang a photo on the wall."
+      }
+    ]
+  },
+  "345": {
+    "explanation": "This verb means to receive something, or to obtain something. It can be a gift, a letter, or a new skill.",
+    "examples": [
+      {
+        "dutch": "Ik krijg een cadeau.",
+        "english": "I get a gift."
+      },
+      {
+        "dutch": "Wij krijgen vandaag bezoek.",
+        "english": "We are getting visitors today."
+      }
+    ]
+  },
+  "346": {
+    "explanation": "This is a fixed phrase meaning to go to a shop, usually a supermarket, to buy food and other household items. It's the action of grocery shopping.",
+    "examples": [
+      {
+        "dutch": "Ik moet boodschappen doen.",
+        "english": "I have to do grocery shopping."
+      },
+      {
+        "dutch": "Wij doen elke zaterdag boodschappen.",
+        "english": "We do grocery shopping every Saturday."
+      }
+    ]
+  },
+  "347": {
+    "explanation": "This verb means to acquire something by paying money for it. You use it when you exchange money for goods.",
+    "examples": [
+      {
+        "dutch": "Ik koop een nieuw boek.",
+        "english": "I buy a new book."
+      },
+      {
+        "dutch": "Zij koopt verse groenten.",
+        "english": "She buys fresh vegetables."
+      }
+    ]
+  },
+  "348": {
+    "explanation": "This verb means to discover something, either physically or by opinion, or to locate something that was lost. It can also mean 'to think' or 'to consider'.",
+    "examples": [
+      {
+        "dutch": "Ik vind het een goed idee.",
+        "english": "I find it a good idea."
+      },
+      {
+        "dutch": "Waar vind ik de supermarkt?",
+        "english": "Where do I find the supermarket?"
+      }
+    ]
+  },
+  "349": {
+    "explanation": "This phrase means to desire something or to feel like doing something. When followed by a noun (e.g., food or drink), use 'in'.",
+    "examples": [
+      {
+        "dutch": "Ik heb zin in koffie.",
+        "english": "I'm in the mood for coffee."
+      },
+      {
+        "dutch": "Heb jij zin om te wandelen?",
+        "english": "Do you feel like walking?"
+      }
+    ]
+  },
+  "350": {
+    "explanation": "This modal verb means to be allowed to do something, or to have permission. It's similar to 'may' or 'can' in English, but focuses on permission.",
+    "examples": [
+      {
+        "dutch": "Je mag naar huis gaan.",
+        "english": "You may go home."
+      },
+      {
+        "dutch": "Mogen we binnenkomen?",
+        "english": "May we come in?"
+      }
+    ]
+  },
+  "351": {
+    "explanation": "This verb means to have a certain price, or to require a certain amount of money to buy. You use it to ask or state the price of something.",
+    "examples": [
+      {
+        "dutch": "Hoeveel kost dit brood?",
+        "english": "How much does this bread cost?"
+      },
+      {
+        "dutch": "De schoenen kosten veel geld.",
+        "english": "The shoes cost a lot of money."
+      }
+    ]
+  },
+  "352": {
+    "explanation": "This verb means to give money for something you buy or for a service you received. It's the action of settling a debt.",
+    "examples": [
+      {
+        "dutch": "Ik betaal de rekening.",
+        "english": "I pay the bill."
+      },
+      {
+        "dutch": "Kun je contant betalen?",
+        "english": "Can you pay in cash?"
+      }
+    ]
+  },
+  "353": {
+    "explanation": "This verb specifically means to pay using a debit card and a PIN code. It's a very common way to pay in the Netherlands.",
+    "examples": [
+      {
+        "dutch": "Ik wil graag pinnen.",
+        "english": "I would like to pay with a debit card."
+      },
+      {
+        "dutch": "Kunnen we hier pinnen?",
+        "english": "Can we pay with a debit card here?"
+      }
+    ]
+  },
+  "354": {
+    "explanation": "This verb means to prepare food, for example by cooking, baking, or cutting ingredients. It's the process of getting a meal ready.",
+    "examples": [
+      {
+        "dutch": "Ik bereid het avondeten.",
+        "english": "I prepare dinner."
+      },
+      {
+        "dutch": "Zij bereidt een salade.",
+        "english": "She prepares a salad."
+      }
+    ]
+  },
+  "355": {
+    "explanation": "This verb means to pour away liquid, usually water, from cooked food like pasta or potatoes. You use a colander for this.",
+    "examples": [
+      {
+        "dutch": "Kun je de pasta afgieten?",
+        "english": "Can you drain the pasta?"
+      },
+      {
+        "dutch": "Ik giet het water af.",
+        "english": "I drain off the water."
+      }
+    ]
+  },
+  "356": {
+    "explanation": "This verb means to remove the outer skin or peel from fruits or vegetables, like potatoes or apples. You use a peeler or a knife for this.",
+    "examples": [
+      {
+        "dutch": "Ik moet de appels schillen.",
+        "english": "I need to peel the apples."
+      },
+      {
+        "dutch": "Wie schilt de aardappels?",
+        "english": "Who peels the potatoes?"
+      }
+    ]
+  },
+  "357": {
+    "explanation": "This verb means to crush food, usually cooked potatoes or other vegetables, with a tool to make a smooth mixture. It's common for dishes like 'stamppot'.",
+    "examples": [
+      {
+        "dutch": "Wij stampen de aardappels.",
+        "english": "We mash the potatoes."
+      },
+      {
+        "dutch": "Ik stamp de groenten fijn.",
+        "english": "I mash the vegetables finely."
+      }
+    ]
+  },
+  "358": {
+    "explanation": "This verb means to add something to an existing mixture or group, often an ingredient in a recipe. You put more of something into it.",
+    "examples": [
+      {
+        "dutch": "Voeg zout toe aan het water.",
+        "english": "Add salt to the water."
+      },
+      {
+        "dutch": "Ik voeg kruiden toe.",
+        "english": "I add herbs."
+      }
+    ]
+  },
+  "359": {
+    "explanation": "This is a noun for a common, round fruit with red, green, or yellow skin. It grows on trees and is often eaten raw.",
+    "examples": [
+      {
+        "dutch": "Ik eet een appel.",
+        "english": "I eat an apple."
+      },
+      {
+        "dutch": "De appel is rood.",
+        "english": "The apple is red."
+      }
+    ]
+  },
+  "360": {
+    "explanation": "This noun refers to a staple food made from flour, water, and yeast, often baked in a loaf. It can mean a single slice or an entire loaf.",
+    "examples": [
+      {
+        "dutch": "Ik eet brood met kaas.",
+        "english": "I eat bread with cheese."
+      },
+      {
+        "dutch": "Wij kopen een heel brood.",
+        "english": "We buy a whole loaf of bread."
+      }
+    ]
+  },
+  "361": {
+    "explanation": "An 'ei' is an egg, a common food item often eaten for breakfast or used in baking.",
+    "examples": [
+      {
+        "dutch": "Ik eet een ei voor het ontbijt.",
+        "english": "I eat an egg for breakfast."
+      },
+      {
+        "dutch": "Het ei is wit.",
+        "english": "The egg is white."
+      }
+    ]
+  },
+  "362": {
+    "explanation": "A 'hamburger' is a patty of ground meat, usually beef, served in a bun. It's a popular fast food dish.",
+    "examples": [
+      {
+        "dutch": "Ik wil een hamburger met kaas.",
+        "english": "I want a hamburger with cheese."
+      },
+      {
+        "dutch": "De hamburger is lekker.",
+        "english": "The hamburger is tasty."
+      }
+    ]
+  },
+  "363": {
+    "explanation": "A 'wortel' is a carrot, a long, orange root vegetable that is sweet and crunchy.",
+    "examples": [
+      {
+        "dutch": "Ik eet graag een wortel.",
+        "english": "I like to eat a carrot."
+      },
+      {
+        "dutch": "De wortel is oranje.",
+        "english": "The carrot is orange."
+      }
+    ]
+  },
+  "364": {
+    "explanation": "A 'taart' is a pie or cake, a sweet baked dish often served as a dessert.",
+    "examples": [
+      {
+        "dutch": "Ik eet een stuk taart.",
+        "english": "I eat a piece of pie/cake."
+      },
+      {
+        "dutch": "De taart is erg zoet.",
+        "english": "The pie/cake is very sweet."
+      }
+    ]
+  },
+  "365": {
+    "explanation": "A 'tomaat' is a tomato, a red fruit often used as a vegetable in cooking, for example in salads or sauces.",
+    "examples": [
+      {
+        "dutch": "De salade heeft een tomaat.",
+        "english": "The salad has a tomato."
+      },
+      {
+        "dutch": "Ik snijd de tomaat.",
+        "english": "I cut the tomato."
+      }
+    ]
+  },
+  "366": {
+    "explanation": "'Kaas' is cheese, a food made from milk that comes in many varieties and is often eaten on bread.",
+    "examples": [
+      {
+        "dutch": "Ik eet kaas op mijn brood.",
+        "english": "I eat cheese on my bread."
+      },
+      {
+        "dutch": "De kaas is geel.",
+        "english": "The cheese is yellow."
+      }
+    ]
+  },
+  "367": {
+    "explanation": "A 'courgette' is a zucchini, a green summer squash often used in Mediterranean cooking.",
+    "examples": [
+      {
+        "dutch": "De courgette is een groene groente.",
+        "english": "The zucchini is a green vegetable."
+      },
+      {
+        "dutch": "Ik kook met courgette.",
+        "english": "I cook with zucchini."
+      }
+    ]
+  },
+  "368": {
+    "explanation": "An 'aardappel' is a potato, a starchy root vegetable that is a staple food in many cultures.",
+    "examples": [
+      {
+        "dutch": "Ik eet graag aardappels.",
+        "english": "I like to eat potatoes."
+      },
+      {
+        "dutch": "De aardappel is groot.",
+        "english": "The potato is big."
+      }
+    ]
+  },
+  "369": {
+    "explanation": "'Vlees' means meat, which is animal flesh used as food.",
+    "examples": [
+      {
+        "dutch": "Ik eet geen vlees.",
+        "english": "I don't eat meat."
+      },
+      {
+        "dutch": "Het vlees is lekker.",
+        "english": "The meat is tasty."
+      }
+    ]
+  },
+  "370": {
+    "explanation": "A 'biefstuk' is a steak, a thick slice of meat, typically beef, grilled or fried.",
+    "examples": [
+      {
+        "dutch": "Ik bestel een biefstuk.",
+        "english": "I order a steak."
+      },
+      {
+        "dutch": "De biefstuk is rood.",
+        "english": "The steak is rare."
+      }
+    ]
+  },
+  "371": {
+    "explanation": "A 'rookworst' is a smoked sausage, a traditional Dutch sausage often served with stamppot.",
+    "examples": [
+      {
+        "dutch": "Ik eet rookworst met stamppot.",
+        "english": "I eat smoked sausage with mashed potatoes and vegetables."
+      },
+      {
+        "dutch": "De rookworst is warm.",
+        "english": "The smoked sausage is warm."
+      }
+    ]
+  },
+  "372": {
+    "explanation": "'Melk' is milk, a white liquid produced by mammals and often drunk or used in cooking.",
+    "examples": [
+      {
+        "dutch": "Ik drink melk elke dag.",
+        "english": "I drink milk every day."
+      },
+      {
+        "dutch": "De melk is koud.",
+        "english": "The milk is cold."
+      }
+    ]
+  },
+  "373": {
+    "explanation": "'Boter' is butter, a dairy product made from churned cream, used for spreading or cooking.",
+    "examples": [
+      {
+        "dutch": "Ik smeer boter op mijn brood.",
+        "english": "I spread butter on my bread."
+      },
+      {
+        "dutch": "De boter is zacht.",
+        "english": "The butter is soft."
+      }
+    ]
+  },
+  "374": {
+    "explanation": "'Mosterd' is mustard, a spicy condiment made from mustard seeds, often served with meat or cheese.",
+    "examples": [
+      {
+        "dutch": "Ik eet mosterd bij de worst.",
+        "english": "I eat mustard with the sausage."
+      },
+      {
+        "dutch": "De mosterd is scherp.",
+        "english": "The mustard is sharp/hot."
+      }
+    ]
+  },
+  "375": {
+    "explanation": "'Spekjes' are small pieces of bacon, often fried until crispy and added to dishes like salads or soups.",
+    "examples": [
+      {
+        "dutch": "Ik voeg spekjes toe aan de salade.",
+        "english": "I add bacon pieces to the salad."
+      },
+      {
+        "dutch": "De spekjes zijn krokant.",
+        "english": "The bacon pieces are crispy."
+      }
+    ]
+  },
+  "376": {
+    "explanation": "'Worst' is sausage, ground meat mixed with spices, typically encased.",
+    "examples": [
+      {
+        "dutch": "Ik eet een broodje worst.",
+        "english": "I eat a sausage sandwich."
+      },
+      {
+        "dutch": "Deze worst is pittig.",
+        "english": "This sausage is spicy."
+      }
+    ]
+  },
+  "377": {
+    "explanation": "'Yoghurt' is a dairy product made by fermenting milk, often eaten for breakfast or as a snack.",
+    "examples": [
+      {
+        "dutch": "Ik eet yoghurt met fruit.",
+        "english": "I eat yoghurt with fruit."
+      },
+      {
+        "dutch": "De yoghurt is lekker fris.",
+        "english": "The yoghurt is nicely fresh."
+      }
+    ]
+  },
+  "378": {
+    "explanation": "'Vla' is a traditional Dutch custard, a liquid dessert made from milk, sugar, and egg or cornstarch.",
+    "examples": [
+      {
+        "dutch": "Ik eet vla als toetje.",
+        "english": "I eat custard as a dessert."
+      },
+      {
+        "dutch": "De vla is vanille.",
+        "english": "The custard is vanilla."
+      }
+    ]
+  },
+  "379": {
+    "explanation": "A 'pak' is a carton or package, a container for liquids like milk or juice, or for dry goods.",
+    "examples": [
+      {
+        "dutch": "Ik koop een pak melk.",
+        "english": "I buy a carton of milk."
+      },
+      {
+        "dutch": "Het pak is leeg.",
+        "english": "The carton is empty."
+      }
+    ]
+  },
+  "380": {
+    "explanation": "A 'fles' is a bottle, a container, typically made of glass or plastic, used for liquids.",
+    "examples": [
+      {
+        "dutch": "Ik drink water uit een fles.",
+        "english": "I drink water from a bottle."
+      },
+      {
+        "dutch": "De fles is vol.",
+        "english": "The bottle is full."
+      }
+    ]
+  },
+  "381": {
+    "explanation": "De limonadesiroop is a concentrated sweet liquid that you mix with water to make a drink, often called lemonade or squash.",
+    "examples": [
+      {
+        "dutch": "Ik doe limonadesiroop in mijn water.",
+        "english": "I put lemonade syrup in my water."
+      },
+      {
+        "dutch": "De kinderen drinken graag limonadesiroop.",
+        "english": "The children like to drink lemonade syrup."
+      }
+    ]
+  },
+  "382": {
+    "explanation": "De eetlepel is a large spoon, bigger than a teaspoon, often used for eating soup or serving food. It's also a common unit for measuring ingredients when cooking.",
+    "examples": [
+      {
+        "dutch": "Voeg twee eetlepels suiker toe.",
+        "english": "Add two tablespoons of sugar."
+      },
+      {
+        "dutch": "Ik eet soep met een eetlepel.",
+        "english": "I eat soup with a tablespoon."
+      }
+    ]
+  },
+  "383": {
+    "explanation": "Het recept can mean instructions for preparing food, like for a cake. It can also refer to a doctor's note for medicine, a prescription.",
+    "examples": [
+      {
+        "dutch": "Heb je het recept voor die taart?",
+        "english": "Do you have the recipe for that cake?"
+      },
+      {
+        "dutch": "De dokter gaf mij een recept voor medicijnen.",
+        "english": "The doctor gave me a prescription for medicine."
+      }
+    ]
+  },
+  "384": {
+    "explanation": "De kost refers to food, often in a general sense, or to the means of living. It implies providing for one's sustenance.",
+    "examples": [
+      {
+        "dutch": "Goed eten is belangrijke kost.",
+        "english": "Good food is important sustenance."
+      },
+      {
+        "dutch": "Ze werkt hard voor haar kost.",
+        "english": "She works hard for her living/food."
+      }
+    ]
+  },
+  "385": {
+    "explanation": "De kosten refers to the money you have to pay for something. It's always used in the plural.",
+    "examples": [
+      {
+        "dutch": "Wat zijn de kosten van dit boek?",
+        "english": "What are the costs of this book?"
+      },
+      {
+        "dutch": "De kosten voor boodschappen zijn hoog.",
+        "english": "The costs for groceries are high."
+      }
+    ]
+  },
+  "386": {
+    "explanation": "De kantine is a place in a school, office, or factory where meals and drinks are sold and eaten, usually at a reduced price.",
+    "examples": [
+      {
+        "dutch": "Wij lunchen elke dag in de kantine.",
+        "english": "We have lunch in the canteen every day."
+      },
+      {
+        "dutch": "De kantine heeft lekkere broodjes.",
+        "english": "The canteen has tasty sandwiches."
+      }
+    ]
+  },
+  "387": {
+    "explanation": "De groenteboer is a person or a shop that sells fresh vegetables and often fruit.",
+    "examples": [
+      {
+        "dutch": "Ik koop mijn aardappelen bij de groenteboer.",
+        "english": "I buy my potatoes from the greengrocer."
+      },
+      {
+        "dutch": "De groenteboer heeft verse sla.",
+        "english": "The greengrocer has fresh lettuce."
+      }
+    ]
+  },
+  "388": {
+    "explanation": "De slager is a person who sells meat, or the shop where meat is sold.",
+    "examples": [
+      {
+        "dutch": "De slager heeft lekker vlees.",
+        "english": "The butcher has good meat."
+      },
+      {
+        "dutch": "Ik ga naar de slager voor kip.",
+        "english": "I go to the butcher for chicken."
+      }
+    ]
+  },
+  "389": {
+    "explanation": "De supermarkt is a large store where you can buy a wide variety of food, drinks, and household products.",
+    "examples": [
+      {
+        "dutch": "Ik koop mijn boodschappen in de supermarkt.",
+        "english": "I buy my groceries in the supermarket."
+      },
+      {
+        "dutch": "De supermarkt is open tot negen uur.",
+        "english": "The supermarket is open until nine o'clock."
+      }
+    ]
+  },
+  "390": {
+    "explanation": "Het winkelmandje is a small basket, often made of plastic or wire, that you use in a shop to carry the items you want to buy.",
+    "examples": [
+      {
+        "dutch": "Ik pak een winkelmandje in de winkel.",
+        "english": "I grab a shopping basket in the store."
+      },
+      {
+        "dutch": "Het winkelmandje is vol.",
+        "english": "The shopping basket is full."
+      }
+    ]
+  },
+  "391": {
+    "explanation": "De kassa is the place in a shop where you pay for your items. It can also refer to the machine used to process payments.",
+    "examples": [
+      {
+        "dutch": "Ik sta in de rij bij de kassa.",
+        "english": "I am in line at the checkout."
+      },
+      {
+        "dutch": "De kassière scant de producten bij de kassa.",
+        "english": "The cashier scans the products at the checkout."
+      }
+    ]
+  },
+  "392": {
+    "explanation": "De bakker is a person who bakes bread, cakes, and other pastries. It can also refer to the shop where these items are sold.",
+    "examples": [
+      {
+        "dutch": "Ik koop vers brood bij de bakker.",
+        "english": "I buy fresh bread from the baker."
+      },
+      {
+        "dutch": "De bakker maakt heerlijke taarten.",
+        "english": "The baker makes delicious cakes."
+      }
+    ]
+  },
+  "393": {
+    "explanation": "Het toetje is a sweet dish served at the end of a meal, also known as dessert.",
+    "examples": [
+      {
+        "dutch": "Na het eten krijgen we een lekker toetje.",
+        "english": "After dinner, we get a nice dessert."
+      },
+      {
+        "dutch": "Wat is jouw favoriete toetje?",
+        "english": "What is your favorite dessert?"
+      }
+    ]
+  },
+  "394": {
+    "explanation": "De stem refers to the sound produced when you speak or sing. It can also mean a vote in an election.",
+    "examples": [
+      {
+        "dutch": "Ze heeft een mooie stem.",
+        "english": "She has a beautiful voice."
+      },
+      {
+        "dutch": "Ik geef mijn stem aan die partij.",
+        "english": "I give my vote to that party."
+      }
+    ]
+  },
+  "395": {
+    "explanation": "De moeder is a female parent; the woman who gave birth to a child or raised one.",
+    "examples": [
+      {
+        "dutch": "Mijn moeder kookt het avondeten.",
+        "english": "My mother cooks dinner."
+      },
+      {
+        "dutch": "De moeder leest een boek voor haar kind.",
+        "english": "The mother reads a book for her child."
+      }
+    ]
+  },
+  "396": {
+    "explanation": "Het gezicht is the front part of a person's head, including the eyes, nose, and mouth.",
+    "examples": [
+      {
+        "dutch": "Ze heeft een vriendelijk gezicht.",
+        "english": "She has a friendly face."
+      },
+      {
+        "dutch": "Was je gezicht met water.",
+        "english": "Wash your face with water."
+      }
+    ]
+  },
+  "397": {
+    "explanation": "De persoon is an individual human being.",
+    "examples": [
+      {
+        "dutch": "Deze persoon is mijn vriend.",
+        "english": "This person is my friend."
+      },
+      {
+        "dutch": "Er waren veel personen op het feest.",
+        "english": "There were many people at the party."
+      }
+    ]
+  },
+  "398": {
+    "explanation": "Het kussen is a soft cushion or bag filled with material, used to support your head when sleeping or as decoration on a couch.",
+    "examples": [
+      {
+        "dutch": "Ik slaap graag op een zacht kussen.",
+        "english": "I like to sleep on a soft pillow."
+      },
+      {
+        "dutch": "Het kussen ligt op de bank.",
+        "english": "The pillow is on the couch."
+      }
+    ]
+  },
+  "399": {
+    "explanation": "De tekst refers to written words in a book, document, or on a screen.",
+    "examples": [
+      {
+        "dutch": "Lees de tekst goed.",
+        "english": "Read the text carefully."
+      },
+      {
+        "dutch": "De tekst van het liedje is mooi.",
+        "english": "The lyrics of the song are beautiful."
+      }
+    ]
+  },
+  "400": {
+    "explanation": "De zin can mean a grammatical sentence (like this one) or a feeling of desire or inclination for something.",
+    "examples": [
+      {
+        "dutch": "Maak een Nederlandse zin.",
+        "english": "Make a Dutch sentence."
+      },
+      {
+        "dutch": "Ik heb zin in koffie.",
+        "english": "I feel like having coffee."
+      }
+    ]
+  },
+  "401": {
+    "explanation": "\"Het hok\" can mean a small shed or pen for animals. In this context, it refers to a dog house, where a dog lives outside.",
+    "examples": [
+      {
+        "dutch": "De hond slaapt in het hok.",
+        "english": "The dog sleeps in the dog house."
+      },
+      {
+        "dutch": "Het hok is nieuw en groot.",
+        "english": "The dog house is new and big."
+      }
+    ]
+  },
+  "402": {
+    "explanation": "\"Het meervoud\" refers to the grammatical form of a word used when there is more than one of something. For example, 'cats' is the plural of 'cat'.",
+    "examples": [
+      {
+        "dutch": "Wat is het meervoud van 'boek'?",
+        "english": "What is the plural of 'book'?"
+      },
+      {
+        "dutch": "Wij leren het meervoud in de les.",
+        "english": "We learn the plural in class."
+      }
+    ]
+  },
+  "403": {
+    "explanation": "\"De brief\" is a written message sent to someone, usually by post. You can write a letter to a friend or family member.",
+    "examples": [
+      {
+        "dutch": "Ik schrijf een brief aan mijn oma.",
+        "english": "I am writing a letter to my grandma."
+      },
+      {
+        "dutch": "Heb jij de brief ontvangen?",
+        "english": "Did you receive the letter?"
+      }
+    ]
+  },
+  "404": {
+    "explanation": "\"De roos\" is a beautiful flower, often with thorns on its stem. Roses come in many colors, like red, white, or yellow.",
+    "examples": [
+      {
+        "dutch": "Ik geef jou een rode roos.",
+        "english": "I give you a red rose."
+      },
+      {
+        "dutch": "De roos ruikt lekker.",
+        "english": "The rose smells nice."
+      }
+    ]
+  },
+  "405": {
+    "explanation": "\"Het tijdschrift\" is a publication with articles and pictures, often published weekly or monthly. You can read about different topics in a magazine.",
+    "examples": [
+      {
+        "dutch": "Lees jij graag een tijdschrift?",
+        "english": "Do you like to read a magazine?"
+      },
+      {
+        "dutch": "Dit tijdschrift is erg interessant.",
+        "english": "This magazine is very interesting."
+      }
+    ]
+  },
+  "406": {
+    "explanation": "\"De fiets\" is a two-wheeled vehicle that you ride by pedaling. Many people in the Netherlands use a bike every day.",
+    "examples": [
+      {
+        "dutch": "Mijn fiets is blauw.",
+        "english": "My bike is blue."
+      },
+      {
+        "dutch": "Ik ga met de fiets naar mijn werk.",
+        "english": "I go to work by bike."
+      }
+    ]
+  },
+  "407": {
+    "explanation": "\"De tekening\" is a picture made with pencils, crayons, or pens. Children often make drawings at school.",
+    "examples": [
+      {
+        "dutch": "De jongen maakt een mooie tekening.",
+        "english": "The boy makes a beautiful drawing."
+      },
+      {
+        "dutch": "Hang de tekening aan de muur.",
+        "english": "Hang the drawing on the wall."
+      }
+    ]
+  },
+  "408": {
+    "explanation": "\"De boodschap\" has two main meanings: a message you want to convey, or groceries you buy. People often say \"boodschappen doen\" for grocery shopping.",
+    "examples": [
+      {
+        "dutch": "Ik heb een belangrijke boodschap voor jou.",
+        "english": "I have an important message for you."
+      },
+      {
+        "dutch": "Ga je boodschappen doen?",
+        "english": "Are you going to do groceries?"
+      }
+    ]
+  },
+  "409": {
+    "explanation": "\"De jas\" is a piece of clothing you wear over other clothes to keep warm or dry. You put on your jacket when it's cold outside.",
+    "examples": [
+      {
+        "dutch": "Mijn jas hangt aan de kapstok.",
+        "english": "My jacket hangs on the coat rack."
+      },
+      {
+        "dutch": "Doe je jas aan, het is koud!",
+        "english": "Put on your jacket, it's cold!"
+      }
+    ]
+  },
+  "410": {
+    "explanation": "\"De pet\" is a type of hat with a brim, often worn to protect from the sun or as a fashion accessory. Many people wear a cap during sports.",
+    "examples": [
+      {
+        "dutch": "Hij draagt een rode pet.",
+        "english": "He wears a red cap."
+      },
+      {
+        "dutch": "Mijn pet is te klein.",
+        "english": "My cap is too small."
+      }
+    ]
+  },
+  "411": {
+    "explanation": "\"De tas\" is a container made of soft material like fabric or leather, used for carrying things. You can put your books in a bag.",
+    "examples": [
+      {
+        "dutch": "Waar is mijn tas?",
+        "english": "Where is my bag?"
+      },
+      {
+        "dutch": "Zij heeft een grote tas vol boeken.",
+        "english": "She has a big bag full of books."
+      }
+    ]
+  },
+  "412": {
+    "explanation": "\"De klok\" is an instrument that shows the time, often found on a wall or a tower. The clock helps us to be on time.",
+    "examples": [
+      {
+        "dutch": "De klok hangt aan de muur.",
+        "english": "The clock hangs on the wall."
+      },
+      {
+        "dutch": "Hoe laat is het op de klok?",
+        "english": "What time is it on the clock?"
+      }
+    ]
+  },
+  "413": {
+    "explanation": "\"De kus\" is an act of touching with the lips as a sign of love, affection, or greeting. People often give a kiss to say hello or goodbye.",
+    "examples": [
+      {
+        "dutch": "Geef je oma een kus.",
+        "english": "Give your grandma a kiss."
+      },
+      {
+        "dutch": "Ik geef jou een kus op je wang.",
+        "english": "I give you a kiss on your cheek."
+      }
+    ]
+  },
+  "414": {
+    "explanation": "\"De boom\" is a tall plant with a trunk, branches, and leaves. Trees grow in parks and forests.",
+    "examples": [
+      {
+        "dutch": "Er staat een hoge boom in de tuin.",
+        "english": "There is a tall tree in the garden."
+      },
+      {
+        "dutch": "De vogels zitten in de boom.",
+        "english": "The birds are in the tree."
+      }
+    ]
+  },
+  "415": {
+    "explanation": "\"De schaar\" is a tool with two blades used for cutting paper, fabric, or hair. You need a pair of scissors to cut paper.",
+    "examples": [
+      {
+        "dutch": "Mag ik de schaar lenen?",
+        "english": "May I borrow the scissors?"
+      },
+      {
+        "dutch": "De schaar is scherp.",
+        "english": "The scissors are sharp."
+      }
+    ]
+  },
+  "416": {
+    "explanation": "\"De minuut\" is a unit of time equal to sixty seconds. There are sixty minutes in one hour.",
+    "examples": [
+      {
+        "dutch": "Wacht even een minuutje.",
+        "english": "Wait just a minute."
+      },
+      {
+        "dutch": "Ik ben over tien minuten klaar.",
+        "english": "I will be ready in ten minutes."
+      }
+    ]
+  },
+  "417": {
+    "explanation": "\"De jurk\" is a piece of clothing worn by women or girls, consisting of a skirt and a top joined together. She wears a beautiful dress to the party.",
+    "examples": [
+      {
+        "dutch": "Zij draagt een rode jurk.",
+        "english": "She is wearing a red dress."
+      },
+      {
+        "dutch": "Ik koop een nieuwe jurk.",
+        "english": "I am buying a new dress."
+      }
+    ]
+  },
+  "418": {
+    "explanation": "\"De vork\" is an eating utensil with two or more prongs, used for picking up food. You eat your dinner with a fork.",
+    "examples": [
+      {
+        "dutch": "De vork ligt op tafel.",
+        "english": "The fork is on the table."
+      },
+      {
+        "dutch": "Ik eet met een mes en een vork.",
+        "english": "I eat with a knife and a fork."
+      }
+    ]
+  },
+  "419": {
+    "explanation": "\"De mand\" is a container, typically woven from material like wicker or plastic, used for carrying or storing items. You can put fruit in a basket.",
+    "examples": [
+      {
+        "dutch": "De hond slaapt in de mand.",
+        "english": "The dog sleeps in the basket."
+      },
+      {
+        "dutch": "Ik draag de mand met appels.",
+        "english": "I am carrying the basket with apples."
+      }
+    ]
+  },
+  "420": {
+    "explanation": "\"De raaf\" is a large, black bird with a strong beak, known for being very intelligent. Ravens are often seen in stories and myths.",
+    "examples": [
+      {
+        "dutch": "De raaf zit op het dak.",
+        "english": "The raven is on the roof."
+      },
+      {
+        "dutch": "Zie je die grote zwarte raaf?",
+        "english": "Do you see that big black raven?"
+      }
+    ]
+  },
+  "421": {
+    "explanation": "De tafel is een meubelstuk met een plat bovenoppervlak en poten, vaak gebruikt om aan te eten, te werken of spullen op te leggen. Je vindt er meestal één in de keuken of woonkamer.",
+    "examples": [
+      {
+        "dutch": "De boeken liggen op de tafel.",
+        "english": "The books are on the table."
+      },
+      {
+        "dutch": "Ik eet aan de tafel.",
+        "english": "I eat at the table."
+      }
+    ]
+  },
+  "422": {
+    "explanation": "De agenda is een boekje of digitale tool om afspraken, taken en gebeurtenissen te plannen en te organiseren. Het helpt je te onthouden wat je moet doen en wanneer.",
+    "examples": [
+      {
+        "dutch": "Ik schrijf de afspraak in mijn agenda.",
+        "english": "I write the appointment in my agenda."
+      },
+      {
+        "dutch": "Wat staat er in jouw agenda voor morgen?",
+        "english": "What is in your agenda for tomorrow?"
+      }
+    ]
+  },
+  "423": {
+    "explanation": "De vakantie is een periode waarin je niet werkt of studeert en op reis gaat of ontspant. Veel mensen nemen een vakantie om uit te rusten en plezier te hebben.",
+    "examples": [
+      {
+        "dutch": "Wij gaan op vakantie naar Spanje.",
+        "english": "We are going on holiday to Spain."
+      },
+      {
+        "dutch": "Ik heb twee weken vakantie.",
+        "english": "I have two weeks of vacation."
+      }
+    ]
+  },
+  "424": {
+    "explanation": "De regel is een instructie die aangeeft wat wel of niet mag, of hoe iets gedaan moet worden. Regels zorgen voor orde en veiligheid.",
+    "examples": [
+      {
+        "dutch": "Dit is een belangrijke regel.",
+        "english": "This is an important rule."
+      },
+      {
+        "dutch": "Volg de regels in de klas.",
+        "english": "Follow the rules in the classroom."
+      }
+    ]
+  },
+  "425": {
+    "explanation": "De modem is een apparaat dat je computer of netwerk met het internet verbindt. Het zet signalen om zodat ze via kabels of telefoonlijnen kunnen reizen.",
+    "examples": [
+      {
+        "dutch": "De modem knippert groen.",
+        "english": "The modem is blinking green."
+      },
+      {
+        "dutch": "Ik moet de modem opnieuw opstarten.",
+        "english": "I need to restart the modem."
+      }
+    ]
+  },
+  "426": {
+    "explanation": "Het teken kan een symbool, markering of gebaar zijn dat iets anders voorstelt. Het kan ook een indicatie zijn van iets dat gaat gebeuren.",
+    "examples": [
+      {
+        "dutch": "Dit is een goed teken.",
+        "english": "This is a good sign."
+      },
+      {
+        "dutch": "Ik zie een teken aan de hemel.",
+        "english": "I see a sign in the sky."
+      }
+    ]
+  },
+  "427": {
+    "explanation": "De kamer is een afzonderlijke ruimte in een huis of gebouw, gescheiden door muren. Mensen gebruiken verschillende kamers voor diverse activiteiten, zoals slapen of wonen.",
+    "examples": [
+      {
+        "dutch": "Dit is mijn slaapkamer.",
+        "english": "This is my bedroom."
+      },
+      {
+        "dutch": "De woonkamer is groot.",
+        "english": "The living room is large."
+      }
+    ]
+  },
+  "428": {
+    "explanation": "De camera is een apparaat dat wordt gebruikt om foto's te maken of video's op te nemen. Veel mensen gebruiken camera's om herinneringen vast te leggen of content te creëren.",
+    "examples": [
+      {
+        "dutch": "Ik heb een nieuwe camera gekocht.",
+        "english": "I bought a new camera."
+      },
+      {
+        "dutch": "De camera staat aan.",
+        "english": "The camera is on."
+      }
+    ]
+  },
+  "429": {
+    "explanation": "De taxi is een auto die je kunt huren met een chauffeur om je naar een specifieke bestemming te brengen. Het wordt vaak gebruikt voor snel en direct vervoer.",
+    "examples": [
+      {
+        "dutch": "Ik neem een taxi naar het station.",
+        "english": "I take a taxi to the station."
+      },
+      {
+        "dutch": "De taxi wacht buiten.",
+        "english": "The taxi is waiting outside."
+      }
+    ]
+  },
+  "430": {
+    "explanation": "De foto is een afbeelding gemaakt met een camera, die een persoon, object of scène toont. Mensen delen vaak foto's om momenten te herinneren.",
+    "examples": [
+      {
+        "dutch": "Heb je de foto gezien?",
+        "english": "Did you see the photo?"
+      },
+      {
+        "dutch": "Deze foto is erg mooi.",
+        "english": "This photo is very beautiful."
+      }
+    ]
+  },
+  "431": {
+    "explanation": "De paraplu is een hulpmiddel voor bescherming tegen regen of zon, bestaande uit een opvouwbaar doek met baleinen. Je klapt hem open als het regent.",
+    "examples": [
+      {
+        "dutch": "Neem je paraplu mee, het regent.",
+        "english": "Take your umbrella, it's raining."
+      },
+      {
+        "dutch": "Ik heb mijn paraplu nodig.",
+        "english": "I need my umbrella."
+      }
+    ]
+  },
+  "432": {
+    "explanation": "De school is een instelling waar kinderen en jongeren onderwijs krijgen. Het is een plek waar je verschillende vakken van leraren leert.",
+    "examples": [
+      {
+        "dutch": "Mijn kind gaat naar school.",
+        "english": "My child goes to school."
+      },
+      {
+        "dutch": "De school begint om half negen.",
+        "english": "School starts at half past eight."
+      }
+    ]
+  },
+  "433": {
+    "explanation": "De sportschool is een plek waar mensen naartoe gaan om te sporten en te trainen, vaak met apparatuur zoals loopbanden of gewichten. Het is voor fysieke fitheid.",
+    "examples": [
+      {
+        "dutch": "Ik ga twee keer per week naar de sportschool.",
+        "english": "I go to the gym twice a week."
+      },
+      {
+        "dutch": "De sportschool is open tot tien uur.",
+        "english": "The gym is open until ten o'clock."
+      }
+    ]
+  },
+  "434": {
+    "explanation": "Het huiswerk zijn taken of oefeningen die leerlingen krijgen om buiten de les te maken, meestal thuis. Het helpt bij het versterken van het geleerde.",
+    "examples": [
+      {
+        "dutch": "Ik moet mijn huiswerk maken.",
+        "english": "I have to do my homework."
+      },
+      {
+        "dutch": "Is jouw huiswerk af?",
+        "english": "Is your homework finished?"
+      }
+    ]
+  },
+  "435": {
+    "explanation": "De plaats kan verwijzen naar een specifieke locatie, een plek of een stad/dorp. Het geeft aan waar iets of iemand zich bevindt.",
+    "examples": [
+      {
+        "dutch": "Dit is een mooie plaats.",
+        "english": "This is a beautiful place."
+      },
+      {
+        "dutch": "Wat is jouw favoriete plaats?",
+        "english": "What is your favorite place?"
+      }
+    ]
+  },
+  "436": {
+    "explanation": "De richting geeft aan welke kant iets of iemand op beweegt of wijst. Het helpt de oriëntatie te specificeren.",
+    "examples": [
+      {
+        "dutch": "In welke richting moet ik gaan?",
+        "english": "In which direction should I go?"
+      },
+      {
+        "dutch": "De wind komt uit die richting.",
+        "english": "The wind comes from that direction."
+      }
+    ]
+  },
+  "437": {
+    "explanation": "De tijd verwijst naar de voortdurende opeenvolging van gebeurtenissen in het verleden, heden en de toekomst. We gebruiken het om duur en momenten te meten.",
+    "examples": [
+      {
+        "dutch": "Wat is de tijd?",
+        "english": "What is the time?"
+      },
+      {
+        "dutch": "Ik heb geen tijd.",
+        "english": "I have no time."
+      }
+    ]
+  },
+  "438": {
+    "explanation": "De winkel is een gebouw of een deel van een gebouw waar goederen of diensten worden verkocht. Mensen gaan naar winkels om dingen te kopen die ze nodig hebben of willen.",
+    "examples": [
+      {
+        "dutch": "De winkel is open.",
+        "english": "The shop is open."
+      },
+      {
+        "dutch": "Ik koop brood in de winkel.",
+        "english": "I buy bread in the shop."
+      }
+    ]
+  },
+  "439": {
+    "explanation": "Het bos is een groot gebied bedekt met veel bomen en planten. Het is een natuurlijke habitat voor verschillende dieren.",
+    "examples": [
+      {
+        "dutch": "Wij wandelen graag in het bos.",
+        "english": "We like to walk in the forest."
+      },
+      {
+        "dutch": "Er zijn veel bomen in het bos.",
+        "english": "There are many trees in the forest."
+      }
+    ]
+  },
+  "440": {
+    "explanation": "Het geluid is alles wat je kunt horen, zoals muziek, spraak of ruis. Het wordt geproduceerd door trillingen die door de lucht reizen.",
+    "examples": [
+      {
+        "dutch": "Ik hoor een vreemd geluid.",
+        "english": "I hear a strange sound."
+      },
+      {
+        "dutch": "Het geluid is te hard.",
+        "english": "The sound is too loud."
+      }
+    ]
+  },
+  "441": {
+    "explanation": "An object that produces light, typically found in a room to illuminate it. It can be a standing lamp, a desk lamp, or a ceiling lamp.",
+    "examples": [
+      {
+        "dutch": "De lamp is aan.",
+        "english": "The lamp is on."
+      },
+      {
+        "dutch": "Ik koop een nieuwe lamp.",
+        "english": "I buy a new lamp."
+      }
+    ]
+  },
+  "442": {
+    "explanation": "Footwear worn on your feet to protect them and for comfort or style. People usually wear a pair of shoes.",
+    "examples": [
+      {
+        "dutch": "Mijn schoenen zijn nieuw.",
+        "english": "My shoes are new."
+      },
+      {
+        "dutch": "Waar is mijn andere schoen?",
+        "english": "Where is my other shoe?"
+      }
+    ]
+  },
+  "443": {
+    "explanation": "A formal test or assessment of your knowledge or ability in a particular subject. It is often taken at the end of a course.",
+    "examples": [
+      {
+        "dutch": "Ik heb morgen een examen.",
+        "english": "I have an exam tomorrow."
+      },
+      {
+        "dutch": "Het examen is moeilijk.",
+        "english": "The exam is difficult."
+      }
+    ]
+  },
+  "444": {
+    "explanation": "A difficulty or an issue that needs to be resolved or dealt with. It can cause concern or trouble.",
+    "examples": [
+      {
+        "dutch": "Er is een klein probleem.",
+        "english": "There is a small problem."
+      },
+      {
+        "dutch": "Wij lossen het probleem op.",
+        "english": "We solve the problem."
+      }
+    ]
+  },
+  "445": {
+    "explanation": "This refers to what is left over or remaining after a part has been used, taken, or dealt with. It can also mean 'the others'.",
+    "examples": [
+      {
+        "dutch": "Ik eet de rest van de koekjes.",
+        "english": "I eat the rest of the cookies."
+      },
+      {
+        "dutch": "De rest van de groep komt later.",
+        "english": "The rest of the group comes later."
+      }
+    ]
+  },
+  "446": {
+    "explanation": "A piece of furniture with doors, shelves, and often drawers, used for storing clothes, books, or other household items. It can be a wardrobe or a cupboard.",
+    "examples": [
+      {
+        "dutch": "De kleren liggen in de kast.",
+        "english": "The clothes are in the wardrobe."
+      },
+      {
+        "dutch": "Ik zoek een grote kast.",
+        "english": "I am looking for a big wardrobe."
+      }
+    ]
+  },
+  "447": {
+    "explanation": "The main room in a house or apartment where people relax, watch television, and spend time together. It is also known as a living room or lounge.",
+    "examples": [
+      {
+        "dutch": "De televisie staat in de woonkamer.",
+        "english": "The television is in the living room."
+      },
+      {
+        "dutch": "Wij zitten graag in de woonkamer.",
+        "english": "We like to sit in the living room."
+      }
+    ]
+  },
+  "448": {
+    "explanation": "A rope or wire, often found outdoors, where wet clothes are hung to dry. It uses air and sunlight to dry laundry.",
+    "examples": [
+      {
+        "dutch": "De was hangt aan de waslijn.",
+        "english": "The laundry hangs on the clothesline."
+      },
+      {
+        "dutch": "Ik koop een nieuwe waslijn.",
+        "english": "I buy a new clothesline."
+      }
+    ]
+  },
+  "449": {
+    "explanation": "An opening in a wall or door, usually fitted with glass, that lets light and air into a room. You can look through it.",
+    "examples": [
+      {
+        "dutch": "Het raam is open.",
+        "english": "The window is open."
+      },
+      {
+        "dutch": "Kijk uit het raam.",
+        "english": "Look out the window."
+      }
+    ]
+  },
+  "450": {
+    "explanation": "A public road in a city or town with houses or buildings on one or both sides. People walk and cars drive on it.",
+    "examples": [
+      {
+        "dutch": "De kinderen spelen op straat.",
+        "english": "The children play on the street."
+      },
+      {
+        "dutch": "Onze straat is lang.",
+        "english": "Our street is long."
+      }
+    ]
+  },
+  "451": {
+    "explanation": "A social gathering of people to celebrate something or to have fun. It often involves music, food, and drinks.",
+    "examples": [
+      {
+        "dutch": "Wij geven een feest.",
+        "english": "We are having a party."
+      },
+      {
+        "dutch": "Het feest begint om acht uur.",
+        "english": "The party starts at eight o'clock."
+      }
+    ]
+  },
+  "452": {
+    "explanation": "A penalty or consequence for doing something wrong or breaking a rule. It is a way to discourage bad behavior.",
+    "examples": [
+      {
+        "dutch": "De straf is niet eerlijk.",
+        "english": "The punishment is not fair."
+      },
+      {
+        "dutch": "Hij krijgt een straf.",
+        "english": "He gets a punishment."
+      }
+    ]
+  },
+  "453": {
+    "explanation": "This preposition is used to indicate a specific time when an event occurs, similar to 'at' in English when talking about time.",
+    "examples": [
+      {
+        "dutch": "Ik kom om drie uur.",
+        "english": "I come at three o'clock."
+      },
+      {
+        "dutch": "De winkel sluit om zes uur.",
+        "english": "The shop closes at six o'clock."
+      }
+    ]
+  },
+  "454": {
+    "explanation": "This word means in a higher position than something else, or on an upper floor of a building. It indicates something is 'up' or 'upstairs'.",
+    "examples": [
+      {
+        "dutch": "De slaapkamer is boven.",
+        "english": "The bedroom is upstairs."
+      },
+      {
+        "dutch": "De vogel vliegt boven het huis.",
+        "english": "The bird flies above the house."
+      }
+    ]
+  },
+  "455": {
+    "explanation": "This word means in a lower position than something else, directly below it. It can also refer to being on a lower floor.",
+    "examples": [
+      {
+        "dutch": "De bal ligt onder de tafel.",
+        "english": "The ball is under the table."
+      },
+      {
+        "dutch": "Wij wonen onder jouw flat.",
+        "english": "We live below your apartment."
+      }
+    ]
+  },
+  "456": {
+    "explanation": "This preposition indicates position, meaning in front of something or someone. It shows that one thing is situated before another.",
+    "examples": [
+      {
+        "dutch": "De auto staat voor het huis.",
+        "english": "The car is in front of the house."
+      },
+      {
+        "dutch": "Zij wacht voor de deur.",
+        "english": "She waits in front of the door."
+      }
+    ]
+  },
+  "457": {
+    "explanation": "This preposition indicates position, meaning at the back of something or someone. It shows that one thing is situated behind another.",
+    "examples": [
+      {
+        "dutch": "De tuin is achter het huis.",
+        "english": "The garden is behind the house."
+      },
+      {
+        "dutch": "Hij staat achter mij.",
+        "english": "He stands behind me."
+      }
+    ]
+  },
+  "458": {
+    "explanation": "This preposition indicates position, meaning immediately beside someone or something. It shows that one thing is situated very close to another, often touching.",
+    "examples": [
+      {
+        "dutch": "Ik zit naast mijn vriend.",
+        "english": "I sit next to my friend."
+      },
+      {
+        "dutch": "De fiets staat naast de auto.",
+        "english": "The bicycle is next to the car."
+      }
+    ]
+  },
+  "459": {
+    "explanation": "This pronoun means no person or no one. It indicates the complete absence of people.",
+    "examples": [
+      {
+        "dutch": "Niemand is thuis.",
+        "english": "Nobody is home."
+      },
+      {
+        "dutch": "Niemand weet het antwoord.",
+        "english": "Nobody knows the answer."
+      }
+    ]
+  },
+  "460": {
+    "explanation": "This pronoun means every single thing, or the complete amount or extent of something. It covers all items or aspects.",
+    "examples": [
+      {
+        "dutch": "Alles is goed.",
+        "english": "Everything is good."
+      },
+      {
+        "dutch": "Ik weet alles.",
+        "english": "I know everything."
+      }
+    ]
+  },
+  "461": {
+    "explanation": "\"Iets\" means \"something\" or \"a little bit/some\". You use it when you are talking about an unspecified thing or a small amount of something.",
+    "examples": [
+      {
+        "dutch": "Ik wil iets drinken.",
+        "english": "I want something to drink."
+      },
+      {
+        "dutch": "Heeft u iets nodig?",
+        "english": "Do you need something?"
+      }
+    ]
+  },
+  "462": {
+    "explanation": "\"Meer\" means \"more\". You use it to indicate a larger quantity or degree of something.",
+    "examples": [
+      {
+        "dutch": "Ik wil meer koffie.",
+        "english": "I want more coffee."
+      },
+      {
+        "dutch": "Kunt u iets meer zeggen?",
+        "english": "Can you say something more?"
+      }
+    ]
+  },
+  "463": {
+    "explanation": "\"Even\" means \"just (a short while)\" or \"for a moment\". It's often used to politely ask someone to wait or to indicate a quick action.",
+    "examples": [
+      {
+        "dutch": "Ik kom zo even.",
+        "english": "I'll be right there (in a moment)."
+      },
+      {
+        "dutch": "Wacht even hier.",
+        "english": "Wait here for a moment."
+      }
+    ]
+  },
+  "464": {
+    "explanation": "\"Gram\" is a unit of weight, just like in English. It's often used when buying food or other items that are sold by weight.",
+    "examples": [
+      {
+        "dutch": "Ik wil 200 gram kaas.",
+        "english": "I want 200 grams of cheese."
+      },
+      {
+        "dutch": "Dat is 50 gram te veel.",
+        "english": "That is 50 grams too much."
+      }
+    ]
+  },
+  "465": {
+    "explanation": "\"Anders\" can mean \"otherwise,\" \"different,\" or \"else.\" It's used to talk about an alternative or a different option.",
+    "examples": [
+      {
+        "dutch": "Doe het anders.",
+        "english": "Do it differently."
+      },
+      {
+        "dutch": "Anders gaan we naar huis.",
+        "english": "Otherwise, we go home."
+      }
+    ]
+  },
+  "466": {
+    "explanation": "\"Alstublieft\" has two main meanings: \"please\" (when asking politely) and \"here you are\" (when giving something). It's a polite formal word.",
+    "examples": [
+      {
+        "dutch": "Kunt u mij alstublieft helpen?",
+        "english": "Can you please help me?"
+      },
+      {
+        "dutch": "Hier is uw koffie, alstublieft.",
+        "english": "Here is your coffee, here you are."
+      }
+    ]
+  },
+  "467": {
+    "explanation": "\"Meneer\" means \"mister\" or \"sir.\" It's a formal way to address or refer to a man.",
+    "examples": [
+      {
+        "dutch": "Goedemorgen, meneer Janssen.",
+        "english": "Good morning, Mister Janssen."
+      },
+      {
+        "dutch": "Pardon, meneer, kunt u mij de weg wijzen?",
+        "english": "Excuse me, sir, can you show me the way?"
+      }
+    ]
+  }
+}

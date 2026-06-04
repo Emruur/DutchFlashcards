@@ -1,0 +1,1185 @@
+{
+  "201": {
+    "explanation": "\"Heel\" can mean \"very\" when used with an adjective, emphasizing it. It can also mean \"whole\" or \"entire\", referring to something complete.",
+    "examples": [
+      {
+        "dutch": "Het is heel lekker.",
+        "english": "It is very tasty."
+      },
+      {
+        "dutch": "Ik eet de hele appel.",
+        "english": "I eat the whole apple."
+      }
+    ]
+  },
+  "202": {
+    "explanation": "\"Zeer\" means \"very\". It is often used in slightly more formal contexts than \"heel\" to emphasize an adjective or adverb.",
+    "examples": [
+      {
+        "dutch": "Dit is zeer belangrijk.",
+        "english": "This is very important."
+      },
+      {
+        "dutch": "De service is zeer goed.",
+        "english": "The service is very good."
+      }
+    ]
+  },
+  "203": {
+    "explanation": "\"Klein\" means \"small\" or \"little\". It describes the size of something.",
+    "examples": [
+      {
+        "dutch": "Ik heb een klein huis.",
+        "english": "I have a small house."
+      },
+      {
+        "dutch": "De kat is nog heel klein.",
+        "english": "The cat is still very small."
+      }
+    ]
+  },
+  "204": {
+    "explanation": "\"Nogal\" means \"quite\" or \"rather\". It indicates that something is to a certain degree, but not extremely.",
+    "examples": [
+      {
+        "dutch": "Het is nogal koud vandaag.",
+        "english": "It is quite cold today."
+      },
+      {
+        "dutch": "Hij is nogal moe.",
+        "english": "He is rather tired."
+      }
+    ]
+  },
+  "205": {
+    "explanation": "\"Boos\" means \"angry\". It describes a feeling of strong displeasure or annoyance.",
+    "examples": [
+      {
+        "dutch": "Waarom ben je boos?",
+        "english": "Why are you angry?"
+      },
+      {
+        "dutch": "De hond is boos op de kat.",
+        "english": "The dog is angry at the cat."
+      }
+    ]
+  },
+  "206": {
+    "explanation": "\"Redelijk\" means \"rather\" or \"reasonably\". It suggests something is acceptable, moderate, or fairly good.",
+    "examples": [
+      {
+        "dutch": "Het weer is redelijk goed.",
+        "english": "The weather is rather good."
+      },
+      {
+        "dutch": "Ik spreek redelijk Nederlands.",
+        "english": "I speak reasonably well Dutch."
+      }
+    ]
+  },
+  "207": {
+    "explanation": "\"Knap\" means \"handsome\" for a person. It can also mean \"clever\" or \"smart\", but \"handsome\" is a common A1-A2 usage.",
+    "examples": [
+      {
+        "dutch": "Hij is een knappe man.",
+        "english": "He is a handsome man."
+      },
+      {
+        "dutch": "Zij is een knappe vrouw.",
+        "english": "She is a beautiful woman."
+      }
+    ]
+  },
+  "208": {
+    "explanation": "\"Hartstikke\" means \"extremely\" or \"very\". It is an informal and emphatic way to express a high degree of something.",
+    "examples": [
+      {
+        "dutch": "Het is hartstikke leuk!",
+        "english": "It's extremely fun!"
+      },
+      {
+        "dutch": "Ik ben hartstikke moe.",
+        "english": "I am extremely tired."
+      }
+    ]
+  },
+  "209": {
+    "explanation": "\"Mooi\" means \"beautiful\" or \"pretty\". It describes something that is pleasing to the senses, especially sight.",
+    "examples": [
+      {
+        "dutch": "Wat een mooie bloem!",
+        "english": "What a beautiful flower!"
+      },
+      {
+        "dutch": "Het is een mooie dag vandaag.",
+        "english": "It is a beautiful day today."
+      }
+    ]
+  },
+  "210": {
+    "explanation": "\"Nieuw\" means \"new\". It describes something that has recently been made, acquired, or not used before.",
+    "examples": [
+      {
+        "dutch": "Ik heb een nieuwe auto.",
+        "english": "I have a new car."
+      },
+      {
+        "dutch": "Dit is mijn nieuwe jas.",
+        "english": "This is my new coat."
+      }
+    ]
+  },
+  "211": {
+    "explanation": "\"Klaar\" means \"ready\" or \"finished\". It describes a state of completion or preparedness for something.",
+    "examples": [
+      {
+        "dutch": "Ik ben klaar met werken.",
+        "english": "I am finished with work."
+      },
+      {
+        "dutch": "Ben je al klaar?",
+        "english": "Are you ready yet?"
+      }
+    ]
+  },
+  "212": {
+    "explanation": "\"Gewoon\" means \"normal\" or \"ordinary\". It can also mean \"just\" or \"simply\" when used to express a simple action or preference.",
+    "examples": [
+      {
+        "dutch": "Hij is een gewone man.",
+        "english": "He is a normal man."
+      },
+      {
+        "dutch": "Ik wil gewoon een kopje thee.",
+        "english": "I just want a cup of tea."
+      }
+    ]
+  },
+  "213": {
+    "explanation": "\"Prima\" means \"fine\" or \"excellent\". It expresses approval or satisfaction with something.",
+    "examples": [
+      {
+        "dutch": "Het eten is prima.",
+        "english": "The food is fine."
+      },
+      {
+        "dutch": "Alles is prima zo.",
+        "english": "Everything is fine this way."
+      }
+    ]
+  },
+  "214": {
+    "explanation": "\"Plat\" means \"flat\". It describes a surface that is level and smooth, without raised parts.",
+    "examples": [
+      {
+        "dutch": "Deze tafel is helemaal plat.",
+        "english": "This table is completely flat."
+      },
+      {
+        "dutch": "Het landschap is hier heel plat.",
+        "english": "The landscape here is very flat."
+      }
+    ]
+  },
+  "215": {
+    "explanation": "\"Druk\" can mean \"busy\" when a person has a lot to do, or \"crowded\" when a place has many people.",
+    "examples": [
+      {
+        "dutch": "Ik heb het erg druk vandaag.",
+        "english": "I am very busy today."
+      },
+      {
+        "dutch": "De stad is erg druk.",
+        "english": "The city is very crowded."
+      }
+    ]
+  },
+  "216": {
+    "explanation": "\"Gisteren\" means \"yesterday\". It refers to the day before the present day.",
+    "examples": [
+      {
+        "dutch": "Ik was gisteren in Amsterdam.",
+        "english": "I was in Amsterdam yesterday."
+      },
+      {
+        "dutch": "Heb je gisteren gewerkt?",
+        "english": "Did you work yesterday?"
+      }
+    ]
+  },
+  "217": {
+    "explanation": "\"Morgen\" means \"tomorrow\". It refers to the day after the present day.",
+    "examples": [
+      {
+        "dutch": "Ik zie je morgen!",
+        "english": "I'll see you tomorrow!"
+      },
+      {
+        "dutch": "Morgen ga ik naar de dokter.",
+        "english": "Tomorrow I am going to the doctor."
+      }
+    ]
+  },
+  "218": {
+    "explanation": "\"Zo\" means \"in a little while\" or \"soon\". It indicates that something will happen in the very near future.",
+    "examples": [
+      {
+        "dutch": "Ik kom zo bij je.",
+        "english": "I'll be with you in a little while."
+      },
+      {
+        "dutch": "Het eten is zo klaar.",
+        "english": "The food will be ready soon."
+      }
+    ]
+  },
+  "219": {
+    "explanation": "\"Straks\" means \"in a little while\" or \"soon\". It indicates something will happen in the near future, similar to \"zo\", but often implying slightly later.",
+    "examples": [
+      {
+        "dutch": "Ik ga straks naar huis.",
+        "english": "I am going home in a little while."
+      },
+      {
+        "dutch": "We gaan straks koffie drinken.",
+        "english": "We are going to drink coffee soon."
+      }
+    ]
+  },
+  "220": {
+    "explanation": "\"Binnenkort\" means \"soon\" or \"shortly\". It refers to something happening in the near future, often a bit further away than \"zo\" or \"straks\".",
+    "examples": [
+      {
+        "dutch": "Binnenkort gaan we op vakantie.",
+        "english": "Soon we are going on holiday."
+      },
+      {
+        "dutch": "Hij komt binnenkort terug.",
+        "english": "He will come back soon."
+      }
+    ]
+  },
+  "221": {
+    "explanation": "This word indicates a location close to the speaker or listener. It means \"in this place.\"",
+    "examples": [
+      {
+        "dutch": "Ik ben hier.",
+        "english": "I am here."
+      },
+      {
+        "dutch": "Kom hier!",
+        "english": "Come here!"
+      }
+    ]
+  },
+  "222": {
+    "explanation": "This word indicates a location that is further away from the speaker. It means \"in that place\" or \"over there.\"",
+    "examples": [
+      {
+        "dutch": "Kijk daar, een hond!",
+        "english": "Look there, a dog!"
+      },
+      {
+        "dutch": "Mijn auto staat daar.",
+        "english": "My car is there."
+      }
+    ]
+  },
+  "223": {
+    "explanation": "This word means something will happen instantly or without delay. It is similar to \"right away.\"",
+    "examples": [
+      {
+        "dutch": "Ik kom meteen.",
+        "english": "I am coming immediately."
+      },
+      {
+        "dutch": "Doe het meteen!",
+        "english": "Do it immediately!"
+      }
+    ]
+  },
+  "224": {
+    "explanation": "This word is used to describe an amount or time that is not exact but close to the real value. It means \"around\" or \"roughly.\"",
+    "examples": [
+      {
+        "dutch": "Het duurt ongeveer een uur.",
+        "english": "It takes approximately one hour."
+      },
+      {
+        "dutch": "Er zijn ongeveer tien studenten.",
+        "english": "There are approximately ten students."
+      }
+    ]
+  },
+  "225": {
+    "explanation": "This word is used to describe an event or action that happens after another one. It means \"after that\" or \"subsequently.\"",
+    "examples": [
+      {
+        "dutch": "Eerst eet ik, daarna werk ik.",
+        "english": "First I eat, then I work."
+      },
+      {
+        "dutch": "We gaan naar de winkel, en daarna naar huis.",
+        "english": "We go to the store, and then home."
+      }
+    ]
+  },
+  "226": {
+    "explanation": "This word often means \"then\" or \"next\" in a sequence of events, indicating a progression.",
+    "examples": [
+      {
+        "dutch": "Eerst koffie, dan werken.",
+        "english": "First coffee, then work."
+      },
+      {
+        "dutch": "Als je klaar bent, dan gaan we.",
+        "english": "If you are ready, then we go."
+      }
+    ]
+  },
+  "227": {
+    "explanation": "This word indicates a point in time or space that marks an end or limit. It means \"up to\" or \"until.\"",
+    "examples": [
+      {
+        "dutch": "We werken van negen tot vijf.",
+        "english": "We work from nine until five."
+      },
+      {
+        "dutch": "Ik blijf hier tot morgen.",
+        "english": "I stay here until tomorrow."
+      }
+    ]
+  },
+  "228": {
+    "explanation": "This word can mean \"through\" a space or \"by\" someone/something, indicating passage or agency.",
+    "examples": [
+      {
+        "dutch": "Ga door die deur.",
+        "english": "Go through that door."
+      },
+      {
+        "dutch": "Het boek is geschreven door haar.",
+        "english": "The book is written by her."
+      }
+    ]
+  },
+  "229": {
+    "explanation": "This word is a versatile preposition, often meaning \"to\" when indicating direction or \"on\" when describing attachment.",
+    "examples": [
+      {
+        "dutch": "Geef het aan mij.",
+        "english": "Give it to me."
+      },
+      {
+        "dutch": "De foto hangt aan de muur.",
+        "english": "The photo hangs on the wall."
+      }
+    ]
+  },
+  "230": {
+    "explanation": "This adverb indicates being at one's own house or residence. It means \"at home.\"",
+    "examples": [
+      {
+        "dutch": "Ik ben thuis.",
+        "english": "I am at home."
+      },
+      {
+        "dutch": "We eten thuis vanavond.",
+        "english": "We eat at home tonight."
+      }
+    ]
+  },
+  "231": {
+    "explanation": "This word describes an action or state involving two or more people or things acting jointly. It means \"together.\"",
+    "examples": [
+      {
+        "dutch": "We gaan samen naar de film.",
+        "english": "We go to the movie together."
+      },
+      {
+        "dutch": "Laten we samen eten.",
+        "english": "Let's eat together."
+      }
+    ]
+  },
+  "232": {
+    "explanation": "This word describes a time that is past the usual or expected hour. It means \"late.\"",
+    "examples": [
+      {
+        "dutch": "Het is al laat.",
+        "english": "It is already late."
+      },
+      {
+        "dutch": "Kom niet te laat.",
+        "english": "Don't come too late."
+      }
+    ]
+  },
+  "233": {
+    "explanation": "This word can mean 'still' (continuing), 'yet' (not happened), or 'more' (additional amount).",
+    "examples": [
+      {
+        "dutch": "Ik heb nog tijd.",
+        "english": "I still have time."
+      },
+      {
+        "dutch": "Wil je nog een kopje koffie?",
+        "english": "Do you want another cup of coffee?"
+      }
+    ]
+  },
+  "234": {
+    "explanation": "This word is used to negate a verb, adjective, or adverb, indicating the absence or opposite of something. It means \"not.\"",
+    "examples": [
+      {
+        "dutch": "Ik ben niet moe.",
+        "english": "I am not tired."
+      },
+      {
+        "dutch": "Dat is niet goed.",
+        "english": "That is not good."
+      }
+    ]
+  },
+  "235": {
+    "explanation": "This word describes something that happens many times or regularly. It means \"often\" or \"frequently.\"",
+    "examples": [
+      {
+        "dutch": "Ik lees vaak boeken.",
+        "english": "I often read books."
+      },
+      {
+        "dutch": "Hoe vaak sport jij?",
+        "english": "How often do you exercise?"
+      }
+    ]
+  },
+  "236": {
+    "explanation": "This is a verb that means to engage in an activity for enjoyment, especially for children, or to perform a game/sport.",
+    "examples": [
+      {
+        "dutch": "De kinderen spelen in de tuin.",
+        "english": "The children play in the garden."
+      },
+      {
+        "dutch": "Ik speel graag voetbal.",
+        "english": "I like to play football."
+      }
+    ]
+  },
+  "237": {
+    "explanation": "This verb means to be in a horizontal position, or to be located somewhere.",
+    "examples": [
+      {
+        "dutch": "Het boek ligt op tafel.",
+        "english": "The book lies on the table."
+      },
+      {
+        "dutch": "De stad ligt aan zee.",
+        "english": "The city lies by the sea."
+      }
+    ]
+  },
+  "238": {
+    "explanation": "This is a verb that means to consume a liquid.",
+    "examples": [
+      {
+        "dutch": "Ik drink water.",
+        "english": "I drink water."
+      },
+      {
+        "dutch": "Wil je iets drinken?",
+        "english": "Do you want something to drink?"
+      }
+    ]
+  },
+  "239": {
+    "explanation": "This verb expresses obligation or necessity. It means \"to have to\" or \"must.\"",
+    "examples": [
+      {
+        "dutch": "Ik moet werken.",
+        "english": "I have to work."
+      },
+      {
+        "dutch": "We moeten nu gaan.",
+        "english": "We must go now."
+      }
+    ]
+  },
+  "240": {
+    "explanation": "This is a verb that means to travel by bicycle.",
+    "examples": [
+      {
+        "dutch": "Ik fiets elke dag naar mijn werk.",
+        "english": "I cycle to my work every day."
+      },
+      {
+        "dutch": "We gaan samen fietsen.",
+        "english": "We are going cycling together."
+      }
+    ]
+  },
+  "241": {
+    "explanation": "This verb means to instruct someone in a subject or skill. You teach lessons or subjects to students.",
+    "examples": [
+      {
+        "dutch": "Ik geef les aan studenten.",
+        "english": "I teach students."
+      },
+      {
+        "dutch": "Zij wil Nederlands lesgeven.",
+        "english": "She wants to teach Dutch."
+      }
+    ]
+  },
+  "242": {
+    "explanation": "This verb means to employ something for a purpose or task. You can use tools, words, or other objects.",
+    "examples": [
+      {
+        "dutch": "Ik gebruik een pen om te schrijven.",
+        "english": "I use a pen to write."
+      },
+      {
+        "dutch": "Kun je dit boek gebruiken?",
+        "english": "Can you use this book?"
+      }
+    ]
+  },
+  "243": {
+    "explanation": "This verb is used to state someone's or something's name. It answers the question 'Wat heet je?' (What are you called?).",
+    "examples": [
+      {
+        "dutch": "Ik heet Anna.",
+        "english": "My name is Anna."
+      },
+      {
+        "dutch": "Hoe heet jij?",
+        "english": "What is your name?"
+      }
+    ]
+  },
+  "244": {
+    "explanation": "This verb commonly means to make a phone call to someone. It can also refer to ringing a doorbell.",
+    "examples": [
+      {
+        "dutch": "Ik bel mijn vriendin.",
+        "english": "I call my friend."
+      },
+      {
+        "dutch": "Kun je mij morgen bellen?",
+        "english": "Can you call me tomorrow?"
+      }
+    ]
+  },
+  "245": {
+    "explanation": "This verb means to possess knowledge or information about something. It refers to knowing facts, skills, or specific details.",
+    "examples": [
+      {
+        "dutch": "Ik weet het antwoord.",
+        "english": "I know the answer."
+      },
+      {
+        "dutch": "Weet jij waar hij woont?",
+        "english": "Do you know where he lives?"
+      }
+    ]
+  },
+  "246": {
+    "explanation": "This verb means to consume food. It can also refer to having a meal.",
+    "examples": [
+      {
+        "dutch": "Ik eet graag fruit.",
+        "english": "I like to eat fruit."
+      },
+      {
+        "dutch": "Wat wil je eten vanavond?",
+        "english": "What do you want to eat tonight?"
+      }
+    ]
+  },
+  "247": {
+    "explanation": "This verb means to prepare food by heating it, often in a pot or pan. Someone who cooks prepares meals.",
+    "examples": [
+      {
+        "dutch": "Zij kookt elke dag.",
+        "english": "She cooks every day."
+      },
+      {
+        "dutch": "Ik kan niet koken.",
+        "english": "I cannot cook."
+      }
+    ]
+  },
+  "248": {
+    "explanation": "This verb expresses a desire or wish for something. It indicates what someone wishes to have or do.",
+    "examples": [
+      {
+        "dutch": "Ik wil koffie.",
+        "english": "I want coffee."
+      },
+      {
+        "dutch": "Wil je met mij meegaan?",
+        "english": "Do you want to come with me?"
+      }
+    ]
+  },
+  "249": {
+    "explanation": "This verb has several meanings, but commonly means to pick up, acquire, or choose something. You can take a bus or a drink.",
+    "examples": [
+      {
+        "dutch": "Ik neem de bus naar huis.",
+        "english": "I take the bus home."
+      },
+      {
+        "dutch": "Wil je een kopje thee nemen?",
+        "english": "Do you want to have a cup of tea?"
+      }
+    ]
+  },
+  "250": {
+    "explanation": "This verb means to perceive something with your eyes. It refers to the act of looking at or noticing something.",
+    "examples": [
+      {
+        "dutch": "Ik zie een vogel.",
+        "english": "I see a bird."
+      },
+      {
+        "dutch": "Heb je de film al gezien?",
+        "english": "Have you already seen the movie?"
+      }
+    ]
+  },
+  "251": {
+    "explanation": "This verb means to be familiar with a person, place, or concept. It implies knowing someone personally or having experience with something.",
+    "examples": [
+      {
+        "dutch": "Ik ken die man niet.",
+        "english": "I don't know that man."
+      },
+      {
+        "dutch": "Ken je Amsterdam?",
+        "english": "Do you know Amsterdam?"
+      }
+    ]
+  },
+  "252": {
+    "explanation": "This verb means to make a long, deep audible breath, often indicating relief, tiredness, or sadness.",
+    "examples": [
+      {
+        "dutch": "Hij zucht diep.",
+        "english": "He sighs deeply."
+      },
+      {
+        "dutch": "Ik zuchtte van opluchting.",
+        "english": "I sighed with relief."
+      }
+    ]
+  },
+  "253": {
+    "explanation": "This modal verb means to have the ability or possibility to do something, like 'can' in English. It can also mean that something is possible or available.",
+    "examples": [
+      {
+        "dutch": "Ik kan goed Nederlands spreken.",
+        "english": "I can speak Dutch well."
+      },
+      {
+        "dutch": "Kunnen we morgen afspreken?",
+        "english": "Can we meet tomorrow?"
+      }
+    ]
+  },
+  "254": {
+    "explanation": "This phrase means it is your birthday. It literally translates to 'to be birthday' and is used to state that someone has a birthday.",
+    "examples": [
+      {
+        "dutch": "Mijn broer is vandaag jarig.",
+        "english": "My brother has a birthday today."
+      },
+      {
+        "dutch": "Ben jij volgende week jarig?",
+        "english": "Is your birthday next week?"
+      }
+    ]
+  },
+  "255": {
+    "explanation": "This is a noun referring to a single unit of language. It's a basic component of sentences and speech.",
+    "examples": [
+      {
+        "dutch": "Dit is een moeilijk woord.",
+        "english": "This is a difficult word."
+      },
+      {
+        "dutch": "Ken je dit woord?",
+        "english": "Do you know this word?"
+      }
+    ]
+  },
+  "256": {
+    "explanation": "This is a noun referring to a motion picture or a cinematographic work. People often watch films for entertainment.",
+    "examples": [
+      {
+        "dutch": "Ik kijk graag een film.",
+        "english": "I like to watch a movie."
+      },
+      {
+        "dutch": "Welke film wil je zien?",
+        "english": "Which movie do you want to see?"
+      }
+    ]
+  },
+  "257": {
+    "explanation": "This is a traditional Dutch mythical figure, similar to Santa Claus, who brings presents to children, usually on December 5th.",
+    "examples": [
+      {
+        "dutch": "Kinderen houden van Sinterklaas.",
+        "english": "Children love Sinterklaas."
+      },
+      {
+        "dutch": "Sinterklaas komt uit Spanje.",
+        "english": "Sinterklaas comes from Spain."
+      }
+    ]
+  },
+  "258": {
+    "explanation": "In grammar, inversion means switching the usual order of the subject and verb in a sentence. This often happens in Dutch when a sentence starts with something other than the subject.",
+    "examples": [
+      {
+        "dutch": "Bij inversie staat de persoonsvorm voor het onderwerp.",
+        "english": "With inversion, the conjugated verb comes before the subject."
+      },
+      {
+        "dutch": "Morgen ga ik naar huis; dat is inversie.",
+        "english": "Tomorrow I go home; that is inversion."
+      }
+    ]
+  },
+  "259": {
+    "explanation": "This is a noun referring to a piece of ground, often next to a house, used for growing flowers, vegetables, or for recreation.",
+    "examples": [
+      {
+        "dutch": "Onze tuin is groot.",
+        "english": "Our garden is big."
+      },
+      {
+        "dutch": "Ik werk graag in de tuin.",
+        "english": "I like to work in the garden."
+      }
+    ]
+  },
+  "260": {
+    "explanation": "This is a noun referring to a person whose job is to cut, style, or color people's hair.",
+    "examples": [
+      {
+        "dutch": "Ik ga naar de kapper.",
+        "english": "I go to the hairdresser."
+      },
+      {
+        "dutch": "De kapper knipt mijn haar.",
+        "english": "The hairdresser cuts my hair."
+      }
+    ]
+  },
+  "261": {
+    "explanation": "This is a traditional Dutch dish made from mashed potatoes mixed with other vegetables (like kale, sauerkraut, or endive). It is often served with smoked sausage or bacon.",
+    "examples": [
+      {
+        "dutch": "Ik eet graag stamppot in de winter.",
+        "english": "I like to eat stamppot in the winter."
+      },
+      {
+        "dutch": "Mijn moeder maakt lekkere stamppot.",
+        "english": "My mother makes tasty stamppot."
+      }
+    ]
+  },
+  "262": {
+    "explanation": "A 'vraagwoord' is a word used to ask a question, such as 'wie' (who), 'wat' (what), or 'waar' (where).",
+    "examples": [
+      {
+        "dutch": "'Waarom' is een vraagwoord.",
+        "english": "'Why' is a question word."
+      },
+      {
+        "dutch": "Welk vraagwoord gebruik je hier?",
+        "english": "Which question word do you use here?"
+      }
+    ]
+  },
+  "263": {
+    "explanation": "A 'markt' is an outdoor place where people buy and sell goods, often fresh food, flowers, or clothes. It is a common place to shop in many towns.",
+    "examples": [
+      {
+        "dutch": "Ik koop groenten op de markt.",
+        "english": "I buy vegetables at the market."
+      },
+      {
+        "dutch": "De markt is elke zaterdag open.",
+        "english": "The market is open every Saturday."
+      }
+    ]
+  },
+  "264": {
+    "explanation": "This word is the plural form of 'kind' (child), referring to young human beings. It means more than one child.",
+    "examples": [
+      {
+        "dutch": "De kinderen spelen in de tuin.",
+        "english": "The children are playing in the garden."
+      },
+      {
+        "dutch": "Hoeveel kinderen heb je?",
+        "english": "How many children do you have?"
+      }
+    ]
+  },
+  "265": {
+    "explanation": "This word has two main meanings: it can refer to an act of visiting someone or somewhere, or it can mean the guests who come to visit you.",
+    "examples": [
+      {
+        "dutch": "We krijgen bezoek van vrienden.",
+        "english": "We are having friends visit / We are getting visitors."
+      },
+      {
+        "dutch": "Het bezoek aan het museum was interessant.",
+        "english": "The visit to the museum was interesting."
+      }
+    ]
+  },
+  "266": {
+    "explanation": "This phrase means 'your address,' which is the specific location where you live or where something is located.",
+    "examples": [
+      {
+        "dutch": "Wat is je adres?",
+        "english": "What is your address?"
+      },
+      {
+        "dutch": "Schrijf je adres hier op.",
+        "english": "Write your address here."
+      }
+    ]
+  },
+  "267": {
+    "explanation": "An 'oefening' is an activity done to practice or improve a skill, often used in learning or for physical fitness. You can do exercises in a book or at the gym.",
+    "examples": [
+      {
+        "dutch": "Maak de oefening in je boek.",
+        "english": "Do the exercise in your book."
+      },
+      {
+        "dutch": "Ik doe elke dag oefeningen.",
+        "english": "I do exercises every day."
+      }
+    ]
+  },
+  "268": {
+    "explanation": "A 'jongen' is a male child or a young man. It is the opposite of 'meisje' (girl).",
+    "examples": [
+      {
+        "dutch": "De jongen speelt met zijn bal.",
+        "english": "The boy is playing with his ball."
+      },
+      {
+        "dutch": "Ken je die jongen daar?",
+        "english": "Do you know that boy over there?"
+      }
+    ]
+  },
+  "269": {
+    "explanation": "'Geld' refers to the coins or banknotes used to buy things. It is what you use to pay for goods and services.",
+    "examples": [
+      {
+        "dutch": "Heb je genoeg geld?",
+        "english": "Do you have enough money?"
+      },
+      {
+        "dutch": "Ik betaal met geld.",
+        "english": "I pay with money."
+      }
+    ]
+  },
+  "270": {
+    "explanation": "A 'roman' is a long fictional story, typically written in prose and published as a book. It is a type of literature.",
+    "examples": [
+      {
+        "dutch": "Ik lees een interessante roman.",
+        "english": "I am reading an interesting novel."
+      },
+      {
+        "dutch": "De schrijver heeft veel romans geschreven.",
+        "english": "The writer has written many novels."
+      }
+    ]
+  },
+  "271": {
+    "explanation": "An 'idee' is a thought, a plan, or a suggestion. It is something you think of or propose.",
+    "examples": [
+      {
+        "dutch": "Ik heb een goed idee!",
+        "english": "I have a good idea!"
+      },
+      {
+        "dutch": "Wat is jouw idee?",
+        "english": "What is your idea?"
+      }
+    ]
+  },
+  "272": {
+    "explanation": "A 'buurt' refers to a specific area within a town or city, similar to a neighborhood. It often describes the local area around where you live.",
+    "examples": [
+      {
+        "dutch": "Ik woon in een fijne buurt.",
+        "english": "I live in a nice neighborhood."
+      },
+      {
+        "dutch": "Zijn er winkels in de buurt?",
+        "english": "Are there shops nearby / in the neighborhood?"
+      }
+    ]
+  },
+  "273": {
+    "explanation": "A 'kilometer' is a unit of distance equal to one thousand meters. It's commonly used to measure distances, like how far you need to travel.",
+    "examples": [
+      {
+        "dutch": "Het is twee kilometer naar het station.",
+        "english": "It is two kilometers to the station."
+      },
+      {
+        "dutch": "Ik loop vijf kilometer per dag.",
+        "english": "I walk five kilometers a day."
+      }
+    ]
+  },
+  "274": {
+    "explanation": "'Het Centraal Station' is the main train station in a city. It usually serves as a central hub for public transportation.",
+    "examples": [
+      {
+        "dutch": "De trein vertrekt van Centraal Station.",
+        "english": "The train departs from Central Station."
+      },
+      {
+        "dutch": "Loop je naar het Centraal Station?",
+        "english": "Are you walking to the Central Station?"
+      }
+    ]
+  },
+  "275": {
+    "explanation": "A 'trein' is a form of public transportation that runs on rails, used for carrying passengers or goods. You take a train to travel between cities.",
+    "examples": [
+      {
+        "dutch": "Ik ga met de trein naar Amsterdam.",
+        "english": "I am going to Amsterdam by train."
+      },
+      {
+        "dutch": "De trein heeft vertraging.",
+        "english": "The train is delayed."
+      }
+    ]
+  },
+  "276": {
+    "explanation": "An 'eeuw' is a period of one hundred years. For example, the 21st century started in 2001 and will end in 2100.",
+    "examples": [
+      {
+        "dutch": "We leven in de 21e eeuw.",
+        "english": "We live in the 21st century."
+      },
+      {
+        "dutch": "Dit gebouw is meer dan een eeuw oud.",
+        "english": "This building is more than a century old."
+      }
+    ]
+  },
+  "277": {
+    "explanation": "'Het einde' refers to the final part of something, or the point at which something stops. It's where something concludes.",
+    "examples": [
+      {
+        "dutch": "Dit is het einde van het boek.",
+        "english": "This is the end of the book."
+      },
+      {
+        "dutch": "Aan het einde van de dag ga ik naar huis.",
+        "english": "At the end of the day, I go home."
+      }
+    ]
+  },
+  "278": {
+    "explanation": "'Wat' is a common question word meaning 'what,' used to ask for information about something or someone. You use it to inquire about specific things.",
+    "examples": [
+      {
+        "dutch": "Wat is je naam?",
+        "english": "What is your name?"
+      },
+      {
+        "dutch": "Wat eet je vanavond?",
+        "english": "What are you eating tonight?"
+      }
+    ]
+  },
+  "279": {
+    "explanation": "These words both mean 'which' and are used to ask about a specific choice from a group. 'Welke' is used with 'de' words and plural nouns, and 'welk' is used with 'het' words.",
+    "examples": [
+      {
+        "dutch": "Welke kleur vind je mooi?",
+        "english": "Which color do you like?"
+      },
+      {
+        "dutch": "Welk boek lees je?",
+        "english": "Which book are you reading?"
+      }
+    ]
+  },
+  "280": {
+    "explanation": "'Wanneer' is a question word meaning 'when,' used to ask about the time or date of an event. You use it to inquire about a point in time.",
+    "examples": [
+      {
+        "dutch": "Wanneer kom je?",
+        "english": "When are you coming?"
+      },
+      {
+        "dutch": "Wanneer is je verjaardag?",
+        "english": "When is your birthday?"
+      }
+    ]
+  },
+  "281": {
+    "explanation": "Hoe is a question word used to ask about the manner or way something happens. It translates directly to 'how' in English.",
+    "examples": [
+      {
+        "dutch": "Hoe kom je hier?",
+        "english": "How do you get here?"
+      },
+      {
+        "dutch": "Hoe werkt dit?",
+        "english": "How does this work?"
+      }
+    ]
+  },
+  "282": {
+    "explanation": "Waarom is a question word used to ask for the reason or cause behind something. It means 'why' in English.",
+    "examples": [
+      {
+        "dutch": "Waarom ben je hier?",
+        "english": "Why are you here?"
+      },
+      {
+        "dutch": "Waarom lach je?",
+        "english": "Why are you laughing?"
+      }
+    ]
+  },
+  "283": {
+    "explanation": "Hoeveel is used to ask about the quantity or amount of something. It can mean 'how many' for countable items or 'how much' for uncountable items.",
+    "examples": [
+      {
+        "dutch": "Hoeveel kost het?",
+        "english": "How much does it cost?"
+      },
+      {
+        "dutch": "Hoeveel boeken heb je?",
+        "english": "How many books do you have?"
+      }
+    ]
+  },
+  "284": {
+    "explanation": "Jou is the objective form of 'you' (singular) in Dutch. It is used when 'you' is the direct or indirect object of a verb, or after a preposition.",
+    "examples": [
+      {
+        "dutch": "Ik zie jou.",
+        "english": "I see you."
+      },
+      {
+        "dutch": "Dit is voor jou.",
+        "english": "This is for you."
+      }
+    ]
+  },
+  "285": {
+    "explanation": "Mij is the objective form of 'I' in Dutch, meaning 'me'. It is used when 'me' is the direct or indirect object of a verb, or after a preposition.",
+    "examples": [
+      {
+        "dutch": "Help mij alsjeblieft.",
+        "english": "Please help me."
+      },
+      {
+        "dutch": "Dit is voor mij.",
+        "english": "This is for me."
+      }
+    ]
+  },
+  "286": {
+    "explanation": "Hallo is a common and versatile greeting used to say hello. It can be used in almost any social situation, both formal and informal.",
+    "examples": [
+      {
+        "dutch": "Hallo, hoe gaat het?",
+        "english": "Hello, how are you?"
+      },
+      {
+        "dutch": "Hallo, ik ben Marie.",
+        "english": "Hello, I am Marie."
+      }
+    ]
+  },
+  "287": {
+    "explanation": "This phrase is a standard and common way to ask someone about their well-being. It directly translates to 'How are you?' or 'How is it going with you?'.",
+    "examples": [
+      {
+        "dutch": "Hallo, hoe gaat het met jou?",
+        "english": "Hello, how are you?"
+      },
+      {
+        "dutch": "Het gaat goed, en met jou?",
+        "english": "I'm doing well, and you?"
+      }
+    ]
+  },
+  "288": {
+    "explanation": "This is an enthusiastic phrase used to express approval for a suggestion or plan. It means 'Good idea!' or 'Great idea!'.",
+    "examples": [
+      {
+        "dutch": "Laten we naar het park gaan. Goed idee!",
+        "english": "Let's go to the park. Good idea!"
+      },
+      {
+        "dutch": "We gaan pizza eten! Goed idee!",
+        "english": "We are going to eat pizza! Great idea!"
+      }
+    ]
+  },
+  "289": {
+    "explanation": "This phrase is used to introduce a new thought, suggestion, or a sudden realization. It directly translates to 'You know what?'.",
+    "examples": [
+      {
+        "dutch": "Weet je wat? Laten we naar de film gaan.",
+        "english": "You know what? Let's go to the cinema."
+      },
+      {
+        "dutch": "Ik ben moe. Weet je wat? Ik ga slapen.",
+        "english": "I am tired. You know what? I am going to sleep."
+      }
+    ]
+  },
+  "290": {
+    "explanation": "This is a casual way to say goodbye when you expect to see the person again later on the same day. It means 'See you later!'.",
+    "examples": [
+      {
+        "dutch": "Ik ga nu, tot straks!",
+        "english": "I am leaving now, see you later!"
+      },
+      {
+        "dutch": "Succes met werken. Tot straks!",
+        "english": "Good luck with work. See you later!"
+      }
+    ]
+  },
+  "291": {
+    "explanation": "Doei is an informal and very common way to say goodbye in Dutch. It is typically used among friends, family, or people you know well.",
+    "examples": [
+      {
+        "dutch": "Tot morgen! Doei!",
+        "english": "See you tomorrow! Bye!"
+      },
+      {
+        "dutch": "Ik ga naar huis. Doei!",
+        "english": "I am going home. Bye!"
+      }
+    ]
+  }
+}

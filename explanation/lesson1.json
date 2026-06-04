@@ -1,0 +1,2264 @@
+{
+  "1": {
+    "explanation": "De baas refers to the person in charge or the owner of a company. They give instructions and make important decisions.",
+    "examples": [
+      {
+        "dutch": "Mijn baas is aardig.",
+        "english": "My boss is kind."
+      },
+      {
+        "dutch": "De baas werkt hard.",
+        "english": "The boss works hard."
+      }
+    ]
+  },
+  "2": {
+    "explanation": "A manager is someone who oversees a team or a specific department within an organization. They coordinate tasks and ensure work gets done.",
+    "examples": [
+      {
+        "dutch": "De manager helpt het team.",
+        "english": "The manager helps the team."
+      },
+      {
+        "dutch": "Ik spreek met de manager.",
+        "english": "I speak with the manager."
+      }
+    ]
+  },
+  "3": {
+    "explanation": "De directeur is the highest-ranking executive in a company, often responsible for its overall direction and management. This role is similar to a CEO or managing director.",
+    "examples": [
+      {
+        "dutch": "De directeur heeft een belangrijke vergadering.",
+        "english": "The director has an important meeting."
+      },
+      {
+        "dutch": "Zij is de nieuwe directeur.",
+        "english": "She is the new director."
+      }
+    ]
+  },
+  "4": {
+    "explanation": "An onderzoeker is a researcher, someone who conducts scientific studies or investigations to discover new information or understand phenomena.",
+    "examples": [
+      {
+        "dutch": "De onderzoeker leest veel boeken.",
+        "english": "The researcher reads many books."
+      },
+      {
+        "dutch": "Hij is een slimme onderzoeker.",
+        "english": "He is a smart researcher."
+      }
+    ]
+  },
+  "5": {
+    "explanation": "An ingenieur is an engineer, a professional who designs, builds, or maintains engines, machines, or structures. They often use scientific principles to solve practical problems.",
+    "examples": [
+      {
+        "dutch": "De ingenieur bouwt een brug.",
+        "english": "The engineer builds a bridge."
+      },
+      {
+        "dutch": "Zij is een goede ingenieur.",
+        "english": "She is a good engineer."
+      }
+    ]
+  },
+  "6": {
+    "explanation": "De arts is a doctor or physician, a medical professional who diagnoses and treats illnesses and injuries. They work in hospitals or private practices.",
+    "examples": [
+      {
+        "dutch": "Ik ga naar de arts.",
+        "english": "I go to the doctor."
+      },
+      {
+        "dutch": "De arts helpt mensen beter worden.",
+        "english": "The doctor helps people get better."
+      }
+    ]
+  },
+  "7": {
+    "explanation": "De tandarts is a dentist, a medical professional who specializes in the care of teeth and gums. They help keep your mouth healthy.",
+    "examples": [
+      {
+        "dutch": "De tandarts kijkt naar mijn tanden.",
+        "english": "The dentist looks at my teeth."
+      },
+      {
+        "dutch": "Ik heb een afspraak bij de tandarts.",
+        "english": "I have an appointment with the dentist."
+      }
+    ]
+  },
+  "8": {
+    "explanation": "An accountant is a professional who examines and manages financial records for individuals or companies. They help with taxes and financial planning.",
+    "examples": [
+      {
+        "dutch": "De accountant controleert de cijfers.",
+        "english": "The accountant checks the figures."
+      },
+      {
+        "dutch": "Mijn zus is accountant.",
+        "english": "My sister is an accountant."
+      }
+    ]
+  },
+  "9": {
+    "explanation": "An architect is a professional who designs buildings and other structures. They create plans and oversee construction projects.",
+    "examples": [
+      {
+        "dutch": "De architect ontwerpt een mooi huis.",
+        "english": "The architect designs a beautiful house."
+      },
+      {
+        "dutch": "Hij wil architect worden.",
+        "english": "He wants to become an architect."
+      }
+    ]
+  },
+  "10": {
+    "explanation": "De verkoper is a salesman or saleswoman, someone whose job is to sell products or services. They often work in stores or for companies.",
+    "examples": [
+      {
+        "dutch": "De verkoper helpt de klant.",
+        "english": "The salesman helps the customer."
+      },
+      {
+        "dutch": "Zij is een goede verkoper.",
+        "english": "She is a good salesperson."
+      }
+    ]
+  },
+  "11": {
+    "explanation": "De vertegenwoordiger is a representative, often someone who works for a company and visits clients to sell products or services. They represent their company to others.",
+    "examples": [
+      {
+        "dutch": "De vertegenwoordiger komt vandaag langs.",
+        "english": "The representative is visiting today."
+      },
+      {
+        "dutch": "Hij is een vertegenwoordiger voor een softwarebedrijf.",
+        "english": "He is a representative for a software company."
+      }
+    ]
+  },
+  "12": {
+    "explanation": "De and het are both definite articles in Dutch, meaning 'the'. 'De' is used for common gender nouns (masculine and feminine) and all plural nouns, while 'het' is used for neuter singular nouns.",
+    "examples": [
+      {
+        "dutch": "De auto is rood.",
+        "english": "The car is red."
+      },
+      {
+        "dutch": "Het huis is groot.",
+        "english": "The house is big."
+      }
+    ]
+  },
+  "13": {
+    "explanation": "Een is the indefinite article in Dutch, meaning 'a' or 'an'. It is used before singular nouns when referring to something non-specific.",
+    "examples": [
+      {
+        "dutch": "Ik zie een hond.",
+        "english": "I see a dog."
+      },
+      {
+        "dutch": "Heb jij een vraag?",
+        "english": "Do you have a question?"
+      }
+    ]
+  },
+  "14": {
+    "explanation": "De man means 'the man'. It refers to an adult male person.",
+    "examples": [
+      {
+        "dutch": "De man leest een boek.",
+        "english": "The man reads a book."
+      },
+      {
+        "dutch": "Waar is de man?",
+        "english": "Where is the man?"
+      }
+    ]
+  },
+  "15": {
+    "explanation": "De vrouw means 'the woman'. It refers to an adult female person.",
+    "examples": [
+      {
+        "dutch": "De vrouw drinkt koffie.",
+        "english": "The woman drinks coffee."
+      },
+      {
+        "dutch": "Dat is de vrouw van mijn broer.",
+        "english": "That is my brother's wife."
+      }
+    ]
+  },
+  "16": {
+    "explanation": "De baby means 'the baby'. It refers to a very young child.",
+    "examples": [
+      {
+        "dutch": "De baby slaapt veel.",
+        "english": "The baby sleeps a lot."
+      },
+      {
+        "dutch": "De baby lacht.",
+        "english": "The baby laughs."
+      }
+    ]
+  },
+  "17": {
+    "explanation": "De hond means 'the dog'. It refers to a common domesticated animal often kept as a pet.",
+    "examples": [
+      {
+        "dutch": "De hond rent in de tuin.",
+        "english": "The dog runs in the garden."
+      },
+      {
+        "dutch": "Dat is mijn hond.",
+        "english": "That is my dog."
+      }
+    ]
+  },
+  "18": {
+    "explanation": "De student means 'the student'. It refers to a person who is studying at a school or university.",
+    "examples": [
+      {
+        "dutch": "De student leert Nederlands.",
+        "english": "The student learns Dutch."
+      },
+      {
+        "dutch": "Zij is een ijverige student.",
+        "english": "She is a diligent student."
+      }
+    ]
+  },
+  "19": {
+    "explanation": "De docent means 'the teacher' or 'the lecturer'. It refers to someone who teaches in a school or at a higher educational institution.",
+    "examples": [
+      {
+        "dutch": "De docent legt de les uit.",
+        "english": "The teacher explains the lesson."
+      },
+      {
+        "dutch": "Onze docent is erg geduldig.",
+        "english": "Our teacher is very patient."
+      }
+    ]
+  },
+  "20": {
+    "explanation": "De les means 'the lesson'. It refers to a period of teaching or instruction.",
+    "examples": [
+      {
+        "dutch": "De les begint om negen uur.",
+        "english": "The lesson starts at nine o'clock."
+      },
+      {
+        "dutch": "Ik vind de les interessant.",
+        "english": "I find the lesson interesting."
+      }
+    ]
+  },
+  "21": {
+    "explanation": "This is a writing tool that uses ink. You use it to write letters or notes.",
+    "examples": [
+      {
+        "dutch": "Ik heb een pen.",
+        "english": "I have a pen."
+      },
+      {
+        "dutch": "De pen is blauw.",
+        "english": "The pen is blue."
+      }
+    ]
+  },
+  "22": {
+    "explanation": "This refers to written words, like in a book, email, or document. It's what you read.",
+    "examples": [
+      {
+        "dutch": "Lees de tekst goed.",
+        "english": "Read the text well."
+      },
+      {
+        "dutch": "De tekst is lang.",
+        "english": "The text is long."
+      }
+    ]
+  },
+  "23": {
+    "explanation": "This is a place where people watch plays, concerts, or other performances. You buy a ticket to go inside.",
+    "examples": [
+      {
+        "dutch": "Wij gaan naar het theater.",
+        "english": "We go to the theatre."
+      },
+      {
+        "dutch": "Het theater is groot.",
+        "english": "The theatre is big."
+      }
+    ]
+  },
+  "24": {
+    "explanation": "This word refers to a young female person, typically a child or an adolescent. She is not yet a woman.",
+    "examples": [
+      {
+        "dutch": "Het meisje lacht.",
+        "english": "The girl laughs."
+      },
+      {
+        "dutch": "Zij is een lief meisje.",
+        "english": "She is a sweet girl."
+      }
+    ]
+  },
+  "25": {
+    "explanation": "This is a young human being, usually from birth until puberty. Both boys and girls can be a 'kind'.",
+    "examples": [
+      {
+        "dutch": "Het kind speelt buiten.",
+        "english": "The child plays outside."
+      },
+      {
+        "dutch": "Ik heb een kind.",
+        "english": "I have a child."
+      }
+    ]
+  },
+  "26": {
+    "explanation": "This is a small mammal with long ears and a short fluffy tail. They are often kept as pets.",
+    "examples": [
+      {
+        "dutch": "Het konijn eet wortels.",
+        "english": "The rabbit eats carrots."
+      },
+      {
+        "dutch": "Ik zie een konijn.",
+        "english": "I see a rabbit."
+      }
+    ]
+  },
+  "27": {
+    "explanation": "This word has two common meanings: a country (like France or Germany) or land/ground (like a field).",
+    "examples": [
+      {
+        "dutch": "Nederland is een mooi land.",
+        "english": "The Netherlands is a beautiful country."
+      },
+      {
+        "dutch": "Dit land is groen.",
+        "english": "This land is green."
+      }
+    ]
+  },
+  "28": {
+    "explanation": "This is a set of written or printed pages fastened together in a cover. You read books for stories or information.",
+    "examples": [
+      {
+        "dutch": "Ik lees een boek.",
+        "english": "I read a book."
+      },
+      {
+        "dutch": "Het boek is nieuw.",
+        "english": "The book is new."
+      }
+    ]
+  },
+  "29": {
+    "explanation": "This is the specific location of a building or a place, including the street name, house number, and city. You use it for mail or directions.",
+    "examples": [
+      {
+        "dutch": "Wat is jouw adres?",
+        "english": "What is your address?"
+      },
+      {
+        "dutch": "Ik schrijf het adres op.",
+        "english": "I write down the address."
+      }
+    ]
+  },
+  "30": {
+    "explanation": "This is the response to a question or a problem. It's what you say or write back.",
+    "examples": [
+      {
+        "dutch": "Het antwoord is goed.",
+        "english": "The answer is correct."
+      },
+      {
+        "dutch": "Weet jij het antwoord?",
+        "english": "Do you know the answer?"
+      }
+    ]
+  },
+  "31": {
+    "explanation": "This is a building where people live. It provides shelter and a home.",
+    "examples": [
+      {
+        "dutch": "Wij wonen in een huis.",
+        "english": "We live in a house."
+      },
+      {
+        "dutch": "Het huis is oud.",
+        "english": "The house is old."
+      }
+    ]
+  },
+  "32": {
+    "explanation": "This is a portable computer with a touchscreen, larger than a smartphone but smaller than a laptop. You can use it for browsing or apps.",
+    "examples": [
+      {
+        "dutch": "De tablet ligt op tafel.",
+        "english": "The tablet is on the table."
+      },
+      {
+        "dutch": "Ik gebruik mijn tablet.",
+        "english": "I use my tablet."
+      }
+    ]
+  },
+  "33": {
+    "explanation": "This is a mobile phone that can do many things like browse the internet, take photos, and run apps, in addition to making calls.",
+    "examples": [
+      {
+        "dutch": "Mijn smartphone is nieuw.",
+        "english": "My smartphone is new."
+      },
+      {
+        "dutch": "Zij belt met haar smartphone.",
+        "english": "She calls with her smartphone."
+      }
+    ]
+  },
+  "34": {
+    "explanation": "This is an expression used to wish someone good fortune or a positive outcome in an upcoming task or event.",
+    "examples": [
+      {
+        "dutch": "Je hebt een examen. Veel succes!",
+        "english": "You have an exam. Good luck!"
+      },
+      {
+        "dutch": "Morgen begin je. Veel succes!",
+        "english": "Tomorrow you start. Good luck!"
+      }
+    ]
+  },
+  "35": {
+    "explanation": "This is a word or set of words by which a person, animal, place, or thing is known or identified.",
+    "examples": [
+      {
+        "dutch": "Wat is jouw naam?",
+        "english": "What is your name?"
+      },
+      {
+        "dutch": "Mijn naam is Piet.",
+        "english": "My name is Piet."
+      }
+    ]
+  },
+  "36": {
+    "explanation": "This is your personal name given at birth or baptism, often called a 'first name' or 'given name'.",
+    "examples": [
+      {
+        "dutch": "Mijn voornaam is Jan.",
+        "english": "My first name is Jan."
+      },
+      {
+        "dutch": "Wat is jouw voornaam?",
+        "english": "What is your first name?"
+      }
+    ]
+  },
+  "37": {
+    "explanation": "This is the name you share with your family, often called a 'last name' or 'surname'.",
+    "examples": [
+      {
+        "dutch": "Mijn achternaam is Jansen.",
+        "english": "My surname is Jansen."
+      },
+      {
+        "dutch": "Schrijf je achternaam hier.",
+        "english": "Write your surname here."
+      }
+    ]
+  },
+  "38": {
+    "explanation": "This is a large and important town, often with many people, buildings, and services.",
+    "examples": [
+      {
+        "dutch": "Amsterdam is een mooie stad.",
+        "english": "Amsterdam is a beautiful city."
+      },
+      {
+        "dutch": "Ik woon in de stad.",
+        "english": "I live in the city."
+      }
+    ]
+  },
+  "39": {
+    "explanation": "This is the official name of the country often referred to as Holland, located in Western Europe.",
+    "examples": [
+      {
+        "dutch": "Ik kom uit Nederland.",
+        "english": "I come from the Netherlands."
+      },
+      {
+        "dutch": "Nederland heeft veel water.",
+        "english": "The Netherlands has a lot of water."
+      }
+    ]
+  },
+  "40": {
+    "explanation": "This is a system of communication used by a particular country or community, such as Dutch or English.",
+    "examples": [
+      {
+        "dutch": "Nederlands is een mooie taal.",
+        "english": "Dutch is a beautiful language."
+      },
+      {
+        "dutch": "Ik leer een nieuwe taal.",
+        "english": "I learn a new language."
+      }
+    ]
+  },
+  "41": {
+    "explanation": "This refers to the language spoken in the Netherlands and parts of Belgium. It's a West Germanic language.",
+    "examples": [
+      {
+        "dutch": "Ik leer het Nederlands.",
+        "english": "I am learning Dutch."
+      },
+      {
+        "dutch": "Spreek jij het Nederlands?",
+        "english": "Do you speak Dutch?"
+      }
+    ]
+  },
+  "42": {
+    "explanation": "This is a sport played with rackets and a ball, usually on a court with a net.",
+    "examples": [
+      {
+        "dutch": "Ik speel graag tennis.",
+        "english": "I like to play tennis."
+      },
+      {
+        "dutch": "Hij kijkt naar het tennis op tv.",
+        "english": "He watches tennis on TV."
+      }
+    ]
+  },
+  "43": {
+    "explanation": "This word refers to any living creature that is not a plant, such as a cat, dog, or bird.",
+    "examples": [
+      {
+        "dutch": "Dit is een mooi dier.",
+        "english": "This is a beautiful animal."
+      },
+      {
+        "dutch": "Veel dieren leven in het bos.",
+        "english": "Many animals live in the forest."
+      }
+    ]
+  },
+  "44": {
+    "explanation": "A cat is a small, furry animal often kept as a pet.",
+    "examples": [
+      {
+        "dutch": "Ik heb een zwarte kat.",
+        "english": "I have a black cat."
+      },
+      {
+        "dutch": "De kat slaapt veel.",
+        "english": "The cat sleeps a lot."
+      }
+    ]
+  },
+  "45": {
+    "explanation": "This is a country in Central Europe, known for its history and culture.",
+    "examples": [
+      {
+        "dutch": "Zij komt uit Duitsland.",
+        "english": "She comes from Germany."
+      },
+      {
+        "dutch": "Duitsland is een groot land.",
+        "english": "Germany is a big country."
+      }
+    ]
+  },
+  "46": {
+    "explanation": "This is the language spoken in Germany, Austria, and parts of Switzerland. It is a Germanic language.",
+    "examples": [
+      {
+        "dutch": "Ik spreek een beetje Duits.",
+        "english": "I speak a little German."
+      },
+      {
+        "dutch": "Hij leert Duits op school.",
+        "english": "He learns German at school."
+      }
+    ]
+  },
+  "47": {
+    "explanation": "This commonly refers to the United States of America, a large country in North America.",
+    "examples": [
+      {
+        "dutch": "Zij woont in Amerika.",
+        "english": "She lives in America."
+      },
+      {
+        "dutch": "Veel mensen spreken Engels in Amerika.",
+        "english": "Many people speak English in America."
+      }
+    ]
+  },
+  "48": {
+    "explanation": "This is a West Germanic language, widely spoken around the world, including in the United States and the United Kingdom.",
+    "examples": [
+      {
+        "dutch": "Wij spreken Engels thuis.",
+        "english": "We speak English at home."
+      },
+      {
+        "dutch": "Engels is een belangrijke taal.",
+        "english": "English is an important language."
+      }
+    ]
+  },
+  "49": {
+    "explanation": "This is a very large country in East Asia, known for its long history and culture.",
+    "examples": [
+      {
+        "dutch": "Hij reist naar China.",
+        "english": "He travels to China."
+      },
+      {
+        "dutch": "China heeft veel inwoners.",
+        "english": "China has many inhabitants."
+      }
+    ]
+  },
+  "50": {
+    "explanation": "This refers to the group of languages spoken in China, with Mandarin being the most common form.",
+    "examples": [
+      {
+        "dutch": "Zij leert Chinees.",
+        "english": "She is learning Chinese."
+      },
+      {
+        "dutch": "Chinees is een moeilijke taal.",
+        "english": "Chinese is a difficult language."
+      }
+    ]
+  },
+  "51": {
+    "explanation": "This is the largest country in the world by area, located in Eastern Europe and Northern Asia.",
+    "examples": [
+      {
+        "dutch": "Mijn vriend komt uit Rusland.",
+        "english": "My friend comes from Russia."
+      },
+      {
+        "dutch": "Rusland is een groot land.",
+        "english": "Russia is a big country."
+      }
+    ]
+  },
+  "52": {
+    "explanation": "This is an East Slavic language and the official language of Russia.",
+    "examples": [
+      {
+        "dutch": "Zij spreekt Russisch met haar familie.",
+        "english": "She speaks Russian with her family."
+      },
+      {
+        "dutch": "Ik wil Russisch leren.",
+        "english": "I want to learn Russian."
+      }
+    ]
+  },
+  "53": {
+    "explanation": "This is a country in Western Europe, famous for its culture, food, and cities like Paris.",
+    "examples": [
+      {
+        "dutch": "Wij gaan op vakantie naar Frankrijk.",
+        "english": "We are going on holiday to France."
+      },
+      {
+        "dutch": "Frankrijk is een mooi land.",
+        "english": "France is a beautiful country."
+      }
+    ]
+  },
+  "54": {
+    "explanation": "This is a Romance language spoken in France, Canada, parts of Belgium, and many other countries.",
+    "examples": [
+      {
+        "dutch": "Spreek jij Frans?",
+        "english": "Do you speak French?"
+      },
+      {
+        "dutch": "Frans is mijn moedertaal.",
+        "english": "French is my mother tongue."
+      }
+    ]
+  },
+  "55": {
+    "explanation": "This refers to a period of 24 hours, or the time when there is sunlight.",
+    "examples": [
+      {
+        "dutch": "Vandaag is een mooie dag.",
+        "english": "Today is a beautiful day."
+      },
+      {
+        "dutch": "De dag begint om zes uur.",
+        "english": "The day starts at six o'clock."
+      }
+    ]
+  },
+  "56": {
+    "explanation": "This is a period of seven days.",
+    "examples": [
+      {
+        "dutch": "Deze week heb ik veel werk.",
+        "english": "This week I have a lot of work."
+      },
+      {
+        "dutch": "Er zijn zeven dagen in een week.",
+        "english": "There are seven days in a week."
+      }
+    ]
+  },
+  "57": {
+    "explanation": "This is a period of time, usually around four weeks or 30-31 days. There are twelve months in a year.",
+    "examples": [
+      {
+        "dutch": "Volgende maand ga ik op vakantie.",
+        "english": "Next month I am going on holiday."
+      },
+      {
+        "dutch": "Januari is de eerste maand van het jaar.",
+        "english": "January is the first month of the year."
+      }
+    ]
+  },
+  "58": {
+    "explanation": "This refers to a period of 12 months, or 365 (or 366) days.",
+    "examples": [
+      {
+        "dutch": "Het nieuwe jaar begint op 1 januari.",
+        "english": "The new year starts on January 1st."
+      },
+      {
+        "dutch": "Ik ben al drie jaar in Nederland.",
+        "english": "I have been in the Netherlands for three years already."
+      }
+    ]
+  },
+  "59": {
+    "explanation": "This is the first day of the working week, coming after Sunday and before Tuesday.",
+    "examples": [
+      {
+        "dutch": "Op maandag werk ik niet.",
+        "english": "On Monday I don't work."
+      },
+      {
+        "dutch": "De winkel is gesloten op maandag.",
+        "english": "The shop is closed on Monday."
+      }
+    ]
+  },
+  "60": {
+    "explanation": "This is the second day of the working week, coming after Monday and before Wednesday.",
+    "examples": [
+      {
+        "dutch": "Ik heb les op dinsdag.",
+        "english": "I have class on Tuesday."
+      },
+      {
+        "dutch": "Tot dinsdag!",
+        "english": "See you on Tuesday!"
+      }
+    ]
+  },
+  "61": {
+    "explanation": "This is the Dutch word for Wednesday, the third day of the week.",
+    "examples": [
+      {
+        "dutch": "Ik werk op woensdag.",
+        "english": "I work on Wednesday."
+      },
+      {
+        "dutch": "Woensdag is een vrije dag voor mij.",
+        "english": "Wednesday is a free day for me."
+      }
+    ]
+  },
+  "62": {
+    "explanation": "This is the Dutch word for Thursday, the fourth day of the week.",
+    "examples": [
+      {
+        "dutch": "De les is op donderdag.",
+        "english": "The lesson is on Thursday."
+      },
+      {
+        "dutch": "Wat doe je aanstaande donderdag?",
+        "english": "What are you doing this Thursday?"
+      }
+    ]
+  },
+  "63": {
+    "explanation": "This is the Dutch word for Friday, which is often considered the last day of the workweek.",
+    "examples": [
+      {
+        "dutch": "Fijne vrijdag!",
+        "english": "Happy Friday!"
+      },
+      {
+        "dutch": "We gaan vrijdag uit eten.",
+        "english": "We are going out to eat on Friday."
+      }
+    ]
+  },
+  "64": {
+    "explanation": "This is the Dutch word for Saturday, the first day of the weekend.",
+    "examples": [
+      {
+        "dutch": "Ik sport op zaterdag.",
+        "english": "I exercise on Saturday."
+      },
+      {
+        "dutch": "Zaterdag is mijn favoriete dag.",
+        "english": "Saturday is my favorite day."
+      }
+    ]
+  },
+  "65": {
+    "explanation": "This is the Dutch word for Sunday, the second day of the weekend and often a day of rest.",
+    "examples": [
+      {
+        "dutch": "Zondag is een rustdag.",
+        "english": "Sunday is a day of rest."
+      },
+      {
+        "dutch": "Tot zondag!",
+        "english": "See you on Sunday!"
+      }
+    ]
+  },
+  "66": {
+    "explanation": "This is the Dutch word for January, the first month of the year.",
+    "examples": [
+      {
+        "dutch": "Het is koud in januari.",
+        "english": "It is cold in January."
+      },
+      {
+        "dutch": "Mijn verjaardag is in januari.",
+        "english": "My birthday is in January."
+      }
+    ]
+  },
+  "67": {
+    "explanation": "This is the Dutch word for February, the second month of the year.",
+    "examples": [
+      {
+        "dutch": "Februari heeft 28 dagen.",
+        "english": "February has 28 days."
+      },
+      {
+        "dutch": "Valentijnsdag is in februari.",
+        "english": "Valentine's Day is in February."
+      }
+    ]
+  },
+  "68": {
+    "explanation": "This is the Dutch word for March, the third month of the year, when spring often begins.",
+    "examples": [
+      {
+        "dutch": "De lente begint in maart.",
+        "english": "Spring begins in March."
+      },
+      {
+        "dutch": "Ik ga in maart op vakantie.",
+        "english": "I am going on holiday in March."
+      }
+    ]
+  },
+  "69": {
+    "explanation": "This is the Dutch word for April, the fourth month of the year.",
+    "examples": [
+      {
+        "dutch": "April staat bekend om regen.",
+        "english": "April is known for rain."
+      },
+      {
+        "dutch": "Mijn broer is geboren in april.",
+        "english": "My brother was born in April."
+      }
+    ]
+  },
+  "70": {
+    "explanation": "This is the Dutch word for May, the fifth month of the year.",
+    "examples": [
+      {
+        "dutch": "Het weer is mooi in mei.",
+        "english": "The weather is beautiful in May."
+      },
+      {
+        "dutch": "Veel bloemen bloeien in mei.",
+        "english": "Many flowers bloom in May."
+      }
+    ]
+  },
+  "71": {
+    "explanation": "This is the Dutch word for June, the sixth month of the year, marking the start of summer.",
+    "examples": [
+      {
+        "dutch": "De school is uit in juni.",
+        "english": "School is out in June."
+      },
+      {
+        "dutch": "Ik ga in juni zwemmen.",
+        "english": "I am going swimming in June."
+      }
+    ]
+  },
+  "72": {
+    "explanation": "This is the Dutch word for July, the seventh month of the year, typically a warm summer month.",
+    "examples": [
+      {
+        "dutch": "Het is warm in juli.",
+        "english": "It is warm in July."
+      },
+      {
+        "dutch": "Ik ga in juli op reis.",
+        "english": "I am going on a trip in July."
+      }
+    ]
+  },
+  "73": {
+    "explanation": "This is the Dutch word for August, the eighth month of the year and usually the last full summer month.",
+    "examples": [
+      {
+        "dutch": "Veel mensen gaan in augustus op vakantie.",
+        "english": "Many people go on holiday in August."
+      },
+      {
+        "dutch": "De zon schijnt in augustus.",
+        "english": "The sun shines in August."
+      }
+    ]
+  },
+  "74": {
+    "explanation": "This is the Dutch word for September, the ninth month of the year, when autumn often begins.",
+    "examples": [
+      {
+        "dutch": "De scholen beginnen in september.",
+        "english": "Schools start in September."
+      },
+      {
+        "dutch": "Het weer wordt koeler in september.",
+        "english": "The weather gets cooler in September."
+      }
+    ]
+  },
+  "75": {
+    "explanation": "This is the Dutch word for October, the tenth month of the year.",
+    "examples": [
+      {
+        "dutch": "Halloween is in oktober.",
+        "english": "Halloween is in October."
+      },
+      {
+        "dutch": "De bladeren vallen in oktober.",
+        "english": "The leaves fall in October."
+      }
+    ]
+  },
+  "76": {
+    "explanation": "This is the Dutch word for November, the eleventh month of the year.",
+    "examples": [
+      {
+        "dutch": "Het is vaak grijs in november.",
+        "english": "It is often grey in November."
+      },
+      {
+        "dutch": "Sinterklaas komt in november.",
+        "english": "Sinterklaas comes in November."
+      }
+    ]
+  },
+  "77": {
+    "explanation": "This is the Dutch word for December, the twelfth and final month of the year.",
+    "examples": [
+      {
+        "dutch": "Kerstmis is in december.",
+        "english": "Christmas is in December."
+      },
+      {
+        "dutch": "Het jaar eindigt in december.",
+        "english": "The year ends in December."
+      }
+    ]
+  },
+  "78": {
+    "explanation": "This refers to 'the season', one of the main divisions of the year, such as summer or winter.",
+    "examples": [
+      {
+        "dutch": "Wat is jouw favoriete seizoen?",
+        "english": "What is your favorite season?"
+      },
+      {
+        "dutch": "Elk seizoen heeft zijn charme.",
+        "english": "Every season has its charm."
+      }
+    ]
+  },
+  "79": {
+    "explanation": "This is the Dutch word for 'spring', the season after winter when plants grow and bloom.",
+    "examples": [
+      {
+        "dutch": "De lente begint in maart.",
+        "english": "Spring begins in March."
+      },
+      {
+        "dutch": "Ik hou van de lente.",
+        "english": "I love spring."
+      }
+    ]
+  },
+  "80": {
+    "explanation": "This is the Dutch word for 'summer', the warmest season of the year, usually with long, sunny days.",
+    "examples": [
+      {
+        "dutch": "De zomer is mijn favoriete seizoen.",
+        "english": "Summer is my favorite season."
+      },
+      {
+        "dutch": "In de zomer ga ik vaak zwemmen.",
+        "english": "In the summer I often go swimming."
+      }
+    ]
+  },
+  "81": {
+    "explanation": "This noun refers to 'autumn' or 'fall', the season between summer and winter when leaves change color and fall from trees.",
+    "examples": [
+      {
+        "dutch": "De herfst is een mooi seizoen.",
+        "english": "The autumn is a beautiful season."
+      },
+      {
+        "dutch": "In de herfst regent het vaak.",
+        "english": "In the autumn it often rains."
+      }
+    ]
+  },
+  "82": {
+    "explanation": "This noun means 'winter', the coldest season of the year, following autumn and preceding spring.",
+    "examples": [
+      {
+        "dutch": "In de winter is het koud.",
+        "english": "In the winter it is cold."
+      },
+      {
+        "dutch": "Ik hou van de winter.",
+        "english": "I like the winter."
+      }
+    ]
+  },
+  "83": {
+    "explanation": "This is the first-person singular pronoun, meaning 'I'. You use it to refer to yourself.",
+    "examples": [
+      {
+        "dutch": "Ik spreek Nederlands.",
+        "english": "I speak Dutch."
+      },
+      {
+        "dutch": "Ik ben blij.",
+        "english": "I am happy."
+      }
+    ]
+  },
+  "84": {
+    "explanation": "This is the informal, singular pronoun for 'you'. Use it when talking to friends or family, and it's stressed to emphasize 'you'.",
+    "examples": [
+      {
+        "dutch": "Jij bent slim.",
+        "english": "You are smart."
+      },
+      {
+        "dutch": "Wil jij koffie?",
+        "english": "Do you want coffee?"
+      }
+    ]
+  },
+  "85": {
+    "explanation": "This is the unstressed, informal, singular pronoun for 'you'. It's a common, lighter way to say 'you' to friends or family.",
+    "examples": [
+      {
+        "dutch": "Hoe gaat het met je?",
+        "english": "How are you?"
+      },
+      {
+        "dutch": "Heb je tijd?",
+        "english": "Do you have time?"
+      }
+    ]
+  },
+  "86": {
+    "explanation": "This is the formal or polite pronoun for 'you', used for both singular and plural. You use it when talking to strangers, elders, or people in a position of authority.",
+    "examples": [
+      {
+        "dutch": "Spreekt u Engels?",
+        "english": "Do you speak English?"
+      },
+      {
+        "dutch": "Hoe gaat het met u?",
+        "english": "How are you? (polite)"
+      }
+    ]
+  },
+  "87": {
+    "explanation": "This is the third-person singular pronoun, meaning 'he'. You use it to refer to a male person.",
+    "examples": [
+      {
+        "dutch": "Hij is mijn broer.",
+        "english": "He is my brother."
+      },
+      {
+        "dutch": "Hij werkt hier.",
+        "english": "He works here."
+      }
+    ]
+  },
+  "88": {
+    "explanation": "This pronoun has two meanings: 1. 'she' (when stressed) or 2. 'they' (when stressed). It's used when you want to emphasize the female person or the group of people.",
+    "examples": [
+      {
+        "dutch": "Zij is mijn zus.",
+        "english": "She is my sister."
+      },
+      {
+        "dutch": "Zij wonen in Amsterdam.",
+        "english": "They live in Amsterdam."
+      }
+    ]
+  },
+  "89": {
+    "explanation": "This pronoun also has two meanings: 1. 'she' (unstressed) or 2. 'they' (unstressed). It's the common, unstressed way to say 'she' or 'they'.",
+    "examples": [
+      {
+        "dutch": "Ze is lief.",
+        "english": "She is kind."
+      },
+      {
+        "dutch": "Ze komen later.",
+        "english": "They come later."
+      }
+    ]
+  },
+  "90": {
+    "explanation": "This word has several uses, but here it refers to the neuter pronoun 'it'. It's used for neuter nouns or as a general 'it' in phrases like 'it is'.",
+    "examples": [
+      {
+        "dutch": "Het is een huis.",
+        "english": "It is a house."
+      },
+      {
+        "dutch": "Het regent.",
+        "english": "It is raining."
+      }
+    ]
+  },
+  "91": {
+    "explanation": "This is the first-person plural pronoun, meaning 'we'. Use it when you want to emphasize 'we' or are making a clear distinction.",
+    "examples": [
+      {
+        "dutch": "Wij gaan naar de film.",
+        "english": "We are going to the movie."
+      },
+      {
+        "dutch": "Wij spreken Nederlands.",
+        "english": "We speak Dutch."
+      }
+    ]
+  },
+  "92": {
+    "explanation": "This is the unstressed form of 'we'. It's the most common and light way to say 'we' in daily conversation.",
+    "examples": [
+      {
+        "dutch": "We eten samen.",
+        "english": "We eat together."
+      },
+      {
+        "dutch": "Wat doen we vandaag?",
+        "english": "What are we doing today?"
+      }
+    ]
+  },
+  "93": {
+    "explanation": "This is the plural pronoun for 'you', meaning 'you all' or 'y'all'. Use it when addressing more than one person informally.",
+    "examples": [
+      {
+        "dutch": "Wat doen jullie?",
+        "english": "What are you all doing?"
+      },
+      {
+        "dutch": "Jullie zijn welkom.",
+        "english": "You all are welcome."
+      }
+    ]
+  },
+  "94": {
+    "explanation": "This noun refers to a 'verb'. A verb is a word that describes an action, state, or occurrence.",
+    "examples": [
+      {
+        "dutch": "\"Lopen\" is een werkwoord.",
+        "english": "\"To walk\" is a verb."
+      },
+      {
+        "dutch": "Ik leer over werkwoorden.",
+        "english": "I learn about verbs."
+      }
+    ]
+  },
+  "95": {
+    "explanation": "This verb means 'to watch' or 'to look'. You use it when you direct your eyes towards something, often for a period of time.",
+    "examples": [
+      {
+        "dutch": "Ik kijk televisie.",
+        "english": "I watch television."
+      },
+      {
+        "dutch": "Wij kijken naar de vogels.",
+        "english": "We watch the birds."
+      }
+    ]
+  },
+  "96": {
+    "explanation": "This noun refers to a 'television' or 'TV'. It's an electronic device used for watching broadcast programs.",
+    "examples": [
+      {
+        "dutch": "De televisie staat aan.",
+        "english": "The television is on."
+      },
+      {
+        "dutch": "Ik kijk graag televisie.",
+        "english": "I like to watch television."
+      }
+    ]
+  },
+  "97": {
+    "explanation": "This verb means 'to work'. You use it to describe performing a job or task, often for pay.",
+    "examples": [
+      {
+        "dutch": "Ik werk in een winkel.",
+        "english": "I work in a store."
+      },
+      {
+        "dutch": "Wij werken hard.",
+        "english": "We work hard."
+      }
+    ]
+  },
+  "98": {
+    "explanation": "This is a preposition that can mean 'on' or 'at'. It indicates location, often on a surface, or a specific place.",
+    "examples": [
+      {
+        "dutch": "Het boek ligt op tafel.",
+        "english": "The book is on the table."
+      },
+      {
+        "dutch": "Ik werk op kantoor.",
+        "english": "I work at the office."
+      }
+    ]
+  },
+  "99": {
+    "explanation": "This noun refers to a 'university'. It's an institution of higher education where you can study for degrees.",
+    "examples": [
+      {
+        "dutch": "Zij studeert aan de universiteit.",
+        "english": "She studies at the university."
+      },
+      {
+        "dutch": "De universiteit is groot.",
+        "english": "The university is big."
+      }
+    ]
+  },
+  "100": {
+    "explanation": "This verb means 'to answer' or 'to reply'. You use it when you give a response to a question or a message.",
+    "examples": [
+      {
+        "dutch": "Ik kan de vraag antwoorden.",
+        "english": "I can answer the question."
+      },
+      {
+        "dutch": "Zij antwoordt snel.",
+        "english": "She answers quickly."
+      }
+    ]
+  },
+  "101": {
+    "explanation": "This noun means 'the question'. You use it when asking for information.",
+    "examples": [
+      {
+        "dutch": "Ik heb een vraag.",
+        "english": "I have a question."
+      },
+      {
+        "dutch": "De leraar stelt de vraag.",
+        "english": "The teacher asks the question."
+      }
+    ]
+  },
+  "102": {
+    "explanation": "This verb means 'to walk'. You use it when moving on foot.",
+    "examples": [
+      {
+        "dutch": "Ik loop naar huis.",
+        "english": "I walk home."
+      },
+      {
+        "dutch": "Wij lopen in het park.",
+        "english": "We walk in the park."
+      }
+    ]
+  },
+  "103": {
+    "explanation": "This verb means 'to learn'. You use it when acquiring new knowledge or skills.",
+    "examples": [
+      {
+        "dutch": "Ik leer Nederlands.",
+        "english": "I learn Dutch."
+      },
+      {
+        "dutch": "Zij leert snel.",
+        "english": "She learns quickly."
+      }
+    ]
+  },
+  "104": {
+    "explanation": "This verb means 'to tell'. You use it when sharing information or a story with someone.",
+    "examples": [
+      {
+        "dutch": "Ik vertel een verhaal.",
+        "english": "I tell a story."
+      },
+      {
+        "dutch": "Kan je het mij vertellen?",
+        "english": "Can you tell it to me?"
+      }
+    ]
+  },
+  "105": {
+    "explanation": "This verb means 'to live' in the sense of residing somewhere. You use it to talk about where someone has their home.",
+    "examples": [
+      {
+        "dutch": "Ik woon in Amsterdam.",
+        "english": "I live in Amsterdam."
+      },
+      {
+        "dutch": "Waar woon jij?",
+        "english": "Where do you live?"
+      }
+    ]
+  },
+  "106": {
+    "explanation": "This is a preposition meaning 'in' or 'into'. You use it to describe location or direction.",
+    "examples": [
+      {
+        "dutch": "Het boek is in de tas.",
+        "english": "The book is in the bag."
+      },
+      {
+        "dutch": "Zij stapt in de auto.",
+        "english": "She steps into the car."
+      }
+    ]
+  },
+  "107": {
+    "explanation": "This verb means 'to speak' or 'to talk'. You use it when using your voice to communicate.",
+    "examples": [
+      {
+        "dutch": "Ik spreek Nederlands.",
+        "english": "I speak Dutch."
+      },
+      {
+        "dutch": "Wij spreken met de leraar.",
+        "english": "We speak with the teacher."
+      }
+    ]
+  },
+  "108": {
+    "explanation": "This word means 'already'. You use it to indicate that something has happened or is true before expected.",
+    "examples": [
+      {
+        "dutch": "Ik eet al.",
+        "english": "I am already eating."
+      },
+      {
+        "dutch": "Het is al laat.",
+        "english": "It is already late."
+      }
+    ]
+  },
+  "109": {
+    "explanation": "This verb means 'to read'. You use it when looking at written words and understanding them.",
+    "examples": [
+      {
+        "dutch": "Ik lees een boek.",
+        "english": "I read a book."
+      },
+      {
+        "dutch": "Hij leest de krant.",
+        "english": "He reads the newspaper."
+      }
+    ]
+  },
+  "110": {
+    "explanation": "This noun means 'the newspaper'. You use it to refer to a daily publication with news.",
+    "examples": [
+      {
+        "dutch": "Ik lees de krant elke dag.",
+        "english": "I read the newspaper every day."
+      },
+      {
+        "dutch": "De krant ligt op tafel.",
+        "english": "The newspaper is on the table."
+      }
+    ]
+  },
+  "111": {
+    "explanation": "This verb means 'to give'. You use it when you hand something over to someone.",
+    "examples": [
+      {
+        "dutch": "Ik geef haar een cadeau.",
+        "english": "I give her a present."
+      },
+      {
+        "dutch": "Kan je mij dat boek geven?",
+        "english": "Can you give me that book?"
+      }
+    ]
+  },
+  "112": {
+    "explanation": "This verb means 'to sit'. It describes the act of resting on a surface, often with your body upright.",
+    "examples": [
+      {
+        "dutch": "Zij zit op de bank.",
+        "english": "She sits on the couch."
+      },
+      {
+        "dutch": "Wij zitten in het restaurant.",
+        "english": "We are sitting in the restaurant."
+      }
+    ]
+  },
+  "113": {
+    "explanation": "This word means 'outside'. You use it to refer to the area not inside a building.",
+    "examples": [
+      {
+        "dutch": "Het regent buiten.",
+        "english": "It's raining outside."
+      },
+      {
+        "dutch": "Wij spelen buiten.",
+        "english": "We play outside."
+      }
+    ]
+  },
+  "114": {
+    "explanation": "This verb means 'to have'. You use it to express possession.",
+    "examples": [
+      {
+        "dutch": "Ik heb een hond.",
+        "english": "I have a dog."
+      },
+      {
+        "dutch": "Wij hebben twee boeken.",
+        "english": "We have two books."
+      }
+    ]
+  },
+  "115": {
+    "explanation": "This verb means 'to be'. It is a very common verb used to describe states, qualities, or existence.",
+    "examples": [
+      {
+        "dutch": "Ik ben blij.",
+        "english": "I am happy."
+      },
+      {
+        "dutch": "Zij is een leraar.",
+        "english": "She is a teacher."
+      }
+    ]
+  },
+  "116": {
+    "explanation": "This word means 'since'. You use it to indicate a starting point in time for an ongoing situation.",
+    "examples": [
+      {
+        "dutch": "Ik woon hier sinds 2020.",
+        "english": "I live here since 2020."
+      },
+      {
+        "dutch": "Zij werkt hier sinds vorige week.",
+        "english": "She works here since last week."
+      }
+    ]
+  },
+  "117": {
+    "explanation": "This word means 'tonight'. You use it to refer to the evening of the current day.",
+    "examples": [
+      {
+        "dutch": "Ik ga uit eten vanavond.",
+        "english": "I am going out to eat tonight."
+      },
+      {
+        "dutch": "Wat doe jij vanavond?",
+        "english": "What are you doing tonight?"
+      }
+    ]
+  },
+  "118": {
+    "explanation": "This verb means 'to come'. You use it when moving towards the speaker or a specific place.",
+    "examples": [
+      {
+        "dutch": "Ik kom uit Nederland.",
+        "english": "I come from the Netherlands."
+      },
+      {
+        "dutch": "Kom je naar mijn huis?",
+        "english": "Are you coming to my house?"
+      }
+    ]
+  },
+  "119": {
+    "explanation": "This is a preposition meaning 'from' or 'out of'. You use it to indicate origin or movement away from something.",
+    "examples": [
+      {
+        "dutch": "Hij komt uit Spanje.",
+        "english": "He comes from Spain."
+      },
+      {
+        "dutch": "De vogel vliegt uit het nest.",
+        "english": "The bird flies out of the nest."
+      }
+    ]
+  },
+  "120": {
+    "explanation": "This word means 'inside'. You use it to refer to the area within a building or enclosure.",
+    "examples": [
+      {
+        "dutch": "Het is warm binnen.",
+        "english": "It is warm inside."
+      },
+      {
+        "dutch": "Blijf binnen als het regent.",
+        "english": "Stay inside if it rains."
+      }
+    ]
+  },
+  "121": {
+    "explanation": "This word means 'now' and refers to the present moment.",
+    "examples": [
+      {
+        "dutch": "Ik eet nu.",
+        "english": "I eat now."
+      },
+      {
+        "dutch": "Wat doe je nu?",
+        "english": "What are you doing now?"
+      }
+    ]
+  },
+  "122": {
+    "explanation": "This phrase means 'at this moment' and emphasizes the current time.",
+    "examples": [
+      {
+        "dutch": "Zij werkt op dit moment.",
+        "english": "She is working at this moment."
+      },
+      {
+        "dutch": "Ik kan je niet helpen op dit moment.",
+        "english": "I cannot help you at this moment."
+      }
+    ]
+  },
+  "123": {
+    "explanation": "This verb means 'to meet' someone, either for the first time or by arrangement.",
+    "examples": [
+      {
+        "dutch": "Ik wil jou ontmoeten.",
+        "english": "I want to meet you."
+      },
+      {
+        "dutch": "Wij ontmoeten elkaar morgen.",
+        "english": "We will meet each other tomorrow."
+      }
+    ]
+  },
+  "124": {
+    "explanation": "'Hoi' is an informal greeting, similar to 'hi' or 'hello' in English.",
+    "examples": [
+      {
+        "dutch": "Hoi, hoe gaat het?",
+        "english": "Hi, how are you?"
+      },
+      {
+        "dutch": "Zeg hoi tegen iedereen.",
+        "english": "Say hi to everyone."
+      }
+    ]
+  },
+  "125": {
+    "explanation": "This word means 'who' and is used to ask about a person or people.",
+    "examples": [
+      {
+        "dutch": "Wie is dat?",
+        "english": "Who is that?"
+      },
+      {
+        "dutch": "Wie ben jij?",
+        "english": "Who are you?"
+      }
+    ]
+  },
+  "126": {
+    "explanation": "This is a polite way to say 'nice to meet you' when you are introduced to someone.",
+    "examples": [
+      {
+        "dutch": "Hallo, aangenaam!",
+        "english": "Hello, nice to meet you!"
+      },
+      {
+        "dutch": "Mijn naam is Tom, aangenaam.",
+        "english": "My name is Tom, nice to meet you."
+      }
+    ]
+  },
+  "127": {
+    "explanation": "This is the common question you ask someone to find out their name.",
+    "examples": [
+      {
+        "dutch": "Hoi, hoe heet jij?",
+        "english": "Hi, what is your name?"
+      },
+      {
+        "dutch": "Mag ik vragen, hoe heet jij?",
+        "english": "May I ask, what is your name?"
+      }
+    ]
+  },
+  "128": {
+    "explanation": "This is the standard way to introduce yourself and state your name.",
+    "examples": [
+      {
+        "dutch": "Ik heet Anna.",
+        "english": "My name is Anna."
+      },
+      {
+        "dutch": "Hallo, ik heet Max.",
+        "english": "Hello, my name is Max."
+      }
+    ]
+  },
+  "129": {
+    "explanation": "This word means 'and' and is used to connect words, phrases, or sentences.",
+    "examples": [
+      {
+        "dutch": "Ik hou van koffie en thee.",
+        "english": "I love coffee and tea."
+      },
+      {
+        "dutch": "Zij is hier en hij is daar.",
+        "english": "She is here and he is there."
+      }
+    ]
+  },
+  "130": {
+    "explanation": "This word means 'where' and is used to ask about a location.",
+    "examples": [
+      {
+        "dutch": "Waar is het toilet?",
+        "english": "Where is the toilet?"
+      },
+      {
+        "dutch": "Waar woon je?",
+        "english": "Where do you live?"
+      }
+    ]
+  },
+  "131": {
+    "explanation": "This phrase means 'where from' and is used to ask about the origin of someone or something.",
+    "examples": [
+      {
+        "dutch": "Waar kom je vandaan?",
+        "english": "Where do you come from?"
+      },
+      {
+        "dutch": "Waar komen de bloemen vandaan?",
+        "english": "Where do the flowers come from?"
+      }
+    ]
+  },
+  "132": {
+    "explanation": "This is the Dutch name for the country 'Spain'.",
+    "examples": [
+      {
+        "dutch": "Ik ga naar Spanje op vakantie.",
+        "english": "I am going to Spain for vacation."
+      },
+      {
+        "dutch": "Madrid is een stad in Spanje.",
+        "english": "Madrid is a city in Spain."
+      }
+    ]
+  },
+  "133": {
+    "explanation": "This word can mean 'Spanish' as a language or as an adjective related to Spain.",
+    "examples": [
+      {
+        "dutch": "Ik spreek een beetje Spaans.",
+        "english": "I speak a little Spanish."
+      },
+      {
+        "dutch": "De Spaanse keuken is lekker.",
+        "english": "Spanish cuisine is tasty."
+      }
+    ]
+  },
+  "134": {
+    "explanation": "This phrase means 'a little' or 'a bit', indicating a small amount or degree.",
+    "examples": [
+      {
+        "dutch": "Ik ben een beetje moe.",
+        "english": "I am a bit tired."
+      },
+      {
+        "dutch": "Spreek je Nederlands? Ja, een beetje.",
+        "english": "Do you speak Dutch? Yes, a little."
+      }
+    ]
+  },
+  "135": {
+    "explanation": "'Wauw' is an exclamation of surprise, admiration, or excitement, similar to 'wow'.",
+    "examples": [
+      {
+        "dutch": "Wauw, dat is mooi!",
+        "english": "Wow, that is beautiful!"
+      },
+      {
+        "dutch": "Wauw, wat een goed idee!",
+        "english": "Wow, what a good idea!"
+      }
+    ]
+  },
+  "136": {
+    "explanation": "This word means 'much' for uncountable nouns or 'many' for countable nouns.",
+    "examples": [
+      {
+        "dutch": "Ik heb veel boeken.",
+        "english": "I have many books."
+      },
+      {
+        "dutch": "Er is veel water in de rivier.",
+        "english": "There is much water in the river."
+      }
+    ]
+  },
+  "137": {
+    "explanation": "This word means 'which' and is used to ask for a choice from a specific group.",
+    "examples": [
+      {
+        "dutch": "Welke kleur wil je?",
+        "english": "Which color do you want?"
+      },
+      {
+        "dutch": "Welke film kijk je?",
+        "english": "Which movie are you watching?"
+      }
+    ]
+  },
+  "138": {
+    "explanation": "This is an expression that means 'How nice!' or 'How fun!', used to show enthusiasm.",
+    "examples": [
+      {
+        "dutch": "Je gaat op vakantie? Wat leuk!",
+        "english": "You are going on vacation? How nice!"
+      },
+      {
+        "dutch": "Wat leuk dat je komt!",
+        "english": "How nice that you are coming!"
+      }
+    ]
+  },
+  "139": {
+    "explanation": "This word means 'also' or 'too', indicating that something is in addition to something else.",
+    "examples": [
+      {
+        "dutch": "Ik kom ook.",
+        "english": "I am coming too."
+      },
+      {
+        "dutch": "Zij spreekt ook Engels.",
+        "english": "She also speaks English."
+      }
+    ]
+  },
+  "140": {
+    "explanation": "This is a verb that means 'to do' or 'to make'.",
+    "examples": [
+      {
+        "dutch": "Wat ga je doen?",
+        "english": "What are you going to do?"
+      },
+      {
+        "dutch": "Ik doe mijn huiswerk.",
+        "english": "I do my homework."
+      }
+    ]
+  },
+  "141": {
+    "explanation": "'Dat' means 'that'. It can refer to a specific thing or introduce a subordinate clause in a sentence.",
+    "examples": [
+      {
+        "dutch": "Ik wil dat boek lezen.",
+        "english": "I want to read that book."
+      },
+      {
+        "dutch": "Ik weet dat je moe bent.",
+        "english": "I know that you are tired."
+      }
+    ]
+  },
+  "142": {
+    "explanation": "'Begrijpen' means 'to understand'. You use it when you grasp the meaning or concept of something.",
+    "examples": [
+      {
+        "dutch": "Ik begrijp de vraag niet.",
+        "english": "I don't understand the question."
+      },
+      {
+        "dutch": "Begrijp je wat ik zeg?",
+        "english": "Do you understand what I am saying?"
+      }
+    ]
+  },
+  "143": {
+    "explanation": "'Mijn' is a possessive pronoun meaning 'my'. It indicates that something belongs to you.",
+    "examples": [
+      {
+        "dutch": "Dit is mijn huis.",
+        "english": "This is my house."
+      },
+      {
+        "dutch": "Waar is mijn telefoon?",
+        "english": "Where is my phone?"
+      }
+    ]
+  },
+  "144": {
+    "explanation": "'Het beroep' means 'the profession' or 'the occupation'. It refers to someone's regular job or career.",
+    "examples": [
+      {
+        "dutch": "Wat is jouw beroep?",
+        "english": "What is your profession?"
+      },
+      {
+        "dutch": "Zijn beroep is leraar.",
+        "english": "His profession is teacher."
+      }
+    ]
+  },
+  "145": {
+    "explanation": "'Ja' means 'yes'. It's a simple and common affirmative answer.",
+    "examples": [
+      {
+        "dutch": "Spreek je Nederlands? Ja.",
+        "english": "Do you speak Dutch? Yes."
+      },
+      {
+        "dutch": "Wil je koffie? Ja, graag.",
+        "english": "Do you want coffee? Yes, please."
+      }
+    ]
+  },
+  "146": {
+    "explanation": "'De actrice' means 'the actress'. It is a female person who performs in plays, films, or television shows.",
+    "examples": [
+      {
+        "dutch": "De actrice speelt goed.",
+        "english": "The actress acts well."
+      },
+      {
+        "dutch": "Zij is een bekende actrice.",
+        "english": "She is a famous actress."
+      }
+    ]
+  },
+  "147": {
+    "explanation": "'Wat interessant!' is an exclamation meaning 'How interesting!'. You use it to express that you find something captivating or noteworthy.",
+    "examples": [
+      {
+        "dutch": "Hij vertelt een verhaal. Wat interessant!",
+        "english": "He tells a story. How interesting!"
+      },
+      {
+        "dutch": "Je reisplannen klinken goed. Wat interessant!",
+        "english": "Your travel plans sound good. How interesting!"
+      }
+    ]
+  },
+  "148": {
+    "explanation": "'Beginnen' means 'to begin' or 'to start'. You use it when an action or event initiates.",
+    "examples": [
+      {
+        "dutch": "De les begint om negen uur.",
+        "english": "The lesson begins at nine o'clock."
+      },
+      {
+        "dutch": "Wij beginnen nu met werken.",
+        "english": "We are starting to work now."
+      }
+    ]
+  },
+  "149": {
+    "explanation": "'Met' is a preposition meaning 'with'. It can indicate accompaniment or the instrument used to do something.",
+    "examples": [
+      {
+        "dutch": "Ik ga naar de stad met mijn vriend.",
+        "english": "I go to the city with my friend."
+      },
+      {
+        "dutch": "Schrijf je met een pen?",
+        "english": "Do you write with a pen?"
+      }
+    ]
+  },
+  "150": {
+    "explanation": "'Dankjewel' is an informal way to say 'thank you'. It is used to express gratitude to someone you know well.",
+    "examples": [
+      {
+        "dutch": "Hier is je koffie. Dankjewel!",
+        "english": "Here is your coffee. Thank you!"
+      },
+      {
+        "dutch": "Voor de hulp, dankjewel.",
+        "english": "For the help, thank you."
+      }
+    ]
+  },
+  "151": {
+    "explanation": "'De koffie' means 'the coffee'. It refers to the popular drink made from roasted coffee beans.",
+    "examples": [
+      {
+        "dutch": "Ik wil graag een kopje koffie.",
+        "english": "I would like a cup of coffee."
+      },
+      {
+        "dutch": "De koffie is warm.",
+        "english": "The coffee is warm."
+      }
+    ]
+  },
+  "152": {
+    "explanation": "'Alsjeblieft' has two main meanings: 'here you are' (when giving something) and 'please' (when asking politely).",
+    "examples": [
+      {
+        "dutch": "Hier is je boek, alsjeblieft.",
+        "english": "Here is your book, here you are."
+      },
+      {
+        "dutch": "Kun je me helpen, alsjeblieft?",
+        "english": "Can you help me, please?"
+      }
+    ]
+  },
+  "153": {
+    "explanation": "'Goed' means 'good' or 'right'. It describes something positive, correct, or well-done.",
+    "examples": [
+      {
+        "dutch": "Dat is een goed idee.",
+        "english": "That is a good idea."
+      },
+      {
+        "dutch": "Het antwoord is goed.",
+        "english": "The answer is right/correct."
+      }
+    ]
+  },
+  "154": {
+    "explanation": "'Fout' means 'wrong' or 'false'. It describes something incorrect, a mistake, or not true.",
+    "examples": [
+      {
+        "dutch": "Dat is een fout antwoord.",
+        "english": "That is a wrong answer."
+      },
+      {
+        "dutch": "Ik heb een fout gemaakt.",
+        "english": "I made a mistake."
+      }
+    ]
+  },
+  "155": {
+    "explanation": "'Het verhaal' means 'the story'. It is an account of events, either real or imaginary.",
+    "examples": [
+      {
+        "dutch": "De docent leest een verhaal voor.",
+        "english": "The teacher reads a story aloud."
+      },
+      {
+        "dutch": "Ik hou van dit verhaal.",
+        "english": "I like this story."
+      }
+    ]
+  },
+  "156": {
+    "explanation": "'De rondleiding' means 'the guided tour'. It's when someone shows a group around a place, providing information and explanations.",
+    "examples": [
+      {
+        "dutch": "De rondleiding door het museum was interessant.",
+        "english": "The guided tour through the museum was interesting."
+      },
+      {
+        "dutch": "We krijgen een rondleiding door de stad.",
+        "english": "We are getting a guided tour through the city."
+      }
+    ]
+  },
+  "157": {
+    "explanation": "'Het werk' can mean 'the job' or 'the work' itself. It refers to a task, a profession, or something that needs to be done.",
+    "examples": [
+      {
+        "dutch": "Ik ga naar mijn werk.",
+        "english": "I am going to my job."
+      },
+      {
+        "dutch": "Dit is belangrijk werk.",
+        "english": "This is important work."
+      }
+    ]
+  },
+  "158": {
+    "explanation": "'Vandaag' means 'today'. It refers to the current day.",
+    "examples": [
+      {
+        "dutch": "Wat ga je vandaag doen?",
+        "english": "What are you going to do today?"
+      },
+      {
+        "dutch": "Vandaag is het mooi weer.",
+        "english": "Today the weather is nice."
+      }
+    ]
+  },
+  "159": {
+    "explanation": "'Van' is a versatile preposition with meanings like 'from' (origin) or 'of' (possession/material).",
+    "examples": [
+      {
+        "dutch": "De auto is van mijn vader.",
+        "english": "The car is my father's."
+      },
+      {
+        "dutch": "Ik krijg een brief van jou.",
+        "english": "I get a letter from you."
+      }
+    ]
+  },
+  "160": {
+    "explanation": "'Het station' means 'the station'. This typically refers to a train station or a bus station.",
+    "examples": [
+      {
+        "dutch": "Ik ga naar het station.",
+        "english": "I am going to the station."
+      },
+      {
+        "dutch": "Het station is dichtbij.",
+        "english": "The station is nearby."
+      }
+    ]
+  },
+  "161": {
+    "explanation": "\"Naar\" means \"to\" or \"towards\" and is used to indicate direction or destination. It often follows verbs of movement.",
+    "examples": [
+      {
+        "dutch": "Ik ga naar huis.",
+        "english": "I go home."
+      },
+      {
+        "dutch": "Wij lopen naar de winkel.",
+        "english": "We walk to the store."
+      }
+    ]
+  },
+  "162": {
+    "explanation": "\"Zeggen\" means \"to say\" or \"to tell\". It is used when you are communicating words verbally.",
+    "examples": [
+      {
+        "dutch": "Wat wil je zeggen?",
+        "english": "What do you want to say?"
+      },
+      {
+        "dutch": "Hij zegt gedag.",
+        "english": "He says hello."
+      }
+    ]
+  },
+  "163": {
+    "explanation": "\"Dit\" means \"this\" and is used to refer to a specific singular neuter noun (like 'het-words') or a general concept close to you.",
+    "examples": [
+      {
+        "dutch": "Dit is mijn boek.",
+        "english": "This is my book."
+      },
+      {
+        "dutch": "Ik vind dit lekker.",
+        "english": "I like this (food/drink)."
+      }
+    ]
+  },
+  "164": {
+    "explanation": "\"Het paleis\" means \"the palace\". It refers to a large, grand official residence, often for royalty.",
+    "examples": [
+      {
+        "dutch": "Het paleis is mooi.",
+        "english": "The palace is beautiful."
+      },
+      {
+        "dutch": "De koning woont in het paleis.",
+        "english": "The king lives in the palace."
+      }
+    ]
+  },
+  "165": {
+    "explanation": "\"Vragen\" means \"to ask\". You use it when you want information or permission from someone.",
+    "examples": [
+      {
+        "dutch": "Ik wil iets vragen.",
+        "english": "I want to ask something."
+      },
+      {
+        "dutch": "Zij vraagt naar de weg.",
+        "english": "She asks for the way."
+      }
+    ]
+  },
+  "166": {
+    "explanation": "\"De koning\" means \"the king\". This is the male ruler of a country.",
+    "examples": [
+      {
+        "dutch": "De koning is oud.",
+        "english": "The king is old."
+      },
+      {
+        "dutch": "Wij groeten de koning.",
+        "english": "We greet the king."
+      }
+    ]
+  },
+  "167": {
+    "explanation": "\"Nee\" means \"no\". It's a common way to give a negative answer or to refuse something.",
+    "examples": [
+      {
+        "dutch": "Wil je koffie? Nee, dank je.",
+        "english": "Do you want coffee? No, thank you."
+      },
+      {
+        "dutch": "Nee, dat is niet waar.",
+        "english": "No, that is not true."
+      }
+    ]
+  },
+  "168": {
+    "explanation": "\"Bij\" means \"at\", \"near\", or \"with\". It often indicates a location close to something or someone, or being associated with a person or place.",
+    "examples": [
+      {
+        "dutch": "Ik ben bij mijn vriend.",
+        "english": "I am at my friend's place / with my friend."
+      },
+      {
+        "dutch": "Het boek ligt bij de lamp.",
+        "english": "The book is next to the lamp."
+      }
+    ]
+  },
+  "169": {
+    "explanation": "\"De vrijgezel\" means \"the bachelor\" or \"the single person\". It refers to an unmarried person, especially a man.",
+    "examples": [
+      {
+        "dutch": "Mijn broer is een vrijgezel.",
+        "english": "My brother is a bachelor."
+      },
+      {
+        "dutch": "De vrijgezel woont alleen.",
+        "english": "The bachelor lives alone."
+      }
+    ]
+  },
+  "170": {
+    "explanation": "\"Maar\" has two main meanings: \"but\" (to introduce a contrast) and \"only\" (to indicate a limited amount).",
+    "examples": [
+      {
+        "dutch": "Het is koud, maar mooi weer.",
+        "english": "It is cold, but nice weather."
+      },
+      {
+        "dutch": "Ik heb maar één appel.",
+        "english": "I only have one apple."
+      }
+    ]
+  },
+  "171": {
+    "explanation": "\"Geen\" means \"no\" or \"not a/an\". It's used to negate nouns, indicating the absence of something or an indefinite amount.",
+    "examples": [
+      {
+        "dutch": "Ik heb geen tijd.",
+        "english": "I have no time."
+      },
+      {
+        "dutch": "Er is geen probleem.",
+        "english": "There is no problem."
+      }
+    ]
+  },
+  "172": {
+    "explanation": "\"Verder\" means \"further\" or \"furthermore\". It can indicate a greater distance or introduce additional information.",
+    "examples": [
+      {
+        "dutch": "Loop nog verder.",
+        "english": "Walk even further."
+      },
+      {
+        "dutch": "Verder heb ik niets te zeggen.",
+        "english": "Furthermore, I have nothing to say."
+      }
+    ]
+  },
+  "173": {
+    "explanation": "\"Leuk\" means \"fun\", \"nice\", or \"enjoyable\". It's a positive adjective used to describe things, people, or activities.",
+    "examples": [
+      {
+        "dutch": "Het is een leuke film.",
+        "english": "It is a fun movie."
+      },
+      {
+        "dutch": "Wat een leuk idee!",
+        "english": "What a nice idea!"
+      }
+    ]
+  },
+  "174": {
+    "explanation": "\"Over\" means \"about\", \"over\", or \"finished\". It can refer to a topic, a position above something, or an end to something.",
+    "examples": [
+      {
+        "dutch": "Wij praten over het weer.",
+        "english": "We talk about the weather."
+      },
+      {
+        "dutch": "De les is over.",
+        "english": "The class is over."
+      }
+    ]
+  }
+}

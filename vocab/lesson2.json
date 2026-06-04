@@ -1,0 +1,576 @@
+{
+  "title": "Dutch Vocabulary - Lesson 2",
+  "sections": [
+    {
+      "section": "Woordenlijst - Hoofdstuk 2: Vragen (Adjectives & Descriptors)",
+      "words": [
+        {
+          "id": 201,
+          "dutch": "heel",
+          "english": "1. very 2. whole",
+          "audio": "audio/lesson2/201.m4a"
+        },
+        {
+          "id": 202,
+          "dutch": "zeer",
+          "english": "very",
+          "audio": "audio/lesson2/202.m4a"
+        },
+        {
+          "id": 203,
+          "dutch": "klein",
+          "english": "small",
+          "audio": "audio/lesson2/203.m4a"
+        },
+        {
+          "id": 204,
+          "dutch": "nogal",
+          "english": "quite",
+          "audio": "audio/lesson2/204.m4a"
+        },
+        {
+          "id": 205,
+          "dutch": "boos",
+          "english": "angry",
+          "audio": "audio/lesson2/205.m4a"
+        },
+        {
+          "id": 206,
+          "dutch": "redelijk",
+          "english": "rather",
+          "audio": "audio/lesson2/206.m4a"
+        },
+        {
+          "id": 207,
+          "dutch": "knap",
+          "english": "handsome",
+          "audio": "audio/lesson2/207.m4a"
+        },
+        {
+          "id": 208,
+          "dutch": "hartstikke",
+          "english": "extremely",
+          "audio": "audio/lesson2/208.m4a"
+        },
+        {
+          "id": 209,
+          "dutch": "mooi",
+          "english": "beautiful",
+          "audio": "audio/lesson2/209.m4a"
+        },
+        {
+          "id": 210,
+          "dutch": "nieuw",
+          "english": "new",
+          "audio": "audio/lesson2/210.m4a"
+        },
+        {
+          "id": 211,
+          "dutch": "klaar",
+          "english": "ready",
+          "audio": "audio/lesson2/211.m4a"
+        },
+        {
+          "id": 212,
+          "dutch": "gewoon",
+          "english": "normal",
+          "audio": "audio/lesson2/212.m4a"
+        },
+        {
+          "id": 213,
+          "dutch": "prima",
+          "english": "fine",
+          "audio": "audio/lesson2/213.m4a"
+        },
+        {
+          "id": 214,
+          "dutch": "plat",
+          "english": "flat",
+          "audio": "audio/lesson2/214.m4a"
+        },
+        {
+          "id": 215,
+          "dutch": "druk",
+          "english": "1. busy 2. crowded",
+          "audio": "audio/lesson2/215.m4a"
+        }
+      ]
+    },
+    {
+      "section": "Woordenlijst - Hoofdstuk 2: Vragen (Time & Place)",
+      "words": [
+        {
+          "id": 216,
+          "dutch": "gisteren",
+          "english": "yesterday",
+          "audio": "audio/lesson2/216.m4a"
+        },
+        {
+          "id": 217,
+          "dutch": "morgen",
+          "english": "tomorrow",
+          "audio": "audio/lesson2/217.m4a"
+        },
+        {
+          "id": 218,
+          "dutch": "zo",
+          "english": "in a little while",
+          "audio": "audio/lesson2/218.m4a"
+        },
+        {
+          "id": 219,
+          "dutch": "straks",
+          "english": "in a little while, soon",
+          "audio": "audio/lesson2/219.m4a"
+        },
+        {
+          "id": 220,
+          "dutch": "binnenkort",
+          "english": "soon",
+          "audio": "audio/lesson2/220.m4a"
+        },
+        {
+          "id": 221,
+          "dutch": "hier",
+          "english": "here",
+          "audio": "audio/lesson2/221.m4a"
+        },
+        {
+          "id": 222,
+          "dutch": "daar",
+          "english": "there",
+          "audio": "audio/lesson2/222.m4a"
+        },
+        {
+          "id": 223,
+          "dutch": "meteen",
+          "english": "immediately",
+          "audio": "audio/lesson2/223.m4a"
+        },
+        {
+          "id": 224,
+          "dutch": "ongeveer",
+          "english": "approximately",
+          "audio": "audio/lesson2/224.m4a"
+        },
+        {
+          "id": 225,
+          "dutch": "daarna",
+          "english": "then",
+          "audio": "audio/lesson2/225.m4a"
+        },
+        {
+          "id": 226,
+          "dutch": "dan",
+          "english": "then",
+          "audio": "audio/lesson2/226.m4a"
+        },
+        {
+          "id": 227,
+          "dutch": "tot",
+          "english": "until",
+          "audio": "audio/lesson2/227.m4a"
+        },
+        {
+          "id": 228,
+          "dutch": "door",
+          "english": "through",
+          "audio": "audio/lesson2/228.m4a"
+        },
+        {
+          "id": 229,
+          "dutch": "aan",
+          "english": "to",
+          "audio": "audio/lesson2/229.m4a"
+        },
+        {
+          "id": 230,
+          "dutch": "thuis",
+          "english": "at home",
+          "audio": "audio/lesson2/230.m4a"
+        },
+        {
+          "id": 231,
+          "dutch": "samen",
+          "english": "together",
+          "audio": "audio/lesson2/231.m4a"
+        },
+        {
+          "id": 232,
+          "dutch": "laat",
+          "english": "late",
+          "audio": "audio/lesson2/232.m4a"
+        },
+        {
+          "id": 233,
+          "dutch": "nog",
+          "english": "1. yet 2. still 3. so far",
+          "audio": "audio/lesson2/233.m4a"
+        },
+        {
+          "id": 234,
+          "dutch": "niet",
+          "english": "not",
+          "audio": "audio/lesson2/234.m4a"
+        },
+        {
+          "id": 235,
+          "dutch": "vaak",
+          "english": "often",
+          "audio": "audio/lesson2/235.m4a"
+        }
+      ]
+    },
+    {
+      "section": "Woordenlijst - Hoofdstuk 2: Vragen (Verbs)",
+      "words": [
+        {
+          "id": 236,
+          "dutch": "spelen",
+          "english": "to play",
+          "audio": "audio/lesson2/236.m4a"
+        },
+        {
+          "id": 237,
+          "dutch": "liggen",
+          "english": "to lie",
+          "audio": "audio/lesson2/237.m4a"
+        },
+        {
+          "id": 238,
+          "dutch": "drinken",
+          "english": "to drink",
+          "audio": "audio/lesson2/238.m4a"
+        },
+        {
+          "id": 239,
+          "dutch": "moeten",
+          "english": "to have to, must",
+          "audio": "audio/lesson2/239.m4a"
+        },
+        {
+          "id": 240,
+          "dutch": "fietsen",
+          "english": "to cycle",
+          "audio": "audio/lesson2/240.m4a"
+        },
+        {
+          "id": 241,
+          "dutch": "lesgeven",
+          "english": "to teach",
+          "audio": "audio/lesson2/241.m4a"
+        },
+        {
+          "id": 242,
+          "dutch": "gebruiken",
+          "english": "to use",
+          "audio": "audio/lesson2/242.m4a"
+        },
+        {
+          "id": 243,
+          "dutch": "heten",
+          "english": "to be called",
+          "audio": "audio/lesson2/243.m4a"
+        },
+        {
+          "id": 244,
+          "dutch": "bellen",
+          "english": "to call",
+          "audio": "audio/lesson2/244.m4a"
+        },
+        {
+          "id": 245,
+          "dutch": "weten",
+          "english": "to know",
+          "audio": "audio/lesson2/245.m4a"
+        },
+        {
+          "id": 246,
+          "dutch": "eten",
+          "english": "to eat",
+          "audio": "audio/lesson2/246.m4a"
+        },
+        {
+          "id": 247,
+          "dutch": "koken",
+          "english": "to cook",
+          "audio": "audio/lesson2/247.m4a"
+        },
+        {
+          "id": 248,
+          "dutch": "willen",
+          "english": "to want",
+          "audio": "audio/lesson2/248.m4a"
+        },
+        {
+          "id": 249,
+          "dutch": "nemen",
+          "english": "to take",
+          "audio": "audio/lesson2/249.m4a"
+        },
+        {
+          "id": 250,
+          "dutch": "zien",
+          "english": "to see",
+          "audio": "audio/lesson2/250.m4a"
+        },
+        {
+          "id": 251,
+          "dutch": "kennen",
+          "english": "to know",
+          "audio": "audio/lesson2/251.m4a"
+        },
+        {
+          "id": 252,
+          "dutch": "zuchten",
+          "english": "to take a breath",
+          "audio": "audio/lesson2/252.m4a"
+        },
+        {
+          "id": 253,
+          "dutch": "kunnen",
+          "english": "1. to be able to 2. to be available",
+          "audio": "audio/lesson2/253.m4a"
+        },
+        {
+          "id": 254,
+          "dutch": "jarig zijn",
+          "english": "to have a birthday",
+          "audio": "audio/lesson2/254.m4a"
+        }
+      ]
+    },
+    {
+      "section": "Woordenlijst - Hoofdstuk 2: Vragen (Nouns)",
+      "words": [
+        {
+          "id": 255,
+          "dutch": "het woord",
+          "english": "the word",
+          "audio": "audio/lesson2/255.m4a"
+        },
+        {
+          "id": 256,
+          "dutch": "de film",
+          "english": "the movie",
+          "audio": "audio/lesson2/256.m4a"
+        },
+        {
+          "id": 257,
+          "dutch": "Sinterklaas",
+          "english": "Dutch Santa-Claus",
+          "audio": "audio/lesson2/257.m4a"
+        },
+        {
+          "id": 258,
+          "dutch": "inversie",
+          "english": "inversion (grammar)",
+          "audio": "audio/lesson2/258.m4a"
+        },
+        {
+          "id": 259,
+          "dutch": "de tuin",
+          "english": "the garden",
+          "audio": "audio/lesson2/259.m4a"
+        },
+        {
+          "id": 260,
+          "dutch": "de kapper",
+          "english": "the hairdresser",
+          "audio": "audio/lesson2/260.m4a"
+        },
+        {
+          "id": 261,
+          "dutch": "de stamppot",
+          "english": "the hotchpotch",
+          "audio": "audio/lesson2/261.m4a"
+        },
+        {
+          "id": 262,
+          "dutch": "het vraagwoord",
+          "english": "the question word",
+          "audio": "audio/lesson2/262.m4a"
+        },
+        {
+          "id": 263,
+          "dutch": "de markt",
+          "english": "the market",
+          "audio": "audio/lesson2/263.m4a"
+        },
+        {
+          "id": 264,
+          "dutch": "de kinderen",
+          "english": "the children",
+          "audio": "audio/lesson2/264.m4a"
+        },
+        {
+          "id": 265,
+          "dutch": "het bezoek",
+          "english": "1. visit 2. guests",
+          "audio": "audio/lesson2/265.m4a"
+        },
+        {
+          "id": 266,
+          "dutch": "je adres",
+          "english": "your address",
+          "audio": "audio/lesson2/266.m4a"
+        },
+        {
+          "id": 267,
+          "dutch": "de oefening",
+          "english": "the exercise",
+          "audio": "audio/lesson2/267.m4a"
+        },
+        {
+          "id": 268,
+          "dutch": "de jongen",
+          "english": "the boy",
+          "audio": "audio/lesson2/268.m4a"
+        },
+        {
+          "id": 269,
+          "dutch": "het geld",
+          "english": "the money",
+          "audio": "audio/lesson2/269.m4a"
+        },
+        {
+          "id": 270,
+          "dutch": "de roman",
+          "english": "the novel",
+          "audio": "audio/lesson2/270.m4a"
+        },
+        {
+          "id": 271,
+          "dutch": "het idee",
+          "english": "the idea",
+          "audio": "audio/lesson2/271.m4a"
+        },
+        {
+          "id": 272,
+          "dutch": "de buurt",
+          "english": "the neighbourhood",
+          "audio": "audio/lesson2/272.m4a"
+        },
+        {
+          "id": 273,
+          "dutch": "de kilometer",
+          "english": "the kilometre",
+          "audio": "audio/lesson2/273.m4a"
+        },
+        {
+          "id": 274,
+          "dutch": "het Centraal Station",
+          "english": "the Central Station",
+          "audio": "audio/lesson2/274.m4a"
+        },
+        {
+          "id": 275,
+          "dutch": "de trein",
+          "english": "the train",
+          "audio": "audio/lesson2/275.m4a"
+        },
+        {
+          "id": 276,
+          "dutch": "de eeuw",
+          "english": "the century",
+          "audio": "audio/lesson2/276.m4a"
+        },
+        {
+          "id": 277,
+          "dutch": "het einde",
+          "english": "the end",
+          "audio": "audio/lesson2/277.m4a"
+        }
+      ]
+    },
+    {
+      "section": "Woordenlijst - Hoofdstuk 2: Vragen (Question Words & Expressions)",
+      "words": [
+        {
+          "id": 278,
+          "dutch": "wat",
+          "english": "what",
+          "audio": "audio/lesson2/278.m4a"
+        },
+        {
+          "id": 279,
+          "dutch": "welk, welke",
+          "english": "which",
+          "audio": "audio/lesson2/279.m4a"
+        },
+        {
+          "id": 280,
+          "dutch": "wanneer",
+          "english": "when",
+          "audio": "audio/lesson2/280.m4a"
+        },
+        {
+          "id": 281,
+          "dutch": "hoe",
+          "english": "how",
+          "audio": "audio/lesson2/281.m4a"
+        },
+        {
+          "id": 282,
+          "dutch": "waarom",
+          "english": "why",
+          "audio": "audio/lesson2/282.m4a"
+        },
+        {
+          "id": 283,
+          "dutch": "hoeveel",
+          "english": "how many/much",
+          "audio": "audio/lesson2/283.m4a"
+        },
+        {
+          "id": 284,
+          "dutch": "jou",
+          "english": "you",
+          "audio": "audio/lesson2/284.m4a"
+        },
+        {
+          "id": 285,
+          "dutch": "mij",
+          "english": "me",
+          "audio": "audio/lesson2/285.m4a"
+        },
+        {
+          "id": 286,
+          "dutch": "hallo",
+          "english": "hello",
+          "audio": "audio/lesson2/286.m4a"
+        },
+        {
+          "id": 287,
+          "dutch": "Hoe gaat het met jou?",
+          "english": "How are you?",
+          "audio": "audio/lesson2/287.m4a"
+        },
+        {
+          "id": 288,
+          "dutch": "Goed idee!",
+          "english": "Great idea!",
+          "audio": "audio/lesson2/288.m4a"
+        },
+        {
+          "id": 289,
+          "dutch": "Weet je wat?",
+          "english": "You know what?",
+          "audio": "audio/lesson2/289.m4a"
+        },
+        {
+          "id": 290,
+          "dutch": "Tot straks!",
+          "english": "See you later!",
+          "audio": "audio/lesson2/290.m4a"
+        },
+        {
+          "id": 291,
+          "dutch": "doei",
+          "english": "bye",
+          "audio": "audio/lesson2/291.m4a"
+        }
+      ]
+    }
+  ]
+}
