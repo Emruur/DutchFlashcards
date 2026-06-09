@@ -819,6 +819,15 @@
       </div>
       <div class="mode-arrow">›</div>
     </div>
+
+    <div class="mode-card" onclick="selectLesson(5)">
+      <div class="mode-num">5</div>
+      <div class="mode-info">
+        <div class="mode-title">Lesson 5</div>
+        <div class="mode-desc">Hoofdstuk 5: Het huis — 80 words</div>
+      </div>
+      <div class="mode-arrow">›</div>
+    </div>
   </div>
 </div>
 
@@ -1062,6 +1071,7 @@ function goHome() {
 }
 
 function goLessons() {
+  lessonLoadId++; // cancel any in-flight selectLesson
   stopAudio();
   showScreen('screenLesson');
 }
@@ -1095,11 +1105,17 @@ document.getElementById('btnWordListBack').addEventListener('click', goHome);
 document.getElementById('wlSort').addEventListener('change', e => renderWordList(e.target.value));
 
 // ── LESSON SELECTION ───────────────────────────────────────────
+let lessonLoadId = 0;
+
 async function selectLesson(lessonNum) {
+  const myId = ++lessonLoadId;
   currentLesson = lessonNum;
   await loadVocab(`vocab/lesson${lessonNum}.json`);
+  if (myId !== lessonLoadId) return;
   await loadExplanations(lessonNum);
+  if (myId !== lessonLoadId) return;
   await loadWordStats();
+  if (myId !== lessonLoadId) return;
   document.getElementById('welcomeTitle').textContent = `Welcome to Vocab Lesson ${lessonNum}`;
   refreshSessionDesc();
   showScreen('screenWelcome');
