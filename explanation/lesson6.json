@@ -1,0 +1,951 @@
+{
+  "634": {
+    "explanation": "This phrase means 'in the morning'. It's a common way to talk about something happening during the morning part of the day.",
+    "examples": [
+      {
+        "dutch": "Ik drink koffie 's ochtends.",
+        "english": "I drink coffee in the morning."
+      },
+      {
+        "dutch": "'s Ochtends ga ik naar mijn werk.",
+        "english": "In the morning I go to my work."
+      }
+    ]
+  },
+  "635": {
+    "explanation": "'De suiker' refers to sugar, the common sweet substance used in food and drinks. It's a noun and takes the definite article 'de'.",
+    "examples": [
+      {
+        "dutch": "Zit er suiker in de thee?",
+        "english": "Is there sugar in the tea?"
+      },
+      {
+        "dutch": "Ik doe een lepel suiker in mijn koffie.",
+        "english": "I put a spoon of sugar in my coffee."
+      }
+    ]
+  },
+  "636": {
+    "explanation": "'De tarwe' means wheat, a type of grain used to make flour for bread, pasta, and other foods. It's an important crop.",
+    "examples": [
+      {
+        "dutch": "Brood wordt gemaakt van tarwe.",
+        "english": "Bread is made from wheat."
+      },
+      {
+        "dutch": "Tarwe groeit op het land.",
+        "english": "Wheat grows in the field."
+      }
+    ]
+  },
+  "637": {
+    "explanation": "'De regen' means the rain, which is water falling from the sky. It's a common weather phenomenon.",
+    "examples": [
+      {
+        "dutch": "Het regent. Ik hoor de regen.",
+        "english": "It's raining. I hear the rain."
+      },
+      {
+        "dutch": "Neem een paraplu mee, want de regen komt.",
+        "english": "Take an umbrella, because the rain is coming."
+      }
+    ]
+  },
+  "638": {
+    "explanation": "'De zonneschijn' means the sunshine, referring to the light and warmth from the sun. It often implies good weather.",
+    "examples": [
+      {
+        "dutch": "Vandaag is er veel zonneschijn.",
+        "english": "Today there is a lot of sunshine."
+      },
+      {
+        "dutch": "Ik hou van de zonneschijn in de zomer.",
+        "english": "I love the sunshine in the summer."
+      }
+    ]
+  },
+  "639": {
+    "explanation": "'Rollen' is a verb meaning 'to roll'. This can refer to something moving by turning over and over, or to move something in that way.",
+    "examples": [
+      {
+        "dutch": "De bal rolt van de heuvel af.",
+        "english": "The ball rolls down the hill."
+      },
+      {
+        "dutch": "De hond rolt over het gras.",
+        "english": "The dog rolls on the grass."
+      }
+    ]
+  },
+  "640": {
+    "explanation": "'De minister-president' is the Dutch term for the prime minister, who is the head of government in many countries. This person leads the cabinet.",
+    "examples": [
+      {
+        "dutch": "De minister-president heeft een belangrijke baan.",
+        "english": "The prime minister has an important job."
+      },
+      {
+        "dutch": "Hij praat met de minister-president.",
+        "english": "He talks to the prime minister."
+      }
+    ]
+  },
+  "641": {
+    "explanation": "'De dokter' means the doctor, a person trained to practice medicine and help sick people. If you are ill, you go to the doctor.",
+    "examples": [
+      {
+        "dutch": "Ik moet naar de dokter, ik voel me niet goed.",
+        "english": "I have to go to the doctor, I don't feel well."
+      },
+      {
+        "dutch": "De dokter werkt in het ziekenhuis.",
+        "english": "The doctor works in the hospital."
+      }
+    ]
+  },
+  "642": {
+    "explanation": "'Een miljoen' means a million, which is the number 1,000,000. It's a very large quantity.",
+    "examples": [
+      {
+        "dutch": "Dit land heeft een miljoen inwoners.",
+        "english": "This country has a million inhabitants."
+      },
+      {
+        "dutch": "Een miljoen is een groot getal.",
+        "english": "A million is a big number."
+      }
+    ]
+  },
+  "643": {
+    "explanation": "'Een miljard' means a billion, which is the number 1,000,000,000. It's even larger than a million.",
+    "examples": [
+      {
+        "dutch": "De wereld heeft meer dan een miljard mensen.",
+        "english": "The world has more than a billion people."
+      },
+      {
+        "dutch": "Een miljard is duizend miljoen.",
+        "english": "A billion is a thousand million."
+      }
+    ]
+  },
+  "644": {
+    "explanation": "'Elk' means 'each' and is used with neuter singular nouns (like 'het huis'). It emphasizes individual items within a group.",
+    "examples": [
+      {
+        "dutch": "Elk kind krijgt een snoepje.",
+        "english": "Each child gets a candy."
+      },
+      {
+        "dutch": "Ik lees elk boek in de bibliotheek.",
+        "english": "I read each book in the library."
+      }
+    ]
+  },
+  "645": {
+    "explanation": "'Ieder' also means 'each' or 'every' and is used with common singular nouns (like 'de man') or to refer to people. It's very similar to 'elk'.",
+    "examples": [
+      {
+        "dutch": "Ieder mens heeft twee oren.",
+        "english": "Every person has two ears."
+      },
+      {
+        "dutch": "De leraar groet ieder kind.",
+        "english": "The teacher greets each child."
+      }
+    ]
+  },
+  "646": {
+    "explanation": "'Het snoep' means the candy or sweets. This is a general term for sugary treats.",
+    "examples": [
+      {
+        "dutch": "Kinderen houden van snoep.",
+        "english": "Children like candy."
+      },
+      {
+        "dutch": "Er ligt veel snoep op tafel.",
+        "english": "There is a lot of candy on the table."
+      }
+    ]
+  },
+  "647": {
+    "explanation": "'Het oor' means the ear, which is the body part used for hearing. Humans and animals have ears.",
+    "examples": [
+      {
+        "dutch": "Ik luister met mijn oor.",
+        "english": "I listen with my ear."
+      },
+      {
+        "dutch": "De hond heeft grote oren.",
+        "english": "The dog has big ears."
+      }
+    ]
+  },
+  "648": {
+    "explanation": "'De staart' means the tail, the part that extends from the rear end of an animal's body. Many animals use their tails for balance or communication.",
+    "examples": [
+      {
+        "dutch": "De kat zwaait met haar staart.",
+        "english": "The cat wags its tail."
+      },
+      {
+        "dutch": "Een aap heeft een lange staart.",
+        "english": "A monkey has a long tail."
+      }
+    ]
+  },
+  "649": {
+    "explanation": "'Het dorp' means the village, a small community of houses and people, typically smaller than a town. It's often located in a rural area.",
+    "examples": [
+      {
+        "dutch": "Ik woon in een klein dorp.",
+        "english": "I live in a small village."
+      },
+      {
+        "dutch": "Het dorp heeft een kerk en een school.",
+        "english": "The village has a church and a school."
+      }
+    ]
+  },
+  "650": {
+    "explanation": "'Iemand' means 'someone' or 'somebody'. It refers to an unspecified person.",
+    "examples": [
+      {
+        "dutch": "Iemand klopt op de deur.",
+        "english": "Someone is knocking on the door."
+      },
+      {
+        "dutch": "Ziet iemand mijn sleutels?",
+        "english": "Does anyone see my keys?"
+      }
+    ]
+  },
+  "651": {
+    "explanation": "'Ergens' means 'somewhere'. It refers to an unspecified place.",
+    "examples": [
+      {
+        "dutch": "Ik heb mijn portemonnee ergens verloren.",
+        "english": "I lost my wallet somewhere."
+      },
+      {
+        "dutch": "Willen we ergens koffie drinken?",
+        "english": "Do we want to drink coffee somewhere?"
+      }
+    ]
+  },
+  "652": {
+    "explanation": "'Ooit' can mean 'some day' (in the future) or 'ever' (at any time). It's used to talk about something happening at an unspecified point in time.",
+    "examples": [
+      {
+        "dutch": "Zal ik jou ooit weer zien?",
+        "english": "Will I ever see you again?"
+      },
+      {
+        "dutch": "Ooit wil ik de wereld rondreizen.",
+        "english": "Some day I want to travel around the world."
+      }
+    ]
+  },
+  "653": {
+    "explanation": "'Op bezoek komen' is a phrase meaning 'to visit (someone)'. It's used when you go to someone's house or location to see them.",
+    "examples": [
+      {
+        "dutch": "Mijn vrienden komen morgen op bezoek.",
+        "english": "My friends are coming to visit tomorrow."
+      },
+      {
+        "dutch": "Wil je bij mij op bezoek komen?",
+        "english": "Do you want to come visit me?"
+      }
+    ]
+  },
+  "654": {
+    "explanation": "\"De verrassing\" means something unexpected that happens, often something nice or exciting. It can be a gift or an event that you didn't know about.",
+    "examples": [
+      {
+        "dutch": "Het feest was een leuke verrassing.",
+        "english": "The party was a nice surprise."
+      },
+      {
+        "dutch": "Ik heb een verrassing voor jou.",
+        "english": "I have a surprise for you."
+      }
+    ]
+  },
+  "655": {
+    "explanation": "\"Niets\" means 'nothing' or 'not a single thing'. It is the opposite of 'alles' (everything).",
+    "examples": [
+      {
+        "dutch": "Ik heb niets te doen vandaag.",
+        "english": "I have nothing to do today."
+      },
+      {
+        "dutch": "Er is niets in de doos.",
+        "english": "There is nothing in the box."
+      }
+    ]
+  },
+  "656": {
+    "explanation": "\"Leeg\" describes something that contains nothing, or is not full. For example, an empty glass or an empty room.",
+    "examples": [
+      {
+        "dutch": "Het glas is leeg.",
+        "english": "The glass is empty."
+      },
+      {
+        "dutch": "De kamer is leeg.",
+        "english": "The room is empty."
+      }
+    ]
+  },
+  "657": {
+    "explanation": "\"De spullen\" refers to your personal belongings or general items. It's a common way to talk about things you own or use.",
+    "examples": [
+      {
+        "dutch": "Waar zijn mijn spullen?",
+        "english": "Where are my things?"
+      },
+      {
+        "dutch": "Pak je spullen en laten we gaan.",
+        "english": "Pack your stuff and let's go."
+      }
+    ]
+  },
+  "658": {
+    "explanation": "\"Nergens\" means 'nowhere' or 'not anywhere'. It indicates that something cannot be found in any place.",
+    "examples": [
+      {
+        "dutch": "Ik kan mijn sleutels nergens vinden.",
+        "english": "I can't find my keys anywhere."
+      },
+      {
+        "dutch": "De kat is nergens.",
+        "english": "The cat is nowhere."
+      }
+    ]
+  },
+  "659": {
+    "explanation": "\"Sorry\" is used to apologize for something you did or said, or to express regret. You say it when you feel bad about something.",
+    "examples": [
+      {
+        "dutch": "Sorry, ik ben te laat.",
+        "english": "Sorry, I am late."
+      },
+      {
+        "dutch": "Sorry, dat was niet de bedoeling.",
+        "english": "Sorry, that was not intended."
+      }
+    ]
+  },
+  "660": {
+    "explanation": "\"De provincie\" is a large administrative division of a country, similar to a state or region. The Netherlands has twelve provinces.",
+    "examples": [
+      {
+        "dutch": "Ik woon in de provincie Noord-Holland.",
+        "english": "I live in the province of North Holland."
+      },
+      {
+        "dutch": "Welke provincie bezoek je?",
+        "english": "Which province are you visiting?"
+      }
+    ]
+  },
+  "661": {
+    "explanation": "\"Het leven\" means 'life' and refers to the state of being alive, or the experiences of a person or animal. It can also mean one's existence.",
+    "examples": [
+      {
+        "dutch": "Het leven is mooi.",
+        "english": "Life is beautiful."
+      },
+      {
+        "dutch": "Ik houd van het leven in de stad.",
+        "english": "I love city life."
+      }
+    ]
+  },
+  "662": {
+    "explanation": "\"Volgend\" means 'next' or 'following'. It indicates something that comes immediately after the current one, like the next week or the next page.",
+    "examples": [
+      {
+        "dutch": "Volgend jaar ga ik op vakantie.",
+        "english": "Next year I am going on holiday."
+      },
+      {
+        "dutch": "Lees de volgende zin.",
+        "english": "Read the next sentence."
+      }
+    ]
+  },
+  "663": {
+    "explanation": "\"Het centrum\" refers to the central part of a city or town, often where shops, restaurants, and main attractions are located. It's also called 'de binnenstad'.",
+    "examples": [
+      {
+        "dutch": "Ik ga naar het centrum om te winkelen.",
+        "english": "I am going to the city centre to shop."
+      },
+      {
+        "dutch": "Het centrum is erg druk vandaag.",
+        "english": "The city centre is very busy today."
+      }
+    ]
+  },
+  "664": {
+    "explanation": "\"Dag\" is a common Dutch greeting that can mean 'hello' when meeting someone, or 'goodbye' when leaving. It is a versatile word for both situations.",
+    "examples": [
+      {
+        "dutch": "Dag, hoe gaat het?",
+        "english": "Hello, how are you?"
+      },
+      {
+        "dutch": "Ik ga nu, dag!",
+        "english": "I am leaving now, goodbye!"
+      }
+    ]
+  },
+  "665": {
+    "explanation": "\"Kamperen\" means 'to camp' or 'to go camping'. It involves staying outdoors in a tent, caravan, or camper.",
+    "examples": [
+      {
+        "dutch": "Wij houden van kamperen in de natuur.",
+        "english": "We love camping in nature."
+      },
+      {
+        "dutch": "Ga jij deze zomer kamperen?",
+        "english": "Are you going camping this summer?"
+      }
+    ]
+  },
+  "666": {
+    "explanation": "\"De strandvakantie\" is a holiday spent at the beach, often involving swimming, sunbathing, and relaxing by the sea. It's a popular type of vacation.",
+    "examples": [
+      {
+        "dutch": "We boeken een strandvakantie in Spanje.",
+        "english": "We are booking a beach holiday in Spain."
+      },
+      {
+        "dutch": "Mijn strandvakantie was erg ontspannend.",
+        "english": "My beach holiday was very relaxing."
+      }
+    ]
+  },
+  "667": {
+    "explanation": "\"De zomercursus\" is a course or class that takes place during the summer months. It often provides an opportunity to learn something new in a shorter period.",
+    "examples": [
+      {
+        "dutch": "Ik volg een zomercursus Nederlands.",
+        "english": "I am taking a summer course in Dutch."
+      },
+      {
+        "dutch": "Is er een zomercursus voor beginners?",
+        "english": "Is there a summer course for beginners?"
+      }
+    ]
+  },
+  "668": {
+    "explanation": "\"Klinken\" means 'to sound' or 'to clink'. It describes the way something is perceived through hearing, or the noise made by metal objects hitting each other.",
+    "examples": [
+      {
+        "dutch": "Dat klinkt goed!",
+        "english": "That sounds good!"
+      },
+      {
+        "dutch": "Haar stem klinkt vrolijk.",
+        "english": "Her voice sounds cheerful."
+      }
+    ]
+  },
+  "669": {
+    "explanation": "\"Het platteland\" refers to the rural areas outside of cities and towns, characterized by farms, fields, and natural landscapes. It's the opposite of the city.",
+    "examples": [
+      {
+        "dutch": "Ik vind het rustig op het platteland.",
+        "english": "I find it peaceful in the countryside."
+      },
+      {
+        "dutch": "Ze wonen op het platteland.",
+        "english": "They live in the countryside."
+      }
+    ]
+  },
+  "670": {
+    "explanation": "\"Barbecueën\" means 'to barbecue' or 'to grill food outdoors'. It's a common social activity, especially in warm weather.",
+    "examples": [
+      {
+        "dutch": "We gaan vanavond barbecueën in de tuin.",
+        "english": "We are going to barbecue in the garden tonight."
+      },
+      {
+        "dutch": "Hou jij van barbecueën?",
+        "english": "Do you like barbecuing?"
+      }
+    ]
+  },
+  "671": {
+    "explanation": "\"De natuur\" refers to the natural world, including plants, animals, landscapes, and phenomena not created by humans. It represents the environment around us.",
+    "examples": [
+      {
+        "dutch": "Ik houd van wandelen in de natuur.",
+        "english": "I love walking in nature."
+      },
+      {
+        "dutch": "De natuur is erg mooi hier.",
+        "english": "The nature is very beautiful here."
+      }
+    ]
+  },
+  "672": {
+    "explanation": "\"Het advies\" means 'the advice' or 'the counsel'. It is a suggestion or recommendation offered to someone to help them make a decision or solve a problem.",
+    "examples": [
+      {
+        "dutch": "Bedankt voor het advies.",
+        "english": "Thanks for the advice."
+      },
+      {
+        "dutch": "Ik heb een goed advies voor jou.",
+        "english": "I have good advice for you."
+      }
+    ]
+  },
+  "673": {
+    "explanation": "\"Boeken\" means 'to book' or 'to reserve' something, such as a trip, a room, or a table. It also means 'books' (the plural of 'boek').",
+    "examples": [
+      {
+        "dutch": "Ik wil een hotel boeken.",
+        "english": "I want to book a hotel."
+      },
+      {
+        "dutch": "We gaan de vlucht boeken voor volgende week.",
+        "english": "We are going to book the flight for next week."
+      }
+    ]
+  },
+  "674": {
+    "explanation": "This is a collection of web pages you can visit on the internet, often belonging to a company or a person. You can find information or do things on it.",
+    "examples": [
+      {
+        "dutch": "Ik bezoek de website elke dag.",
+        "english": "I visit the website every day."
+      },
+      {
+        "dutch": "De informatie staat op de website.",
+        "english": "The information is on the website."
+      }
+    ]
+  },
+  "675": {
+    "explanation": "This phrase can mean \"a pair\" (like two of something) or \"a few\" (a small, unspecified number more than two). The meaning depends on the context.",
+    "examples": [
+      {
+        "dutch": "Ik heb een paar nieuwe schoenen gekocht.",
+        "english": "I bought a pair of new shoes."
+      },
+      {
+        "dutch": "Wij blijven hier een paar dagen.",
+        "english": "We are staying here for a few days."
+      }
+    ]
+  },
+  "676": {
+    "explanation": "This refers to a group of people who work together for a specific purpose, like a company, club, or charity. It can also mean the way something is planned or arranged.",
+    "examples": [
+      {
+        "dutch": "De organisatie helpt mensen in nood.",
+        "english": "The organization helps people in need."
+      },
+      {
+        "dutch": "De organisatie van het feest was goed.",
+        "english": "The organization of the party was good."
+      }
+    ]
+  },
+  "677": {
+    "explanation": "This verb means to give an answer to a question, letter, or email. You respond with information or a reply.",
+    "examples": [
+      {
+        "dutch": "Kun je mijn vraag beantwoorden?",
+        "english": "Can you answer my question?"
+      },
+      {
+        "dutch": "Zij moet de e-mail beantwoorden.",
+        "english": "She has to answer the email."
+      }
+    ]
+  },
+  "678": {
+    "explanation": "This phrase means \"with pleasure\" or \"gladly.\" You use it to show that you are happy to do something for someone.",
+    "examples": [
+      {
+        "dutch": "\"Wil je helpen?\" \"Ja, met plezier!\"",
+        "english": "\"Do you want to help?\" \"Yes, with pleasure!\""
+      },
+      {
+        "dutch": "Ik help u met plezier.",
+        "english": "I will help you with pleasure."
+      }
+    ]
+  },
+  "679": {
+    "explanation": "This word means \"exactly\" or \"precisely,\" indicating something is correct or accurate in every detail. You can also use it to agree with someone.",
+    "examples": [
+      {
+        "dutch": "De klok is precies vijf uur.",
+        "english": "The clock is exactly five o'clock."
+      },
+      {
+        "dutch": "\"Het is warm vandaag.\" \"Ja, precies!\"",
+        "english": "\"It is warm today.\" \"Yes, exactly!\""
+      }
+    ]
+  },
+  "680": {
+    "explanation": "This is a place, usually in a scenic area, where people can stay in cottages or bungalows for their holiday. It often has facilities like swimming pools and restaurants.",
+    "examples": [
+      {
+        "dutch": "Wij gaan met de familie naar een vakantiepark.",
+        "english": "We are going to a holiday park with the family."
+      },
+      {
+        "dutch": "Het vakantiepark heeft veel activiteiten voor kinderen.",
+        "english": "The holiday park has many activities for children."
+      }
+    ]
+  },
+  "681": {
+    "explanation": "This refers to the amount of money you have to pay to buy something or to get a service. It's how much something costs.",
+    "examples": [
+      {
+        "dutch": "Wat is de prijs van deze koffie?",
+        "english": "What is the price of this coffee?"
+      },
+      {
+        "dutch": "De prijs is inclusief BTW.",
+        "english": "The price includes VAT."
+      }
+    ]
+  },
+  "682": {
+    "explanation": "This is a formal document from a company that states the cost for specific goods or services. It's like a proposal with a detailed price.",
+    "examples": [
+      {
+        "dutch": "Ik vraag een offerte aan voor de reparatie.",
+        "english": "I request a quotation for the repair."
+      },
+      {
+        "dutch": "De offerte is geldig voor een maand.",
+        "english": "The quotation is valid for one month."
+      }
+    ]
+  },
+  "683": {
+    "explanation": "This is a document with blank spaces where you can write information, often used for applications or registrations. You fill it out with your details.",
+    "examples": [
+      {
+        "dutch": "Kunt u dit formulier invullen, alstublieft?",
+        "english": "Can you fill out this form, please?"
+      },
+      {
+        "dutch": "Het formulier is online beschikbaar.",
+        "english": "The form is available online."
+      }
+    ]
+  },
+  "684": {
+    "explanation": "This noun refers to information or facts, like your name, address, or other personal details. You often provide these when filling out a form.",
+    "examples": [
+      {
+        "dutch": "Wij bewaren uw gegevens veilig.",
+        "english": "We store your data safely."
+      },
+      {
+        "dutch": "U moet uw persoonlijke gegevens invullen.",
+        "english": "You must fill in your personal data."
+      }
+    ]
+  },
+  "685": {
+    "explanation": "This is a way to send money directly from one bank account to another. It's a common method for electronic payments.",
+    "examples": [
+      {
+        "dutch": "U kunt betalen via een bankoverschrijving.",
+        "english": "You can pay via a bank transfer."
+      },
+      {
+        "dutch": "De bankoverschrijving is succesvol voltooid.",
+        "english": "The bank transfer has been successfully completed."
+      }
+    ]
+  },
+  "686": {
+    "explanation": "This is a plastic card that allows you to pay for things using borrowed money, which you then pay back to the credit card company later.",
+    "examples": [
+      {
+        "dutch": "Ik betaal met mijn creditcard.",
+        "english": "I pay with my credit card."
+      },
+      {
+        "dutch": "Accepteren jullie creditcards?",
+        "english": "Do you accept credit cards?"
+      }
+    ]
+  },
+  "687": {
+    "explanation": "This adverb means \"connected to the internet\" or \"available via the internet.\" You can shop or communicate online.",
+    "examples": [
+      {
+        "dutch": "Ik koop mijn tickets online.",
+        "english": "I buy my tickets online."
+      },
+      {
+        "dutch": "Zij werkt vaak online vanuit huis.",
+        "english": "She often works online from home."
+      }
+    ]
+  },
+  "688": {
+    "explanation": "This is a method or network that allows people to make and receive payments, such as for products or services. It ensures money transactions happen correctly.",
+    "examples": [
+      {
+        "dutch": "Het nieuwe betaalsysteem is erg veilig.",
+        "english": "The new payment system is very safe."
+      },
+      {
+        "dutch": "Wij gebruiken een eenvoudig betaalsysteem.",
+        "english": "We use a simple payment system."
+      }
+    ]
+  },
+  "689": {
+    "explanation": "This adjective means \"clear\" or \"easy to understand.\" When something is `duidelijk`, there is no confusion.",
+    "examples": [
+      {
+        "dutch": "De instructies zijn heel duidelijk.",
+        "english": "The instructions are very clear."
+      },
+      {
+        "dutch": "Kunt u dat duidelijk uitleggen?",
+        "english": "Can you explain that clearly?"
+      }
+    ]
+  },
+  "690": {
+    "explanation": "This verb means to register or enroll for something, like a course, a club, or an event. You put your name on a list.",
+    "examples": [
+      {
+        "dutch": "Ik wil me inschrijven voor de cursus.",
+        "english": "I want to enroll for the course."
+      },
+      {
+        "dutch": "Je kunt je online inschrijven.",
+        "english": "You can register online."
+      }
+    ]
+  },
+  "691": {
+    "explanation": "This refers to whether someone is male or female. You often need to state your `geslacht` on forms.",
+    "examples": [
+      {
+        "dutch": "Kies uw geslacht: man of vrouw.",
+        "english": "Choose your gender: male or female."
+      },
+      {
+        "dutch": "Het formulier vraagt om uw naam en geslacht.",
+        "english": "The form asks for your name and gender."
+      }
+    ]
+  },
+  "692": {
+    "explanation": "This is the first letter of your first name (or middle name). On Dutch forms, it's common to only provide your initials, not full first names.",
+    "examples": [
+      {
+        "dutch": "Wat is uw voorletter?",
+        "english": "What is your initial?"
+      },
+      {
+        "dutch": "Mijn voorletter is J.",
+        "english": "My initial is J."
+      }
+    ]
+  },
+  "693": {
+    "explanation": "This refers to small words that are part of a Dutch surname, like \"van,\" \"de,\" or \"der.\" These prefixes are written separately from the main part of the surname.",
+    "examples": [
+      {
+        "dutch": "\"Van der Berg\" heeft \"van der\" als tussenvoegsel.",
+        "english": "\"Van der Berg\" has \"van der\" as a surname prefix."
+      },
+      {
+        "dutch": "Schrijf uw achternaam en tussenvoegsel op.",
+        "english": "Write down your surname and surname prefix."
+      }
+    ]
+  },
+  "694": {
+    "explanation": "This refers to the specific number given to a house or building on a street. It helps identify a unique address.",
+    "examples": [
+      {
+        "dutch": "Mijn huisnummer is 10.",
+        "english": "My house number is 10."
+      },
+      {
+        "dutch": "Wat is jouw huisnummer?",
+        "english": "What is your house number?"
+      }
+    ]
+  },
+  "695": {
+    "explanation": "This is an extra letter or number often added to a house number, like 'A' or 'bis', to distinguish different apartments or units at the same main address.",
+    "examples": [
+      {
+        "dutch": "Mijn adres is nummer 5 met de toevoeging B.",
+        "english": "My address is number 5 with the addition B."
+      },
+      {
+        "dutch": "Heeft dit adres een toevoeging?",
+        "english": "Does this address have an addition?"
+      }
+    ]
+  },
+  "696": {
+    "explanation": "This is a series of numbers and letters used in an address to help sort mail and locate a specific geographic area. Every street and city in the Netherlands has one.",
+    "examples": [
+      {
+        "dutch": "Wat is de postcode van Amsterdam?",
+        "english": "What is the postal code of Amsterdam?"
+      },
+      {
+        "dutch": "Schrijf de postcode op het pakket.",
+        "english": "Write the postal code on the package."
+      }
+    ]
+  },
+  "697": {
+    "explanation": "This is the city or town where someone lives. It indicates your official place of residence.",
+    "examples": [
+      {
+        "dutch": "Mijn woonplaats is Utrecht.",
+        "english": "My city of residence is Utrecht."
+      },
+      {
+        "dutch": "Wat is jouw woonplaats?",
+        "english": "What is your city of residence?"
+      }
+    ]
+  },
+  "698": {
+    "explanation": "This is an address used for sending and receiving electronic mail online. It usually contains an '@' symbol.",
+    "examples": [
+      {
+        "dutch": "Geef mij jouw e-mailadres.",
+        "english": "Give me your email address."
+      },
+      {
+        "dutch": "Zijn e-mailadres is jan@voorbeeld.nl.",
+        "english": "His email address is jan@example.nl."
+      }
+    ]
+  },
+  "699": {
+    "explanation": "This refers to a specific standard or stage, often used to describe proficiency in a language or skill. For example, A1 or A2 are language levels.",
+    "examples": [
+      {
+        "dutch": "Ik spreek Nederlands op A2 niveau.",
+        "english": "I speak Dutch at A2 level."
+      },
+      {
+        "dutch": "Wat is jouw niveau?",
+        "english": "What is your level?"
+      }
+    ]
+  },
+  "700": {
+    "explanation": "This is a person who is just starting to learn or do something and has very little experience.",
+    "examples": [
+      {
+        "dutch": "Ik ben een beginner in het Nederlands.",
+        "english": "I am a beginner in Dutch."
+      },
+      {
+        "dutch": "Deze cursus is voor beginners.",
+        "english": "This course is for beginners."
+      }
+    ]
+  },
+  "701": {
+    "explanation": "This refers to a place where someone stays or lives, such as a hotel, an apartment, or a house.",
+    "examples": [
+      {
+        "dutch": "We zoeken een accommodatie voor onze vakantie.",
+        "english": "We are looking for accommodation for our holiday."
+      },
+      {
+        "dutch": "De accommodatie is erg mooi.",
+        "english": "The accommodation is very nice."
+      }
+    ]
+  },
+  "702": {
+    "explanation": "This is a room that you share with one or more other people. It is common in student housing or hostels.",
+    "examples": [
+      {
+        "dutch": "Ik slaap in een gedeelde kamer.",
+        "english": "I sleep in a shared room."
+      },
+      {
+        "dutch": "Een gedeelde kamer is vaak goedkoper.",
+        "english": "A shared room is often cheaper."
+      }
+    ]
+  },
+  "703": {
+    "explanation": "This is a room that is solely for your use, meaning you don't share it with anyone else.",
+    "examples": [
+      {
+        "dutch": "Ik wil graag een eigen kamer.",
+        "english": "I would like a private room."
+      },
+      {
+        "dutch": "Heb jij een eigen kamer?",
+        "english": "Do you have your own room?"
+      }
+    ]
+  },
+  "704": {
+    "explanation": "This is a small apartment that usually combines the living room, bedroom, and kitchen into one main space. It's often suitable for one person.",
+    "examples": [
+      {
+        "dutch": "Zij woont in een kleine studio in de stad.",
+        "english": "She lives in a small studio in the city."
+      },
+      {
+        "dutch": "De studio heeft een eigen keuken.",
+        "english": "The studio has its own kitchen."
+      }
+    ]
+  },
+  "705": {
+    "explanation": "This word means 'through' or 'by way of'. You use it to indicate the path or method by which something happens.",
+    "examples": [
+      {
+        "dutch": "Ik ga naar huis via de supermarkt.",
+        "english": "I go home via the supermarket."
+      },
+      {
+        "dutch": "Stuur het bericht via e-mail.",
+        "english": "Send the message via email."
+      }
+    ]
+  },
+  "706": {
+    "explanation": "This word is used to explain or provide a reason for something you just said, similar to 'namely' or 'because' in English.",
+    "examples": [
+      {
+        "dutch": "Ik ben moe, namelijk ik heb veel gewerkt.",
+        "english": "I am tired, namely I have worked a lot."
+      },
+      {
+        "dutch": "Hij kan niet komen, namelijk hij is ziek.",
+        "english": "He cannot come, namely he is sick."
+      }
+    ]
+  }
+}
