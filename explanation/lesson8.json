@@ -1,0 +1,660 @@
+{
+  "780": {
+    "explanation": "'De verhuur' is the act or business of renting out something, like bicycles, cars, or equipment. It can also refer to the rental shop itself.",
+    "examples": [
+      { "dutch": "De verhuur van fietsen is populair bij toeristen.", "english": "Bicycle rental is popular with tourists." },
+      { "dutch": "Het verhuurkantoor is open van 9 tot 17 uur.", "english": "The rental office is open from 9 to 5." }
+    ]
+  },
+  "781": {
+    "explanation": "'Huren' means to temporarily use something in exchange for money. You pay a fee to use something that belongs to someone else.",
+    "examples": [
+      { "dutch": "Ik wil een fiets huren voor twee dagen.", "english": "I want to rent a bicycle for two days." },
+      { "dutch": "We hebben een appartement gehuurd in Amsterdam.", "english": "We rented an apartment in Amsterdam." }
+    ]
+  },
+  "782": {
+    "explanation": "A 'huurfiets' is a bicycle you can rent temporarily, usually from a rental shop or bike-sharing station. It is very common in Dutch cities.",
+    "examples": [
+      { "dutch": "Ik neem een huurfiets om door de stad te rijden.", "english": "I take a rental bike to ride through the city." },
+      { "dutch": "De huurfiets kost vijf euro per dag.", "english": "The rental bike costs five euros per day." }
+    ]
+  },
+  "783": {
+    "explanation": "A 'damesfiets' is a women's bicycle, typically with a lower step-through frame making it easier to mount and dismount.",
+    "examples": [
+      { "dutch": "Mijn moeder rijdt altijd op een damesfiets.", "english": "My mother always rides a women's bike." },
+      { "dutch": "Een damesfiets heeft geen balk.", "english": "A women's bike has no crossbar." }
+    ]
+  },
+  "784": {
+    "explanation": "A 'herenfiets' is a men's bicycle, typically featuring a higher crossbar connecting the handlebars to the seat post.",
+    "examples": [
+      { "dutch": "Hij rijdt elke dag naar zijn werk op een herenfiets.", "english": "He rides to work every day on a men's bike." },
+      { "dutch": "De herenfiets is groter dan de damesfiets.", "english": "The men's bike is bigger than the women's bike." }
+    ]
+  },
+  "785": {
+    "explanation": "A 'kinderfiets' is a bicycle designed for children, smaller in size and often with extra wheels for stability when learning to ride.",
+    "examples": [
+      { "dutch": "Mijn dochter heeft een rode kinderfiets.", "english": "My daughter has a red children's bike." },
+      { "dutch": "We verhuren ook kinderfietsen voor families.", "english": "We also rent children's bikes for families." }
+    ]
+  },
+  "786": {
+    "explanation": "A 'tandem' is a bicycle built for two people, with two seats and two sets of pedals arranged one behind the other. Both riders pedal at the same time.",
+    "examples": [
+      { "dutch": "We reden op een tandem door het park.", "english": "We rode on a tandem through the park." },
+      { "dutch": "Een tandem is leuk om samen te rijden.", "english": "A tandem is fun to ride together." }
+    ]
+  },
+  "787": {
+    "explanation": "A 'bakfiets' is a cargo bike with a large box in the front for carrying goods or children. It is very commonly used in the Netherlands.",
+    "examples": [
+      { "dutch": "Zij brengt haar kinderen naar school op een bakfiets.", "english": "She brings her children to school on a cargo bike." },
+      { "dutch": "De bakfiets is ideaal voor het doen van boodschappen.", "english": "The cargo bike is ideal for doing groceries." }
+    ]
+  },
+  "788": {
+    "explanation": "An 'elektrische fiets' is a bicycle with a built-in electric motor that assists your pedalling, making it easier to cycle long distances or up hills.",
+    "examples": [
+      { "dutch": "Met een elektrische fiets hoef je minder te trappen.", "english": "With an electric bicycle you need to pedal less." },
+      { "dutch": "Elektrische fietsen worden steeds populairder in Nederland.", "english": "Electric bicycles are becoming increasingly popular in the Netherlands." }
+    ]
+  },
+  "789": {
+    "explanation": "'De pech' refers to a breakdown or mechanical problem, often with a vehicle or bike. It can also mean bad luck in general.",
+    "examples": [
+      { "dutch": "Ik heb pech, mijn band is lek.", "english": "I have bad luck, my tyre is flat." },
+      { "dutch": "Wat een pech! De trein is te laat.", "english": "What bad luck! The train is late." }
+    ]
+  },
+  "790": {
+    "explanation": "'Onderweg' means on the way or during a journey. It describes being in the process of traveling from one place to another.",
+    "examples": [
+      { "dutch": "Ik ben onderweg naar het station.", "english": "I am on my way to the station." },
+      { "dutch": "We aten een sandwich onderweg.", "english": "We ate a sandwich on the way." }
+    ]
+  },
+  "791": {
+    "explanation": "A 'fietstas' is a bag designed to attach to a bicycle, typically on the rear rack, used for carrying items while cycling.",
+    "examples": [
+      { "dutch": "Ik doe mijn boodschappen in de fietstas.", "english": "I put my groceries in the bike bag." },
+      { "dutch": "Mijn fietstas zit vol met boeken.", "english": "My bike bag is full of books." }
+    ]
+  },
+  "792": {
+    "explanation": "'De versnelling' refers to the gear on a bicycle or vehicle. By shifting gears, you can make pedalling easier or harder depending on terrain.",
+    "examples": [
+      { "dutch": "Zet een lagere versnelling in als je omhoog fietst.", "english": "Use a lower gear when cycling uphill." },
+      { "dutch": "Mijn fiets heeft acht versnellingen.", "english": "My bicycle has eight gears." }
+    ]
+  },
+  "793": {
+    "explanation": "'Het tarief' is the rate or price charged for a service. You would ask about the tariff when renting a bike or using public transport.",
+    "examples": [
+      { "dutch": "Wat is het tarief voor het huren van een fiets?", "english": "What is the rate for renting a bike?" },
+      { "dutch": "Het dagtarief is tien euro per persoon.", "english": "The day rate is ten euros per person." }
+    ]
+  },
+  "794": {
+    "explanation": "'De route' is the path or way you take to get from one place to another. It can be planned in advance using a map or navigation app.",
+    "examples": [
+      { "dutch": "Welke route nemen we naar het centrum?", "english": "Which route do we take to the city centre?" },
+      { "dutch": "De route langs de rivier is heel mooi.", "english": "The route along the river is very beautiful." }
+    ]
+  },
+  "795": {
+    "explanation": "A 'fietspad' is a dedicated path or lane specifically for cyclists. The Netherlands is famous for its extensive network of cycle paths.",
+    "examples": [
+      { "dutch": "In Nederland zijn veel fietspaden.", "english": "In the Netherlands there are many cycle paths." },
+      { "dutch": "Fiets altijd op het fietspad, niet op de weg.", "english": "Always cycle on the cycle path, not on the road." }
+    ]
+  },
+  "796": {
+    "explanation": "A 'fietstocht' is a cycling tour or excursion — a trip made by bicycle, often for leisure or recreation.",
+    "examples": [
+      { "dutch": "We maken morgen een fietstocht door het bos.", "english": "We are going on a cycling tour through the forest tomorrow." },
+      { "dutch": "De fietstocht duurt ongeveer drie uur.", "english": "The cycling tour lasts about three hours." }
+    ]
+  },
+  "797": {
+    "explanation": "'Het slot' is a lock used to secure a bicycle against theft. It can also mean a castle or the end of something.",
+    "examples": [
+      { "dutch": "Vergeet niet je fiets op slot te doen.", "english": "Don't forget to lock your bike." },
+      { "dutch": "Mijn slot is kapot, ik moet een nieuwe kopen.", "english": "My lock is broken, I need to buy a new one." }
+    ]
+  },
+  "798": {
+    "explanation": "'Het zadel' is the seat of a bicycle. You can usually adjust the height of the saddle for comfort.",
+    "examples": [
+      { "dutch": "Het zadel is te laag voor mij.", "english": "The saddle is too low for me." },
+      { "dutch": "Ik wil het zadel wat hoger zetten.", "english": "I want to raise the saddle a bit." }
+    ]
+  },
+  "799": {
+    "explanation": "'De handrem' is the handbrake on a bicycle — the lever on the handlebar that you squeeze to slow down or stop.",
+    "examples": [
+      { "dutch": "Gebruik de handrem om te stoppen.", "english": "Use the handbrake to stop." },
+      { "dutch": "De handrem van mijn fiets werkt niet goed.", "english": "The handbrake of my bicycle does not work well." }
+    ]
+  },
+  "800": {
+    "explanation": "'Het stuur' is the handlebar of a bicycle (or steering wheel of a car). You use it to steer the bike in the direction you want to go.",
+    "examples": [
+      { "dutch": "Houd altijd het stuur goed vast.", "english": "Always hold the handlebar firmly." },
+      { "dutch": "Het stuur van de fiets zit te laag.", "english": "The handlebar of the bicycle is too low." }
+    ]
+  },
+  "801": {
+    "explanation": "'Het voorlicht' is the front light of a bicycle. It is required by law to have a working front light when cycling at night in the Netherlands.",
+    "examples": [
+      { "dutch": "Doe je voorlicht aan als het donker is.", "english": "Turn on your front light when it is dark." },
+      { "dutch": "Mijn voorlicht is kapot.", "english": "My front light is broken." }
+    ]
+  },
+  "802": {
+    "explanation": "'Het achterlicht' is the rear light of a bicycle, usually red in colour. It is required by law for cycling at night.",
+    "examples": [
+      { "dutch": "Het achterlicht maakt je zichtbaar voor auto's.", "english": "The back light makes you visible to cars." },
+      { "dutch": "Vergeet niet het achterlicht te controleren.", "english": "Don't forget to check the back light." }
+    ]
+  },
+  "803": {
+    "explanation": "'Het wiel' is the wheel of a bicycle or other vehicle — the circular frame that rotates to allow movement.",
+    "examples": [
+      { "dutch": "Het wiel van mijn fiets is kapot.", "english": "The wheel of my bicycle is broken." },
+      { "dutch": "Een fiets heeft twee wielen.", "english": "A bicycle has two wheels." }
+    ]
+  },
+  "804": {
+    "explanation": "'Het voorwiel' is the front wheel of a bicycle. It is steered by the handlebars.",
+    "examples": [
+      { "dutch": "Het voorwiel van de fiets heeft een lekke band.", "english": "The front wheel of the bicycle has a flat tyre." },
+      { "dutch": "Ik moet het voorwiel vervangen.", "english": "I need to replace the front wheel." }
+    ]
+  },
+  "805": {
+    "explanation": "'Het achterwiel' is the back wheel of a bicycle. The chain connects the pedals to the rear wheel to drive the bike forward.",
+    "examples": [
+      { "dutch": "De ketting zit om het achterwiel.", "english": "The chain is around the rear wheel." },
+      { "dutch": "Mijn achterwiel draait niet goed.", "english": "My rear wheel does not turn well." }
+    ]
+  },
+  "806": {
+    "explanation": "'De trapper' is the pedal of a bicycle — the part you push with your foot to make the bike move forward.",
+    "examples": [
+      { "dutch": "Trap hard op de trappers om sneller te rijden.", "english": "Push hard on the pedals to cycle faster." },
+      { "dutch": "Mijn trapper is losgeraakt.", "english": "My pedal has come loose." }
+    ]
+  },
+  "807": {
+    "explanation": "'De reflector' is a safety device on a bicycle that reflects light, making the cyclist visible to drivers in the dark.",
+    "examples": [
+      { "dutch": "Elke fiets moet een reflector hebben.", "english": "Every bicycle must have a reflector." },
+      { "dutch": "De reflector zit achter aan de fiets.", "english": "The reflector is at the back of the bicycle." }
+    ]
+  },
+  "808": {
+    "explanation": "'De fietsstandaard' is the kickstand — a small metal leg attached to the bicycle frame that allows it to stand upright when parked.",
+    "examples": [
+      { "dutch": "Zet je fiets op de standaard als je hem parkeert.", "english": "Put your bike on the kickstand when you park it." },
+      { "dutch": "De fietsstandaard is afgebroken.", "english": "The kickstand is broken." }
+    ]
+  },
+  "809": {
+    "explanation": "'De kettingkast' is the chain guard — a protective cover around the bicycle chain that keeps it clean and prevents clothing from getting caught.",
+    "examples": [
+      { "dutch": "De kettingkast beschermt je kleding tegen vet.", "english": "The chain guard protects your clothes from grease." },
+      { "dutch": "Mijn kettingkast is los.", "english": "My chain guard is loose." }
+    ]
+  },
+  "810": {
+    "explanation": "'De band' refers to the tyre of a bicycle or other vehicle — the rubber covering around the wheel. 'Lek' means flat.",
+    "examples": [
+      { "dutch": "Mijn band is lek, ik moet hem plakken.", "english": "My tyre is flat, I need to patch it." },
+      { "dutch": "Een nieuwe band kost ongeveer vijf euro.", "english": "A new tyre costs about five euros." }
+    ]
+  },
+  "811": {
+    "explanation": "'De spaken' are the spokes — the thin metal rods that connect the hub to the rim of a bicycle wheel.",
+    "examples": [
+      { "dutch": "Een van de spaken is gebroken.", "english": "One of the spokes is broken." },
+      { "dutch": "De spaken houden het wiel op zijn plek.", "english": "The spokes keep the wheel in place." }
+    ]
+  },
+  "812": {
+    "explanation": "'Voor me' means 'for me'. It is used to express that something is intended for the speaker or that the speaker is asking for something.",
+    "examples": [
+      { "dutch": "Kun jij dit voor me doen?", "english": "Can you do this for me?" },
+      { "dutch": "Er is een brief voor me.", "english": "There is a letter for me." }
+    ]
+  },
+  "813": {
+    "explanation": "'Zullen' is a modal verb used to express intention, plans, or something that will happen in the future. It is similar to 'shall' or 'will' in English.",
+    "examples": [
+      { "dutch": "Zullen we vanavond eten gaan?", "english": "Shall we go out to eat tonight?" },
+      { "dutch": "Hij zal morgen aankomen.", "english": "He will arrive tomorrow." }
+    ]
+  },
+  "814": {
+    "explanation": "'De pop' means a doll — a toy figure in the shape of a person or character, typically played with by children.",
+    "examples": [
+      { "dutch": "Het meisje speelt met haar pop.", "english": "The girl is playing with her doll." },
+      { "dutch": "Zij heeft een mooie pop gekregen voor haar verjaardag.", "english": "She received a beautiful doll for her birthday." }
+    ]
+  },
+  "815": {
+    "explanation": "'Ander' means 'other' or 'different'. It indicates something or someone that is not the same as what was previously mentioned.",
+    "examples": [
+      { "dutch": "Ik wil een andere kamer, deze is te klein.", "english": "I want another room, this one is too small." },
+      { "dutch": "Heb je een andere optie?", "english": "Do you have another option?" }
+    ]
+  },
+  "816": {
+    "explanation": "'De informatie' means information — facts or details about a subject. You can ask for information at a reception desk or tourist office.",
+    "examples": [
+      { "dutch": "Kunt u mij meer informatie geven?", "english": "Can you give me more information?" },
+      { "dutch": "Ik heb alle informatie nodig voor de reservering.", "english": "I need all the information for the reservation." }
+    ]
+  },
+  "817": {
+    "explanation": "'Autorijden' means to drive a car — the act of operating a car on the road.",
+    "examples": [
+      { "dutch": "Ik leer autorijden bij een rijschool.", "english": "I am learning to drive a car at a driving school." },
+      { "dutch": "Hij rijdt elke dag auto naar zijn werk.", "english": "He drives a car to work every day." }
+    ]
+  },
+  "818": {
+    "explanation": "'Studeren' means to study at a university or higher education institution. It is used specifically for studying at an advanced level.",
+    "examples": [
+      { "dutch": "Ik studeer Nederlands aan de universiteit.", "english": "I study Dutch at the university." },
+      { "dutch": "Zij studeert medicijnen in Leiden.", "english": "She studies medicine in Leiden." }
+    ]
+  },
+  "819": {
+    "explanation": "'Vanmiddag' means 'this afternoon'. It refers to the afternoon of the current day.",
+    "examples": [
+      { "dutch": "Vanmiddag gaan we naar het museum.", "english": "This afternoon we are going to the museum." },
+      { "dutch": "Heb jij vanmiddag tijd?", "english": "Do you have time this afternoon?" }
+    ]
+  },
+  "820": {
+    "explanation": "'Lenen' means to borrow (something from someone) or to lend (something to someone). Context determines which direction the action goes.",
+    "examples": [
+      { "dutch": "Mag ik jouw fiets lenen?", "english": "May I borrow your bicycle?" },
+      { "dutch": "Ik leen je graag mijn paraplu.", "english": "I will gladly lend you my umbrella." }
+    ]
+  },
+  "821": {
+    "explanation": "'Parkeren' means to park — to stop a vehicle and leave it in a specific place for a period of time.",
+    "examples": [
+      { "dutch": "Mag ik hier mijn fiets parkeren?", "english": "Can I park my bicycle here?" },
+      { "dutch": "Het is verboden hier te parkeren.", "english": "It is forbidden to park here." }
+    ]
+  },
+  "822": {
+    "explanation": "'Schreeuwen' means to shout or yell — to speak or cry out loudly, often because of excitement, anger, or distress.",
+    "examples": [
+      { "dutch": "Waarom schreeuw je zo hard?", "english": "Why are you shouting so loudly?" },
+      { "dutch": "Hij schreeuwde om hulp.", "english": "He shouted for help." }
+    ]
+  },
+  "823": {
+    "explanation": "'De rekening' means the bill — the total amount of money you owe for services or items, such as at a restaurant or hotel.",
+    "examples": [
+      { "dutch": "Mag ik de rekening, alstublieft?", "english": "May I have the bill, please?" },
+      { "dutch": "De rekening is hoger dan verwacht.", "english": "The bill is higher than expected." }
+    ]
+  },
+  "824": {
+    "explanation": "'Het eten' means the food or the meal. It can refer to food in general or to a specific meal.",
+    "examples": [
+      { "dutch": "Het eten in dit restaurant is heerlijk.", "english": "The food in this restaurant is delicious." },
+      { "dutch": "Wanneer is het eten klaar?", "english": "When is the food ready?" }
+    ]
+  },
+  "825": {
+    "explanation": "'Het voorstel' means the suggestion or proposal — an idea or plan put forward for others to consider.",
+    "examples": [
+      { "dutch": "Dat is een goed voorstel!", "english": "That is a good suggestion!" },
+      { "dutch": "Ik heb een voorstel voor de vakantie.", "english": "I have a proposal for the holiday." }
+    ]
+  },
+  "826": {
+    "explanation": "'De belofte' means the promise — a commitment you make to do or not do something.",
+    "examples": [
+      { "dutch": "Hij heeft zijn belofte niet gehouden.", "english": "He did not keep his promise." },
+      { "dutch": "Ik doe je een belofte: ik kom op tijd.", "english": "I make you a promise: I will be on time." }
+    ]
+  },
+  "827": {
+    "explanation": "'De afwas' refers to the dirty dishes that need washing, or the act of washing dishes.",
+    "examples": [
+      { "dutch": "Er ligt veel afwas in de gootsteen.", "english": "There are many dirty dishes in the sink." },
+      { "dutch": "Wie doet vanavond de afwas?", "english": "Who is doing the dishes tonight?" }
+    ]
+  },
+  "828": {
+    "explanation": "'De afwas doen' means to do the dishes — to clean all the dirty plates, cups, and pots after a meal.",
+    "examples": [
+      { "dutch": "Na het avondeten doe ik de afwas.", "english": "After dinner, I do the dishes." },
+      { "dutch": "Wil jij de afwas doen terwijl ik kook?", "english": "Will you do the dishes while I cook?" }
+    ]
+  },
+  "829": {
+    "explanation": "'De waarschijnlijkheid' means the probability or likelihood — the chance that something will happen or is true.",
+    "examples": [
+      { "dutch": "De waarschijnlijkheid van regen is groot vandaag.", "english": "The probability of rain is high today." },
+      { "dutch": "Er is een grote waarschijnlijkheid dat hij wint.", "english": "There is a great probability that he will win." }
+    ]
+  },
+  "830": {
+    "explanation": "'Moe' means tired — the state of being physically or mentally fatigued and needing rest.",
+    "examples": [
+      { "dutch": "Ik ben heel moe na een lange dag.", "english": "I am very tired after a long day." },
+      { "dutch": "Zij gaat vroeg naar bed want ze is moe.", "english": "She is going to bed early because she is tired." }
+    ]
+  },
+  "831": {
+    "explanation": "'Te laat' means late — arriving or doing something after the expected or agreed time.",
+    "examples": [
+      { "dutch": "De bus is vijf minuten te laat.", "english": "The bus is five minutes late." },
+      { "dutch": "Sorry, ik ben te laat voor de afspraak.", "english": "Sorry, I am late for the appointment." }
+    ]
+  },
+  "832": {
+    "explanation": "'Blijven' has two meanings: to stay (remain in a place) or to keep/remain (to continue in a state or condition).",
+    "examples": [
+      { "dutch": "Kun jij vanavond bij ons blijven?", "english": "Can you stay with us tonight?" },
+      { "dutch": "Het weer blijft mooi deze week.", "english": "The weather stays nice this week." }
+    ]
+  },
+  "833": {
+    "explanation": "'Repareren' means to repair or fix — to restore something that is broken or damaged back to working order.",
+    "examples": [
+      { "dutch": "Ik moet mijn fiets laten repareren.", "english": "I need to have my bicycle repaired." },
+      { "dutch": "De monteur repareert de auto.", "english": "The mechanic repairs the car." }
+    ]
+  },
+  "834": {
+    "explanation": "'Bezorgen' means to deliver — to bring goods or packages to a specific address or person.",
+    "examples": [
+      { "dutch": "Het pakket wordt morgen bezorgd.", "english": "The package will be delivered tomorrow." },
+      { "dutch": "Bezorgen jullie ook naar dit adres?", "english": "Do you also deliver to this address?" }
+    ]
+  },
+  "835": {
+    "explanation": "'Het pakket' means the package or parcel — a wrapped or boxed item sent by post or courier.",
+    "examples": [
+      { "dutch": "Er is een pakket voor u bij de receptie.", "english": "There is a package for you at the reception." },
+      { "dutch": "Ik verwacht een pakket van de webshop.", "english": "I am expecting a package from the online shop." }
+    ]
+  },
+  "836": {
+    "explanation": "'De kok' means the cook or chef — the person who prepares and cooks food, usually professionally in a restaurant or hotel.",
+    "examples": [
+      { "dutch": "De kok maakt heerlijke maaltijden.", "english": "The cook makes delicious meals." },
+      { "dutch": "Hij werkt als kok in een groot restaurant.", "english": "He works as a cook in a large restaurant." }
+    ]
+  },
+  "837": {
+    "explanation": "'Gezond' means healthy — being in good physical or mental condition, or referring to something that is good for your health.",
+    "examples": [
+      { "dutch": "Groenten eten is gezond.", "english": "Eating vegetables is healthy." },
+      { "dutch": "Ik voel me vandaag niet gezond.", "english": "I do not feel healthy today." }
+    ]
+  },
+  "838": {
+    "explanation": "'De telefoon' means the telephone — a device used for speaking with someone who is in another location. It can refer to a landline or mobile phone.",
+    "examples": [
+      { "dutch": "De telefoon gaat, neem jij op?", "english": "The telephone is ringing, will you answer it?" },
+      { "dutch": "Ik bel je later op je telefoon.", "english": "I will call you later on your phone." }
+    ]
+  },
+  "839": {
+    "explanation": "'Rinkelen' means to ring — the sound a telephone, bell, or other device makes when it needs attention.",
+    "examples": [
+      { "dutch": "De telefoon rinkelt al vijf minuten.", "english": "The telephone has been ringing for five minutes." },
+      { "dutch": "Ik hoorde de bel rinkelen.", "english": "I heard the bell ring." }
+    ]
+  },
+  "840": {
+    "explanation": "'Praten' means to talk — to have a conversation or speak with another person.",
+    "examples": [
+      { "dutch": "We moeten even praten over dit probleem.", "english": "We need to talk about this problem." },
+      { "dutch": "Zij praat graag met haar vrienden.", "english": "She likes to talk with her friends." }
+    ]
+  },
+  "841": {
+    "explanation": "'De receptie' is the reception desk — the front desk of a hotel, office, or other building where visitors are greeted and helped.",
+    "examples": [
+      { "dutch": "Vraag aan de receptie om een extra handdoek.", "english": "Ask at the reception for an extra towel." },
+      { "dutch": "De receptie is open van acht uur 's ochtends.", "english": "The reception is open from eight o'clock in the morning." }
+    ]
+  },
+  "842": {
+    "explanation": "'De receptioniste' is the receptionist — the person who works at the reception desk and welcomes guests or visitors.",
+    "examples": [
+      { "dutch": "De receptioniste geeft ons de sleutel van de kamer.", "english": "The receptionist gives us the key to the room." },
+      { "dutch": "De receptioniste spreekt drie talen.", "english": "The receptionist speaks three languages." }
+    ]
+  },
+  "843": {
+    "explanation": "'Één voor één' means one by one — doing or addressing things individually in a sequence, rather than all at once.",
+    "examples": [
+      { "dutch": "Kom één voor één naar voren.", "english": "Come forward one by one." },
+      { "dutch": "Hij beantwoordde de vragen één voor één.", "english": "He answered the questions one by one." }
+    ]
+  },
+  "844": {
+    "explanation": "'Mevrouw Jansen' is a common Dutch name used in exercises and examples. 'Mevrouw' is the title 'Mrs' or 'Ms', and 'Jansen' is one of the most common Dutch surnames.",
+    "examples": [
+      { "dutch": "Mevrouw Jansen heeft een reservering gemaakt.", "english": "Mrs Jansen has made a reservation." },
+      { "dutch": "Goedemiddag, mevrouw Jansen.", "english": "Good afternoon, Mrs Jansen." }
+    ]
+  },
+  "845": {
+    "explanation": "'De mevrouw' is a polite way to refer to an adult woman. It can mean 'the lady', 'ma'am', or 'miss' and is used as a respectful term of address.",
+    "examples": [
+      { "dutch": "Die mevrouw wacht al een half uur.", "english": "That lady has been waiting for half an hour." },
+      { "dutch": "Pardon, mevrouw, kunt u mij helpen?", "english": "Excuse me, ma'am, can you help me?" }
+    ]
+  },
+  "846": {
+    "explanation": "'Welkom' means welcome — a greeting used when someone arrives, expressing that you are pleased they are there.",
+    "examples": [
+      { "dutch": "Welkom in ons hotel!", "english": "Welcome to our hotel!" },
+      { "dutch": "U bent welkom om morgen terug te komen.", "english": "You are welcome to come back tomorrow." }
+    ]
+  },
+  "847": {
+    "explanation": "'Polen' is the Dutch word for Poland — the country in Central Europe.",
+    "examples": [
+      { "dutch": "Zij komt uit Polen.", "english": "She comes from Poland." },
+      { "dutch": "Polen is een groot land in Europa.", "english": "Poland is a large country in Europe." }
+    ]
+  },
+  "848": {
+    "explanation": "'De reservering' means the reservation or booking — an arrangement made in advance to secure a room, table, or service.",
+    "examples": [
+      { "dutch": "Ik heb een reservering voor twee personen gemaakt.", "english": "I have made a reservation for two people." },
+      { "dutch": "Kunt u mijn reservering bevestigen?", "english": "Can you confirm my reservation?" }
+    ]
+  },
+  "849": {
+    "explanation": "'Delen' means to share — to divide something among two or more people, or to use something together.",
+    "examples": [
+      { "dutch": "Wij delen een kamer met twee bedden.", "english": "We share a room with two beds." },
+      { "dutch": "Kun jij de rekening met mij delen?", "english": "Can you share the bill with me?" }
+    ]
+  },
+  "850": {
+    "explanation": "'Eigen' means own — something that belongs to or is associated with you personally, as opposed to shared.",
+    "examples": [
+      { "dutch": "Ik heb mijn eigen sleutel.", "english": "I have my own key." },
+      { "dutch": "De eigen kamer is duurder dan de gedeelde kamer.", "english": "The private room is more expensive than the shared room." }
+    ]
+  },
+  "851": {
+    "explanation": "'Verblijven' means to stay — to remain in a place temporarily, such as at a hotel or in a city.",
+    "examples": [
+      { "dutch": "Wij verblijven drie nachten in dit hotel.", "english": "We are staying three nights in this hotel." },
+      { "dutch": "Hoe lang verblijft u in Nederland?", "english": "How long are you staying in the Netherlands?" }
+    ]
+  },
+  "852": {
+    "explanation": "'De borg' is a deposit — an amount of money paid as a security guarantee, which is returned when you leave or return something in good condition.",
+    "examples": [
+      { "dutch": "U moet een borg van 50 euro betalen.", "english": "You must pay a deposit of 50 euros." },
+      { "dutch": "De borg wordt terugbetaald als je vertrekt.", "english": "The deposit is returned when you leave." }
+    ]
+  },
+  "853": {
+    "explanation": "'Borg betalen' means to pay a deposit — to hand over a sum of money as security before renting accommodation or equipment.",
+    "examples": [
+      { "dutch": "Je moet borg betalen voor de sleutel.", "english": "You need to pay a deposit for the key." },
+      { "dutch": "Hoeveel borg moet ik betalen?", "english": "How much deposit do I need to pay?" }
+    ]
+  },
+  "854": {
+    "explanation": "'Iedereen' means everybody or everyone — referring to all the people in a group without exception.",
+    "examples": [
+      { "dutch": "Goedemorgen, iedereen!", "english": "Good morning, everyone!" },
+      { "dutch": "Iedereen moet om negen uur aanwezig zijn.", "english": "Everyone must be present at nine o'clock." }
+    ]
+  },
+  "855": {
+    "explanation": "'Het verblijf' means the stay — the period of time spent in a place, often used in the context of accommodation.",
+    "examples": [
+      { "dutch": "Ik wens u een aangenaam verblijf.", "english": "I wish you a pleasant stay." },
+      { "dutch": "Hoe lang is uw verblijf?", "english": "How long is your stay?" }
+    ]
+  },
+  "856": {
+    "explanation": "'Netjes' means neat or tidy — clean, orderly, and well-organized. It can also describe polite or proper behaviour.",
+    "examples": [
+      { "dutch": "Laat de kamer netjes achter als je vertrekt.", "english": "Leave the room neat when you leave." },
+      { "dutch": "Hij werkt altijd netjes en precies.", "english": "He always works neatly and precisely." }
+    ]
+  },
+  "857": {
+    "explanation": "'Schoonmaken' means to clean — to make a place or object free of dirt or mess.",
+    "examples": [
+      { "dutch": "De kamer moet dagelijks schoongemaakt worden.", "english": "The room must be cleaned daily." },
+      { "dutch": "Ik maak mijn huis schoon in het weekend.", "english": "I clean my house at the weekend." }
+    ]
+  },
+  "858": {
+    "explanation": "'Houden' means to keep — to retain possession of something or to maintain a state. It can also mean to hold.",
+    "examples": [
+      { "dutch": "Houd de sleutel totdat je vertrekt.", "english": "Keep the key until you leave." },
+      { "dutch": "Ik houd de ontvangst als bewijs.", "english": "I keep the receipt as proof." }
+    ]
+  },
+  "859": {
+    "explanation": "'Zelf' means self — indicating that the person does something personally, without help from others.",
+    "examples": [
+      { "dutch": "Ik doe het liever zelf.", "english": "I prefer to do it myself." },
+      { "dutch": "Hij heeft het zelf gerepareerd.", "english": "He repaired it himself." }
+    ]
+  },
+  "860": {
+    "explanation": "'De puinhoop' means the mess — a state of great disorder, untidiness, or chaos.",
+    "examples": [
+      { "dutch": "De kamer is een puinhoop na het feest.", "english": "The room is a mess after the party." },
+      { "dutch": "Maak de puinhoop op voordat je weggaat.", "english": "Clean up the mess before you leave." }
+    ]
+  },
+  "861": {
+    "explanation": "'Het afval' means the garbage or waste — materials or items that are thrown away because they are no longer needed.",
+    "examples": [
+      { "dutch": "Gooi het afval in de vuilnisbak.", "english": "Throw the garbage in the bin." },
+      { "dutch": "We scheiden het afval in papier en glas.", "english": "We separate the waste into paper and glass." }
+    ]
+  },
+  "862": {
+    "explanation": "'Weggooien' means to throw away — to discard something you no longer want by putting it in a bin or container.",
+    "examples": [
+      { "dutch": "Gooi dat oude eten maar weg.", "english": "Just throw away that old food." },
+      { "dutch": "Ik heb per ongeluk mijn bonnetje weggegooid.", "english": "I accidentally threw away my receipt." }
+    ]
+  },
+  "863": {
+    "explanation": "'De container' means the container — a large bin or receptacle used for collecting waste or recyclable materials.",
+    "examples": [
+      { "dutch": "Gooi glas in de glasbak, niet in de container.", "english": "Throw glass in the glass bin, not in the container." },
+      { "dutch": "De container voor papier staat buiten.", "english": "The container for paper is outside." }
+    ]
+  },
+  "864": {
+    "explanation": "'Het beddengoed' means bedding or bed linen — the sheets, pillowcases, and duvet covers used on a bed.",
+    "examples": [
+      { "dutch": "Het beddengoed in dit hotel is heel schoon.", "english": "The bedding in this hotel is very clean." },
+      { "dutch": "Kan ik nieuw beddengoed krijgen?", "english": "Can I get new bedding?" }
+    ]
+  },
+  "865": {
+    "explanation": "'De plattegrond' means the map — specifically a floor plan or city map showing the layout of a building or area.",
+    "examples": [
+      { "dutch": "Op de plattegrond zie je hoe je naar de receptie gaat.", "english": "On the map you can see how to get to the reception." },
+      { "dutch": "Heb je een plattegrond van de stad?", "english": "Do you have a map of the city?" }
+    ]
+  },
+  "866": {
+    "explanation": "'Oversteken' means to cross — to go across a road, river, or other space from one side to the other.",
+    "examples": [
+      { "dutch": "Let op auto's als je de straat oversteekt.", "english": "Watch out for cars when you cross the street." },
+      { "dutch": "We moeten de brug oversteken om er te komen.", "english": "We need to cross the bridge to get there." }
+    ]
+  },
+  "867": {
+    "explanation": "'Het merk' means the brand — the name or identity given to a product or company.",
+    "examples": [
+      { "dutch": "Van welk merk is jouw fiets?", "english": "What brand is your bicycle?" },
+      { "dutch": "Dit merk is bekend om zijn kwaliteit.", "english": "This brand is known for its quality." }
+    ]
+  },
+  "868": {
+    "explanation": "'De ervaring' means the experience — knowledge or skill gained through doing something, or a particular event you have gone through.",
+    "examples": [
+      { "dutch": "Ik heb veel ervaring met fietsen in de stad.", "english": "I have a lot of experience with cycling in the city." },
+      { "dutch": "Het was een geweldige ervaring.", "english": "It was a great experience." }
+    ]
+  },
+  "869": {
+    "explanation": "'Super' is an informal adjective meaning great or fantastic. It is commonly used in spoken Dutch to express enthusiasm or approval.",
+    "examples": [
+      { "dutch": "Dat is super! Ik ben zo blij.", "english": "That is great! I am so happy." },
+      { "dutch": "De kamer is super schoon en comfortabel.", "english": "The room is super clean and comfortable." }
+    ]
+  },
+  "870": {
+    "explanation": "'De picknick' means the picnic — an outdoor meal eaten in a park or other pleasant outdoor setting.",
+    "examples": [
+      { "dutch": "We maken morgen een picknick in het park.", "english": "We are having a picnic in the park tomorrow." },
+      { "dutch": "Een picknick is een leuke activiteit in de zomer.", "english": "A picnic is a fun activity in the summer." }
+    ]
+  },
+  "871": {
+    "explanation": "'Romantisch' means romantic — associated with love, tenderness, or an atmosphere that evokes these feelings.",
+    "examples": [
+      { "dutch": "Dit restaurant is heel romantisch.", "english": "This restaurant is very romantic." },
+      { "dutch": "We maakten een romantische fietstocht door de duinen.", "english": "We took a romantic cycling tour through the dunes." }
+    ]
+  },
+  "872": {
+    "explanation": "'Eenvoudig' means simple or easy — not complicated, straightforward, or modest.",
+    "examples": [
+      { "dutch": "De instructies zijn eenvoudig te begrijpen.", "english": "The instructions are simple to understand." },
+      { "dutch": "We eten 's avonds iets eenvoudigs.", "english": "We eat something simple in the evening." }
+    ]
+  },
+  "873": {
+    "explanation": "'De openingstijden' means the opening hours — the times during which a shop, museum, or other establishment is open to the public.",
+    "examples": [
+      { "dutch": "Wat zijn de openingstijden van het museum?", "english": "What are the opening hours of the museum?" },
+      { "dutch": "De openingstijden staan op de website.", "english": "The opening hours are on the website." }
+    ]
+  }
+}
