@@ -4,105 +4,575 @@
     {
       "section": "Woorden (thematisch) - Hoofdstuk 8: De aankomst (Fietsen)",
       "words": [
-        { "id": 780, "dutch": "de verhuur", "english": "the rental", "audio": "audio/lesson8/780.m4a" },
-        { "id": 781, "dutch": "huren", "english": "to rent", "audio": "audio/lesson8/781.m4a" },
-        { "id": 782, "dutch": "de huurfiets", "english": "the rental bike", "audio": "audio/lesson8/782.m4a" },
-        { "id": 783, "dutch": "de damesfiets", "english": "the women's bike", "audio": "audio/lesson8/783.m4a" },
-        { "id": 784, "dutch": "de herenfiets", "english": "the men's bike", "audio": "audio/lesson8/784.m4a" },
-        { "id": 785, "dutch": "de kinderfiets", "english": "the children's bike", "audio": "audio/lesson8/785.m4a" },
-        { "id": 786, "dutch": "de tandem", "english": "the tandem", "audio": "audio/lesson8/786.m4a" },
-        { "id": 787, "dutch": "de bakfiets", "english": "the cargo bike", "audio": "audio/lesson8/787.m4a" },
-        { "id": 788, "dutch": "de elektrische fiets", "english": "the electric bicycle", "audio": "audio/lesson8/788.m4a" },
-        { "id": 789, "dutch": "de pech", "english": "the breakdown", "audio": "audio/lesson8/789.m4a" },
-        { "id": 790, "dutch": "onderweg", "english": "on the way", "audio": "audio/lesson8/790.m4a" },
-        { "id": 791, "dutch": "de fietstas", "english": "the bike bag", "audio": "audio/lesson8/791.m4a" },
-        { "id": 792, "dutch": "de versnelling", "english": "the gear", "audio": "audio/lesson8/792.m4a" },
-        { "id": 793, "dutch": "het tarief", "english": "the rate", "audio": "audio/lesson8/793.m4a" },
-        { "id": 794, "dutch": "de route", "english": "the route", "audio": "audio/lesson8/794.m4a" },
-        { "id": 795, "dutch": "het fietspad", "english": "the cycle path", "audio": "audio/lesson8/795.m4a" },
-        { "id": 796, "dutch": "de fietstocht", "english": "the cycling tour", "audio": "audio/lesson8/796.m4a" },
-        { "id": 797, "dutch": "het slot", "english": "the lock", "audio": "audio/lesson8/797.m4a" },
-        { "id": 798, "dutch": "het zadel", "english": "the saddle", "audio": "audio/lesson8/798.m4a" },
-        { "id": 799, "dutch": "de handrem", "english": "the handbrake", "audio": "audio/lesson8/799.m4a" },
-        { "id": 800, "dutch": "het stuur", "english": "the handlebar", "audio": "audio/lesson8/800.m4a" },
-        { "id": 801, "dutch": "het voorlicht", "english": "the front light", "audio": "audio/lesson8/801.m4a" },
-        { "id": 802, "dutch": "het achterlicht", "english": "the back light", "audio": "audio/lesson8/802.m4a" },
-        { "id": 803, "dutch": "het wiel", "english": "the wheel", "audio": "audio/lesson8/803.m4a" },
-        { "id": 804, "dutch": "het voorwiel", "english": "the front wheel", "audio": "audio/lesson8/804.m4a" },
-        { "id": 805, "dutch": "het achterwiel", "english": "the back wheel", "audio": "audio/lesson8/805.m4a" },
-        { "id": 806, "dutch": "de trapper", "english": "the pedal", "audio": "audio/lesson8/806.m4a" },
-        { "id": 807, "dutch": "de reflector", "english": "the reflector", "audio": "audio/lesson8/807.m4a" },
-        { "id": 808, "dutch": "de fietsstandaard", "english": "the bike stand", "audio": "audio/lesson8/808.m4a" },
-        { "id": 809, "dutch": "de kettingkast", "english": "the chain guard", "audio": "audio/lesson8/809.m4a" },
-        { "id": 810, "dutch": "de band", "english": "the tyre", "audio": "audio/lesson8/810.m4a" },
-        { "id": 811, "dutch": "de spaken", "english": "the spokes", "audio": "audio/lesson8/811.m4a" }
+        {
+          "id": 780,
+          "dutch": "de verhuur",
+          "english": "the rental",
+          "audio": "audio/lesson8/780.m4a"
+        },
+        {
+          "id": 781,
+          "dutch": "huren",
+          "english": "to rent",
+          "audio": "audio/lesson8/781.m4a"
+        },
+        {
+          "id": 782,
+          "dutch": "de huurfiets",
+          "english": "the rental bike",
+          "audio": "audio/lesson8/782.m4a"
+        },
+        {
+          "id": 783,
+          "dutch": "de damesfiets",
+          "english": "the women's bike",
+          "audio": "audio/lesson8/783.m4a"
+        },
+        {
+          "id": 784,
+          "dutch": "de herenfiets",
+          "english": "the men's bike",
+          "audio": "audio/lesson8/784.m4a"
+        },
+        {
+          "id": 785,
+          "dutch": "de kinderfiets",
+          "english": "the children's bike",
+          "audio": "audio/lesson8/785.m4a"
+        },
+        {
+          "id": 786,
+          "dutch": "de tandem",
+          "english": "the tandem",
+          "audio": "audio/lesson8/786.m4a"
+        },
+        {
+          "id": 787,
+          "dutch": "de bakfiets",
+          "english": "the cargo bike",
+          "audio": "audio/lesson8/787.m4a"
+        },
+        {
+          "id": 788,
+          "dutch": "de elektrische fiets",
+          "english": "the electric bicycle",
+          "audio": "audio/lesson8/788.m4a"
+        },
+        {
+          "id": 789,
+          "dutch": "de pech",
+          "english": "the breakdown",
+          "audio": "audio/lesson8/789.m4a"
+        },
+        {
+          "id": 790,
+          "dutch": "onderweg",
+          "english": "on the way",
+          "audio": "audio/lesson8/790.m4a"
+        },
+        {
+          "id": 791,
+          "dutch": "de fietstas",
+          "english": "the bike bag",
+          "audio": "audio/lesson8/791.m4a"
+        },
+        {
+          "id": 792,
+          "dutch": "de versnelling",
+          "english": "the gear",
+          "audio": "audio/lesson8/792.m4a"
+        },
+        {
+          "id": 793,
+          "dutch": "het tarief",
+          "english": "the rate",
+          "audio": "audio/lesson8/793.m4a"
+        },
+        {
+          "id": 794,
+          "dutch": "de route",
+          "english": "the route",
+          "audio": "audio/lesson8/794.m4a"
+        },
+        {
+          "id": 795,
+          "dutch": "het fietspad",
+          "english": "the cycle path",
+          "audio": "audio/lesson8/795.m4a"
+        },
+        {
+          "id": 796,
+          "dutch": "de fietstocht",
+          "english": "the cycling tour",
+          "audio": "audio/lesson8/796.m4a"
+        },
+        {
+          "id": 797,
+          "dutch": "het slot",
+          "english": "the lock",
+          "audio": "audio/lesson8/797.m4a"
+        },
+        {
+          "id": 798,
+          "dutch": "het zadel",
+          "english": "the saddle",
+          "audio": "audio/lesson8/798.m4a"
+        },
+        {
+          "id": 799,
+          "dutch": "de handrem",
+          "english": "the handbrake",
+          "audio": "audio/lesson8/799.m4a"
+        },
+        {
+          "id": 800,
+          "dutch": "het stuur",
+          "english": "the handlebar",
+          "audio": "audio/lesson8/800.m4a"
+        },
+        {
+          "id": 801,
+          "dutch": "het voorlicht",
+          "english": "the front light",
+          "audio": "audio/lesson8/801.m4a"
+        },
+        {
+          "id": 802,
+          "dutch": "het achterlicht",
+          "english": "the back light",
+          "audio": "audio/lesson8/802.m4a"
+        },
+        {
+          "id": 803,
+          "dutch": "het wiel",
+          "english": "the wheel",
+          "audio": "audio/lesson8/803.m4a"
+        },
+        {
+          "id": 804,
+          "dutch": "het voorwiel",
+          "english": "the front wheel",
+          "audio": "audio/lesson8/804.m4a"
+        },
+        {
+          "id": 805,
+          "dutch": "het achterwiel",
+          "english": "the back wheel",
+          "audio": "audio/lesson8/805.m4a"
+        },
+        {
+          "id": 806,
+          "dutch": "de trapper",
+          "english": "the pedal",
+          "audio": "audio/lesson8/806.m4a"
+        },
+        {
+          "id": 807,
+          "dutch": "de reflector",
+          "english": "the reflector",
+          "audio": "audio/lesson8/807.m4a"
+        },
+        {
+          "id": 808,
+          "dutch": "de fietsstandaard",
+          "english": "the bike stand",
+          "audio": "audio/lesson8/808.m4a"
+        },
+        {
+          "id": 809,
+          "dutch": "de kettingkast",
+          "english": "the chain guard",
+          "audio": "audio/lesson8/809.m4a"
+        },
+        {
+          "id": 810,
+          "dutch": "de band",
+          "english": "the tyre",
+          "audio": "audio/lesson8/810.m4a"
+        },
+        {
+          "id": 811,
+          "dutch": "de spaken",
+          "english": "the spokes",
+          "audio": "audio/lesson8/811.m4a"
+        }
       ]
     },
     {
       "section": "Woordenlijst - Hoofdstuk 8: De aankomst",
       "words": [
-        { "id": 812, "dutch": "voor me", "english": "for me", "audio": "audio/lesson8/812.m4a" },
-        { "id": 813, "dutch": "zullen", "english": "will", "audio": "audio/lesson8/813.m4a" },
-        { "id": 814, "dutch": "de pop", "english": "the doll", "audio": "audio/lesson8/814.m4a" },
-        { "id": 815, "dutch": "ander", "english": "other", "audio": "audio/lesson8/815.m4a" },
-        { "id": 816, "dutch": "de informatie", "english": "the information", "audio": "audio/lesson8/816.m4a" },
-        { "id": 817, "dutch": "autorijden", "english": "to drive a car", "audio": "audio/lesson8/817.m4a" },
-        { "id": 818, "dutch": "studeren", "english": "to study", "audio": "audio/lesson8/818.m4a" },
-        { "id": 819, "dutch": "vanmiddag", "english": "this afternoon", "audio": "audio/lesson8/819.m4a" },
-        { "id": 820, "dutch": "lenen", "english": "to borrow", "audio": "audio/lesson8/820.m4a" },
-        { "id": 821, "dutch": "parkeren", "english": "to park", "audio": "audio/lesson8/821.m4a" },
-        { "id": 822, "dutch": "schreeuwen", "english": "to shout", "audio": "audio/lesson8/822.m4a" },
-        { "id": 823, "dutch": "de rekening", "english": "the bill", "audio": "audio/lesson8/823.m4a" },
-        { "id": 824, "dutch": "het eten", "english": "the food", "audio": "audio/lesson8/824.m4a" },
-        { "id": 825, "dutch": "het voorstel", "english": "the suggestion, the proposal", "audio": "audio/lesson8/825.m4a" },
-        { "id": 826, "dutch": "de belofte", "english": "the promise", "audio": "audio/lesson8/826.m4a" },
-        { "id": 827, "dutch": "de afwas", "english": "the (dirty) dishes", "audio": "audio/lesson8/827.m4a" },
-        { "id": 828, "dutch": "de afwas doen", "english": "to do the dishes", "audio": "audio/lesson8/828.m4a" },
-        { "id": 829, "dutch": "de waarschijnlijkheid", "english": "the probability", "audio": "audio/lesson8/829.m4a" },
-        { "id": 830, "dutch": "moe", "english": "tired", "audio": "audio/lesson8/830.m4a" },
-        { "id": 831, "dutch": "te laat", "english": "late", "audio": "audio/lesson8/831.m4a" },
-        { "id": 832, "dutch": "blijven", "english": "1. to stay, 2. to keep", "audio": "audio/lesson8/832.m4a" },
-        { "id": 833, "dutch": "repareren", "english": "to repair", "audio": "audio/lesson8/833.m4a" },
-        { "id": 834, "dutch": "bezorgen", "english": "to deliver", "audio": "audio/lesson8/834.m4a" },
-        { "id": 835, "dutch": "het pakket", "english": "the package", "audio": "audio/lesson8/835.m4a" },
-        { "id": 836, "dutch": "de kok", "english": "the cook", "audio": "audio/lesson8/836.m4a" },
-        { "id": 837, "dutch": "gezond", "english": "healthy", "audio": "audio/lesson8/837.m4a" },
-        { "id": 838, "dutch": "de telefoon", "english": "the telephone", "audio": "audio/lesson8/838.m4a" },
-        { "id": 839, "dutch": "rinkelen", "english": "to ring", "audio": "audio/lesson8/839.m4a" },
-        { "id": 840, "dutch": "praten", "english": "to talk", "audio": "audio/lesson8/840.m4a" },
-        { "id": 841, "dutch": "de receptie", "english": "the reception", "audio": "audio/lesson8/841.m4a" },
-        { "id": 842, "dutch": "de receptioniste", "english": "the receptionist", "audio": "audio/lesson8/842.m4a" },
-        { "id": 843, "dutch": "één voor één", "english": "one by one", "audio": "audio/lesson8/843.m4a" },
-        { "id": 844, "dutch": "mevrouw Jansen", "english": "Mrs Jansen", "audio": "audio/lesson8/844.m4a" },
-        { "id": 845, "dutch": "de mevrouw", "english": "the ma'am, miss", "audio": "audio/lesson8/845.m4a" },
-        { "id": 846, "dutch": "welkom", "english": "welcome", "audio": "audio/lesson8/846.m4a" },
-        { "id": 847, "dutch": "Polen", "english": "Poland", "audio": "audio/lesson8/847.m4a" },
-        { "id": 848, "dutch": "de reservering", "english": "the reservation", "audio": "audio/lesson8/848.m4a" },
-        { "id": 849, "dutch": "delen", "english": "to share", "audio": "audio/lesson8/849.m4a" },
-        { "id": 850, "dutch": "eigen", "english": "own", "audio": "audio/lesson8/850.m4a" },
-        { "id": 851, "dutch": "verblijven", "english": "to stay", "audio": "audio/lesson8/851.m4a" },
-        { "id": 852, "dutch": "de borg", "english": "the deposit", "audio": "audio/lesson8/852.m4a" },
-        { "id": 853, "dutch": "borg betalen", "english": "to pay deposit", "audio": "audio/lesson8/853.m4a" },
-        { "id": 854, "dutch": "iedereen", "english": "everybody", "audio": "audio/lesson8/854.m4a" },
-        { "id": 855, "dutch": "het verblijf", "english": "the stay", "audio": "audio/lesson8/855.m4a" },
-        { "id": 856, "dutch": "netjes", "english": "neat", "audio": "audio/lesson8/856.m4a" },
-        { "id": 857, "dutch": "schoonmaken", "english": "to clean", "audio": "audio/lesson8/857.m4a" },
-        { "id": 858, "dutch": "houden", "english": "to keep", "audio": "audio/lesson8/858.m4a" },
-        { "id": 859, "dutch": "zelf", "english": "self", "audio": "audio/lesson8/859.m4a" },
-        { "id": 860, "dutch": "de puinhoop", "english": "the mess", "audio": "audio/lesson8/860.m4a" },
-        { "id": 861, "dutch": "het afval", "english": "the garbage", "audio": "audio/lesson8/861.m4a" },
-        { "id": 862, "dutch": "weggooien", "english": "to throw away", "audio": "audio/lesson8/862.m4a" },
-        { "id": 863, "dutch": "de container", "english": "the container", "audio": "audio/lesson8/863.m4a" },
-        { "id": 864, "dutch": "het beddengoed", "english": "the bedding", "audio": "audio/lesson8/864.m4a" },
-        { "id": 865, "dutch": "de plattegrond", "english": "the map", "audio": "audio/lesson8/865.m4a" },
-        { "id": 866, "dutch": "oversteken", "english": "to cross", "audio": "audio/lesson8/866.m4a" },
-        { "id": 867, "dutch": "het merk", "english": "the brand", "audio": "audio/lesson8/867.m4a" },
-        { "id": 868, "dutch": "de ervaring", "english": "the experience", "audio": "audio/lesson8/868.m4a" },
-        { "id": 869, "dutch": "super", "english": "super", "audio": "audio/lesson8/869.m4a" },
-        { "id": 870, "dutch": "de picknick", "english": "the picnic", "audio": "audio/lesson8/870.m4a" },
-        { "id": 871, "dutch": "romantisch", "english": "romantic", "audio": "audio/lesson8/871.m4a" },
-        { "id": 872, "dutch": "eenvoudig", "english": "simple", "audio": "audio/lesson8/872.m4a" },
-        { "id": 873, "dutch": "de openingstijden", "english": "the opening hours", "audio": "audio/lesson8/873.m4a" }
+        {
+          "id": 812,
+          "dutch": "voor me",
+          "english": "for me",
+          "audio": "audio/lesson8/812.m4a"
+        },
+        {
+          "id": 813,
+          "dutch": "zullen",
+          "english": "will",
+          "audio": "audio/lesson8/813.m4a"
+        },
+        {
+          "id": 814,
+          "dutch": "de pop",
+          "english": "the doll",
+          "audio": "audio/lesson8/814.m4a"
+        },
+        {
+          "id": 815,
+          "dutch": "ander",
+          "english": "other",
+          "audio": "audio/lesson8/815.m4a"
+        },
+        {
+          "id": 816,
+          "dutch": "de informatie",
+          "english": "the information",
+          "audio": "audio/lesson8/816.m4a"
+        },
+        {
+          "id": 817,
+          "dutch": "autorijden",
+          "english": "to drive a car",
+          "audio": "audio/lesson8/817.m4a"
+        },
+        {
+          "id": 818,
+          "dutch": "studeren",
+          "english": "to study",
+          "audio": "audio/lesson8/818.m4a"
+        },
+        {
+          "id": 819,
+          "dutch": "vanmiddag",
+          "english": "this afternoon",
+          "audio": "audio/lesson8/819.m4a"
+        },
+        {
+          "id": 820,
+          "dutch": "lenen",
+          "english": "to borrow",
+          "audio": "audio/lesson8/820.m4a"
+        },
+        {
+          "id": 821,
+          "dutch": "parkeren",
+          "english": "to park",
+          "audio": "audio/lesson8/821.m4a"
+        },
+        {
+          "id": 822,
+          "dutch": "schreeuwen",
+          "english": "to shout",
+          "audio": "audio/lesson8/822.m4a"
+        },
+        {
+          "id": 823,
+          "dutch": "de rekening",
+          "english": "the bill",
+          "audio": "audio/lesson8/823.m4a"
+        },
+        {
+          "id": 824,
+          "dutch": "het eten",
+          "english": "the food",
+          "audio": "audio/lesson8/824.m4a"
+        },
+        {
+          "id": 825,
+          "dutch": "het voorstel",
+          "english": "the suggestion, the proposal",
+          "audio": "audio/lesson8/825.m4a"
+        },
+        {
+          "id": 826,
+          "dutch": "de belofte",
+          "english": "the promise",
+          "audio": "audio/lesson8/826.m4a"
+        },
+        {
+          "id": 827,
+          "dutch": "de afwas",
+          "english": "the (dirty) dishes",
+          "audio": "audio/lesson8/827.m4a"
+        },
+        {
+          "id": 828,
+          "dutch": "de afwas doen",
+          "english": "to do the dishes",
+          "audio": "audio/lesson8/828.m4a"
+        },
+        {
+          "id": 829,
+          "dutch": "de waarschijnlijkheid",
+          "english": "the probability",
+          "audio": "audio/lesson8/829.m4a"
+        },
+        {
+          "id": 830,
+          "dutch": "moe",
+          "english": "tired",
+          "audio": "audio/lesson8/830.m4a"
+        },
+        {
+          "id": 831,
+          "dutch": "te laat",
+          "english": "late",
+          "audio": "audio/lesson8/831.m4a"
+        },
+        {
+          "id": 832,
+          "dutch": "blijven",
+          "english": "1. to stay, 2. to keep",
+          "audio": "audio/lesson8/832.m4a"
+        },
+        {
+          "id": 833,
+          "dutch": "repareren",
+          "english": "to repair",
+          "audio": "audio/lesson8/833.m4a"
+        },
+        {
+          "id": 834,
+          "dutch": "bezorgen",
+          "english": "to deliver",
+          "audio": "audio/lesson8/834.m4a"
+        },
+        {
+          "id": 835,
+          "dutch": "het pakket",
+          "english": "the package",
+          "audio": "audio/lesson8/835.m4a"
+        },
+        {
+          "id": 836,
+          "dutch": "de kok",
+          "english": "the cook",
+          "audio": "audio/lesson8/836.m4a"
+        },
+        {
+          "id": 837,
+          "dutch": "gezond",
+          "english": "healthy",
+          "audio": "audio/lesson8/837.m4a"
+        },
+        {
+          "id": 838,
+          "dutch": "de telefoon",
+          "english": "the telephone",
+          "audio": "audio/lesson8/838.m4a"
+        },
+        {
+          "id": 839,
+          "dutch": "rinkelen",
+          "english": "to ring",
+          "audio": "audio/lesson8/839.m4a"
+        },
+        {
+          "id": 840,
+          "dutch": "praten",
+          "english": "to talk",
+          "audio": "audio/lesson8/840.m4a"
+        },
+        {
+          "id": 841,
+          "dutch": "de receptie",
+          "english": "the reception",
+          "audio": "audio/lesson8/841.m4a"
+        },
+        {
+          "id": 842,
+          "dutch": "de receptioniste",
+          "english": "the receptionist",
+          "audio": "audio/lesson8/842.m4a"
+        },
+        {
+          "id": 843,
+          "dutch": "één voor één",
+          "english": "one by one",
+          "audio": "audio/lesson8/843.m4a"
+        },
+        {
+          "id": 844,
+          "dutch": "mevrouw Jansen",
+          "english": "Mrs Jansen",
+          "audio": "audio/lesson8/844.m4a"
+        },
+        {
+          "id": 845,
+          "dutch": "de mevrouw",
+          "english": "the ma'am, miss",
+          "audio": "audio/lesson8/845.m4a"
+        },
+        {
+          "id": 846,
+          "dutch": "welkom",
+          "english": "welcome",
+          "audio": "audio/lesson8/846.m4a"
+        },
+        {
+          "id": 847,
+          "dutch": "Polen",
+          "english": "Poland",
+          "audio": "audio/lesson8/847.m4a"
+        },
+        {
+          "id": 848,
+          "dutch": "de reservering",
+          "english": "the reservation",
+          "audio": "audio/lesson8/848.m4a"
+        },
+        {
+          "id": 849,
+          "dutch": "delen",
+          "english": "to share",
+          "audio": "audio/lesson8/849.m4a"
+        },
+        {
+          "id": 850,
+          "dutch": "eigen",
+          "english": "own",
+          "audio": "audio/lesson8/850.m4a"
+        },
+        {
+          "id": 851,
+          "dutch": "verblijven",
+          "english": "to stay",
+          "audio": "audio/lesson8/851.m4a"
+        },
+        {
+          "id": 852,
+          "dutch": "de borg",
+          "english": "the deposit",
+          "audio": "audio/lesson8/852.m4a"
+        },
+        {
+          "id": 853,
+          "dutch": "borg betalen",
+          "english": "to pay deposit",
+          "audio": "audio/lesson8/853.m4a"
+        },
+        {
+          "id": 854,
+          "dutch": "iedereen",
+          "english": "everybody",
+          "audio": "audio/lesson8/854.m4a"
+        },
+        {
+          "id": 855,
+          "dutch": "het verblijf",
+          "english": "the stay",
+          "audio": "audio/lesson8/855.m4a"
+        },
+        {
+          "id": 856,
+          "dutch": "netjes",
+          "english": "neat",
+          "audio": "audio/lesson8/856.m4a"
+        },
+        {
+          "id": 857,
+          "dutch": "schoonmaken",
+          "english": "to clean",
+          "audio": "audio/lesson8/857.m4a"
+        },
+        {
+          "id": 858,
+          "dutch": "houden",
+          "english": "to keep",
+          "audio": "audio/lesson8/858.m4a"
+        },
+        {
+          "id": 859,
+          "dutch": "zelf",
+          "english": "self",
+          "audio": "audio/lesson8/859.m4a"
+        },
+        {
+          "id": 860,
+          "dutch": "de puinhoop",
+          "english": "the mess",
+          "audio": "audio/lesson8/860.m4a"
+        },
+        {
+          "id": 861,
+          "dutch": "het afval",
+          "english": "the garbage",
+          "audio": "audio/lesson8/861.m4a"
+        },
+        {
+          "id": 862,
+          "dutch": "weggooien",
+          "english": "to throw away",
+          "audio": "audio/lesson8/862.m4a"
+        },
+        {
+          "id": 863,
+          "dutch": "de container",
+          "english": "the container",
+          "audio": "audio/lesson8/863.m4a"
+        },
+        {
+          "id": 864,
+          "dutch": "het beddengoed",
+          "english": "the bedding",
+          "audio": "audio/lesson8/864.m4a"
+        },
+        {
+          "id": 865,
+          "dutch": "de plattegrond",
+          "english": "the map",
+          "audio": "audio/lesson8/865.m4a"
+        },
+        {
+          "id": 866,
+          "dutch": "oversteken",
+          "english": "to cross",
+          "audio": "audio/lesson8/866.m4a"
+        },
+        {
+          "id": 867,
+          "dutch": "het merk",
+          "english": "the brand",
+          "audio": "audio/lesson8/867.m4a"
+        },
+        {
+          "id": 868,
+          "dutch": "de ervaring",
+          "english": "the experience",
+          "audio": "audio/lesson8/868.m4a"
+        },
+        {
+          "id": 869,
+          "dutch": "super",
+          "english": "super",
+          "audio": "audio/lesson8/869.m4a"
+        },
+        {
+          "id": 870,
+          "dutch": "de picknick",
+          "english": "the picnic",
+          "audio": "audio/lesson8/870.m4a"
+        },
+        {
+          "id": 871,
+          "dutch": "romantisch",
+          "english": "romantic",
+          "audio": "audio/lesson8/871.m4a"
+        },
+        {
+          "id": 872,
+          "dutch": "eenvoudig",
+          "english": "simple",
+          "audio": "audio/lesson8/872.m4a"
+        },
+        {
+          "id": 873,
+          "dutch": "de openingstijden",
+          "english": "the opening hours",
+          "audio": "audio/lesson8/873.m4a"
+        }
       ]
     }
   ]
